@@ -10,7 +10,7 @@
 
         /*------------------ Erro na linha 8 chamar o professor -------------------*/
 
-        $mysqli -> query("INSERT INTO clientes (email, nome, senha, endereco, telefone, pedido) values ( '$email', '$nome', '$senha', '$endereco', '$telefone','$pedido')") or 
+        $mysqli -> query("INSERT INTO clientes (email, nome, senha, telefone, endereco, pedido) values ( '$email', '$nome', '$senha',  '$telefone','$endereco','$pedido')") or 
     die ($mysqli->error);    
     }
 

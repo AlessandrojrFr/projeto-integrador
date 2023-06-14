@@ -8,7 +8,7 @@
             $telefone = $_POST['bt_telefone'];
             $pedido = $_POST['bt_pedido'];
 
-        /*------------------ Erro na linha 8 chamar o professor -------------------*/
+
 
         $mysqli -> query("INSERT INTO clientes (email, nome, senha, telefone, endereco, pedido) values ( '$email', '$nome', '$senha',  '$telefone','$endereco','$pedido')") or 
     die ($mysqli->error);    

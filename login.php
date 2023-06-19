@@ -1,11 +1,52 @@
+<?php
+include('conexao.php');
 
+if(isset($_POST['email']) || isset($_POST['senha'])) {
+
+    if(strlen($_POST['email']) == 0){
+    echo("Preencha seu email");
+
+    }elseif(strlen($_POST['senha']) == 0){
+        echo("Preencha sua senha");
+    }else{
+        $email = $mysqli->real_escape_string($_POST['email']);
+        $senha = $mysqli->real_escape_string($_POST['senha']);
+
+        $sql_code = "SELECT * FROM cliente WHERE email = '$email' AND senha = '$senha'";
+        $sql_query = $mysqli->query($sql_code) or die("Falha na execução do código SQL" . $mysqli->error);
+
+        $quantidade = $sql_query->num_rows;
+
+        if($quantidade == 1){
+
+            $usuario = $sql_query->fetch_assoc();
+
+            if(!isset($_SESSION)){
+                session_start();
+            }
+
+            $_SESSION['id_login'] = $usuario['id_login'];
+            $_SESSION['nome'] = $usuario['nome'];
+            $_SESSION['username'] = $usuario['username'];
+            $_SESSION['email'] = $usuario['email'];
+            $_SESSION['senha'] = $usuario['senha'];
+
+
+            header("Location: nikezinho.php");   
+
+        }else{
+            echo "Falha ao logar!Email ou senha incorretos";
+        }
+    }
+}
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-wiclldth, initial-scale=1.0">
     <title>Página Inicial</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
@@ -23,7 +64,7 @@
           <h1>Login</h1> 
           <p> 
             <label for="email_login">Seu e-mail</label>
-            <input id="email_login" name="bt_email" required="required" type="text" placeholder="contato@htmlecsspro.com"/>
+            <input id="email_login" name="bt_email" required="required" type="text" placeholder="contato@nikezinho.com"/>
           </p>
           
           <p> 
@@ -37,7 +78,7 @@
           </p>
           
           <p> 
-            <input type="submit" value="Logar" /> 
+            <input type="submit" value="Logar"  />
           </p>
           
           <p class="link">

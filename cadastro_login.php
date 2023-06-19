@@ -16,7 +16,6 @@
 ?>
 
 
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -32,12 +31,12 @@
           
           <p> 
             <label for="nome_cad">Seu nome</label>
-            <input id="nome_cad" name="bt_nome" required="required" type="text" placeholder="Luiz Augusto" />
+            <input id="nome_cad" name="bt_nome" required="required" type="text" placeholder="Matheus Zanoni" />
           </p>
           
           <p> 
             <label for="email_cad">Seu e-mail</label>
-            <input id="email_cad" name="bt_email" required="required" type="email" placeholder="contato@htmlecsspro.com"/> 
+            <input id="email_cad" name="bt_email" required="required" type="email" placeholder="contato@nikeziho.com"/> 
           </p>
           
           <p> 

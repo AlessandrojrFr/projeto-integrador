@@ -1,16 +1,16 @@
 <?php
 include('conexao.php');
 
-if(isset($_POST['email']) || isset($_POST['senha'])) {
+if(isset($_POST['bt_email']) || isset($_POST['bt_senha'])) {
 
-    if(strlen($_POST['email']) == 0){
+    if(strlen($_POST['bt_email']) == 0){
     echo("Preencha seu email");
 
-    }elseif(strlen($_POST['senha']) == 0){
+    }elseif(strlen($_POST['bt_senha']) == 0){
         echo("Preencha sua senha");
     }else{
-        $email = $mysqli->real_escape_string($_POST['email']);
-        $senha = $mysqli->real_escape_string($_POST['senha']);
+        $email = $mysqli->real_escape_string($_POST['bt_email']);
+        $senha = $mysqli->real_escape_string($_POST['bt_senha']);
 
         $sql_code = "SELECT * FROM cliente WHERE email = '$email' AND senha = '$senha'";
         $sql_query = $mysqli->query($sql_code) or die("Falha na execução do código SQL" . $mysqli->error);
@@ -26,10 +26,10 @@ if(isset($_POST['email']) || isset($_POST['senha'])) {
             }
 
             $_SESSION['id_login'] = $usuario['id_login'];
-            $_SESSION['nome'] = $usuario['nome'];
+            $_SESSION['bt_nome'] = $usuario['bt_nome'];
             $_SESSION['username'] = $usuario['username'];
-            $_SESSION['email'] = $usuario['email'];
-            $_SESSION['senha'] = $usuario['senha'];
+            $_SESSION['bt_email'] = $usuario['bt_email'];
+            $_SESSION['bt_senha'] = $usuario['bt_senha'];
 
 
             header("Location: nikezinho.php");   

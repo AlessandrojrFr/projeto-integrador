@@ -73,49 +73,50 @@
   <br>
 
 
-<div class="container">
-  <div class="row">
-    <div class="col">
-    <div class="card" style="width: 18rem;">
-  <img src="img-projeto/camiseta_branca.webp" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Nike camiseta branca [+]</h5>
-    <p class="card-text">Camiseta branca da nike.</p>
-    <p>R$120</p>
-    <p></p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-    </div>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="card" style="width: 18rem;">
+          <img src="img-projeto/camiseta_branca.webp" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Nike camiseta branca [+]</h5>
+            <p class="card-text">Camiseta branca da nike.</p>
+            <p>R$120</p>
+            <p></p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
 
-    <div class="col">
-    <div class="card" style="width: 18rem;">
-  <img src="img-projeto/camiseta_f_nike.png" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Nike camiseta escura feminina [+]</h5>
-    <p class="card-text">Camiseta escura feminina unisexx.</p>
-    <p>R$150</p>
-    <p></p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-    </div>
+      <div class="col">
+        <div class="card" style="width: 18rem;">
+          <img src="img-projeto/camiseta_f_nike.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Nike camiseta escura feminina [+]</h5>
+            <p class="card-text">Camiseta escura feminina unisexx.</p>
+            <p>R$150</p>
+            <p></p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
 
-    <div class="col">
-    <div class="card" style="width: 18rem;">
-  <img src="img-projeto/camiseta_preta.webp" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Nike camiseta escura masculina [+]</h5>
-    <p class="card-text">Camiseta escura masculina da nike</p>
-    <p>R$180</p>
-    <p></p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-    </div>
+      <div class="col">
+        <div class="card" style="width: 18rem;">
+          <img src="img-projeto/camiseta_preta.webp" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Nike camiseta escura masculina [+]</h5>
+            <p class="card-text">Camiseta escura masculina da nike</p>
+            <p>R$180</p>
+            <p></p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
 
+    </div>
   </div>
-</div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </body>
+
 </html>

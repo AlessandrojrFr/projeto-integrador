@@ -21,46 +21,30 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="nikezinho.php">𝙎𝙉𝙆𝙍𝙎</a>
+            <a class="nav-link active" aria-current="page" href="nikezinho.php">INÍCIO</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="nikezinho.php"></a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Camisetas
+            CAMISETAS
             </a>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              𝙅𝙪𝙣𝙩𝙚-𝙨𝙚 𝙖 𝙣𝙤́𝙨
+              MASCULINO
             </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="cadastro.php">Cadastro</a></li>
-              <li><a class="dropdown-item" href="cadastro.php">𝑬𝒔𝒄𝒓𝒆𝒗𝒆𝒓 𝒂𝒒𝒖𝒊</a></li>
-              <li>
-                <hr class="dropdown-divider">
-              </li>
-              <li><a class="dropdown-item" href="nikezinho.php">𝑬𝒔𝒄𝒓𝒆𝒗𝒆𝒓 𝒂𝒒𝒖𝒊</a></li>
-            </ul>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Cadastrar
+              ENTRAR/CADASTRAR
             </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Cadastra- se</a></li>
-              <li><a class="dropdown-item" href="#">𝑬𝒔𝒄𝒓𝒆𝒗𝒆𝒓 𝒂𝒒𝒖𝒊</a></li>
-              <li>
-                <hr class="dropdown-divider">
-              </li>
-              <li><a class="dropdown-item" href="#">𝑬𝒔𝒄𝒓𝒆𝒗𝒆𝒓 𝒂𝒒𝒖𝒊</a></li>
-            </ul>
           </li>
 
         </ul>
         <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="𝙋𝙧𝙤𝙘𝙪𝙧𝙖𝙧" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">𝙋𝙧𝙤𝙘𝙪𝙧𝙖𝙧</button>
+          <input class="form-control me-2" type="search" placeholder="Fale Conosco" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">AJUDA</button>
         </form>
       </div>
     </div>
@@ -68,7 +52,7 @@
   <br>
 
   <div id="camiseta">
-    <img src="tout-corinthians-13-04-desk.avif" alt="...">
+    <img src="img-projeto/tout-corinthians-13-04-desk.avif" alt="...">
   </div>
   <br>
 
@@ -77,45 +61,54 @@
     <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto/camiseta_branca.webp" class="card-img-top" alt="...">
+          <img src="img-projeto/timao.avif" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Nike camiseta branca [+]</h5>
-            <p class="card-text">Camiseta branca da nike.</p>
-            <p>R$120</p>
-            <p></p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">Camiseta Nike Corinthias II</h5>
+            <h5 class="card-title">23/24 Torcedora Pro</h5>
+            <p>Masculina</p>
+            <p>Futebol</p>
+            <h2>R$ 299,99</h2>
           </div>
         </div>
       </div>
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto/camiseta_f_nike.png" class="card-img-top" alt="...">
+          <img src="img-projeto/brasil.avif" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Nike camiseta escura feminina [+]</h5>
-            <p class="card-text">Camiseta escura feminina unisexx.</p>
-            <p>R$150</p>
-            <p></p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">Camiseta Nike Brasil I 23/25</h5>
+            <h5 class="card-title">Torcedor Pro Masculina</h5>
+            <p>Futebol</p>
+            <p>Unisex</p>
+            <h2>R$ 349,99 </h2>
           </div>
         </div>
       </div>
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto/camiseta_preta.webp" class="card-img-top" alt="...">
+          <img src="img-projeto/BARCELONA.avif" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Nike camiseta escura masculina [+]</h5>
-            <p class="card-text">Camiseta escura masculina da nike</p>
-            <p>R$180</p>
-            <p></p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">Camiseta Nike Barcelona I</h5>
+            <h5>23/24 Torcedora Pro</h5>
+            <p class="card-text"> Masculina</p>
+            <p>Futebol</p>
+            <h2>R$ 399,59</h2>
+          
           </div>
         </div>
       </div>
 
     </div>
   </div>
+  <br>
+  <br>
+  <br>
+  <h1>Lançamentos</h1>
+  <div id="lançamento">
+    <img src="img-projeto/tout-gamma-force-05.06-desk-v2.avif" alt="...">
+</div>
+ 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </body>
 

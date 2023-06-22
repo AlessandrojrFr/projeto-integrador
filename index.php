@@ -34,22 +34,16 @@
             <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               MASCULINO
             </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="cadastro.php">ENTRAR</a></li>
-            </ul>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               CADASTRAR
             </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="cadastro.php">LOJA</a></li>
-            </ul>
           </li>
 
         </ul>
         <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Ajuda..." aria-label="Search">
+          <input class="form-control me-2" type="search" placeholder="Fale Conosco" aria-label="Search">
           <button class="btn btn-outline-success" type="submit">AJUDA</button>
         </form>
       </div>
@@ -70,10 +64,10 @@
           <img src="img-projeto/timao.avif" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Corinthias II</h5>
-            <p class="card-text">23/24 Torcedora Pro</p>
+            <h5 class="card-title">23/24 Torcedora Pro</h5>
             <p>Masculina</p>
             <p>Futebol</p>
-           <p>R$ 299,99</p>
+            <h2>R$ 299,99</h2>
           </div>
         </div>
       </div>
@@ -83,9 +77,10 @@
           <img src="img-projeto/brasil.avif" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Brasil I 23/25</h5>
-            <p class="card-text">Torcedor Pro Masculina</p>
+            <h5 class="card-title">Torcedor Pro Masculina</h5>
             <p>Futebol</p>
-            <p>R$ 349,99 </p>
+            <p>Unisex</p>
+            <h2>R$ 349,99 </h2>
           </div>
         </div>
       </div>
@@ -98,7 +93,7 @@
             <h5>23/24 Torcedora Pro</h5>
             <p class="card-text"> Masculina</p>
             <p>Futebol</p>
-            <p>R$ 399,59</p>
+            <h2>R$ 399,59</h2>
           
           </div>
         </div>

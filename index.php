@@ -28,7 +28,7 @@
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Camisetas
+            CAMISETAS
             </a>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -40,7 +40,7 @@
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Cadastrar
+              CADASTRAR
             </a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="cadastro.php">LOJA</a></li>
@@ -92,13 +92,13 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto/camiseta_preta.webp" class="card-img-top" alt="...">
+          <img src="img-projeto/BARCELONA.avif" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Nike camiseta escura masculina</h5>
-            <p class="card-text">Camiseta nike Dri-FIT</p>
-            <p>Hyverse Masculina</p>
-            <p>Treino & academia</p>
-            <p>R$ 159,99 R$ 279,59</p>
+            <h5 class="card-title">Camiseta Nike Barcelona I</h5>
+            <h5>23/24 Torcedora Pro</h5>
+            <p class="card-text"> Masculina</p>
+            <p>Futebol</p>
+            <p>R$ 399,59</p>
           
           </div>
         </div>

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-    <link rel="stylesheet" href="cadastro.css">
+    <link rel="stylesheet" href="pagamento.css">
     <title>Document</title>
 </head>
 <body>
@@ -68,76 +68,56 @@
   <br>
   <br>
 
-<form>
-<div class="container">
-    <div class="row">
-        <div class="col">
-        <h1>𝗦𝗨𝗔 𝗖𝗢𝗡𝗧𝗔 𝗣𝗔𝗥𝗔 𝗧𝗨𝗗𝗢 𝗗𝗔</h1>
-        <h2>𝙉𝙄𝙆𝙀</h2>
-        <form>
-  <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">𝙀𝙣𝙙𝙚𝙧𝙚𝙘̧𝙤 𝙙𝙚 𝙚-𝙢𝙖𝙞𝙡</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-    <div id="emailHelp" class="form-text">𝘼𝙤 𝙛𝙖𝙯𝙚𝙧 𝙡𝙤𝙜𝙞𝙣, 𝙫𝙤𝙘𝙚̂ 𝙘𝙤𝙣𝙘𝙤𝙧𝙙𝙖 𝙘𝙤𝙢 𝙖 𝙥𝙤𝙡𝙞́𝙩𝙞𝙘𝙖 𝙙𝙚 𝙥𝙧𝙞𝙫𝙖𝙘𝙞𝙙𝙖𝙙𝙚 𝙚 𝙘𝙤𝙢 𝙤𝙨 𝙩𝙚𝙧𝙢𝙤𝙨 𝙙𝙚 𝙪𝙨𝙤 𝙙𝙤 projeto_integrador.com</div>
-  </div>
-  <div class="mb-3">
-    <label for="exampleInputPassword1" class="form-label">𝙎𝙚𝙣𝙝𝙖</label>
-    <input type="password" class="form-control" id="exampleInputPassword1">
-  </div>
-  <div class="mb-3 form-check">
-    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-    <label class="form-check-label" for="exampleCheck1">𝙈𝙖𝙣𝙩𝙚𝙣𝙝𝙖-𝙢𝙚 𝙘𝙤𝙣𝙚𝙘𝙩𝙖𝙙𝙤</label>
-  </div>
-  <button type="submit" class="btn btn-dark">𝗘𝗡𝗧𝗥𝗔𝗥</button>
-        </form>
-
-        </div>
-    </div>
-</div>
-
-
 <h1>
   Tela de pagamento
 </h1>
-
 <div class="card" style="width: 18rem;">
-  <img src="img-projeto/timao.avif" class="card-img-top" alt="...">
-
-</div>
-
-<div class="card" style="width: 18rem;">
-  <img src="img-projeto/brasil.jpg" class="card-img-top" alt="...">
+  <img src="img-projeto/0257510LA2.avif" class="card-img-top" alt="...">
   
 </div>
 
 
 <div class="card" style="width: 18rem;">
-  <img src="img-projeto/BARCELONA1.jpg" class="card-img-top" alt="...">
+  <img src="img-projeto/0257510LA8.aviff" class="card-img-top" alt="...">
+
+</div>
+
+<div class="card" style="width: 18rem;">
+  <img src="img-projeto/0257510LA4.avif" class="card-img-top" alt="...">
+  
+</div>
+
+
+<div class="card" style="width: 18rem;">
+  <img src="img-projeto/0257510LA5.avif" class="card-img-top" alt="...">
 
 </div>
 
 
 <div class="card" style="width: 18rem;">
-  <img src="img-projeto/BARCELONA.avif" class="card-img-top" alt="...">
+  <img src="img-projeto/0257510LA6.avif" class="card-img-top" alt="...">
 
 </div>
 
+<div class="col">
 <div class="row"> 
+
 <h1>Camisa Nike Brasil I
   2023/25 Torcedor Pro
-  Masculina</h1>
-  <h4>Futebol</h4>
+  Masculina
+</h1>
+
+  <h4>Futebol
+
+  </h4>
+  
+  </div>
+</div>
 <div aria-hidden="true" class="pr-rating-stars"><div class="pr-star-v4 pr-star-v4-0-filled"></div><div class="pr-star-v4 pr-star-v4-0-filled"></div><div class="pr-star-v4 pr-star-v4-0-filled"></div><div class="pr-star-v4 pr-star-v4-0-filled"></div><div class="pr-star-v4 pr-star-v4-0-filled"></div></div>
 
 <h2>Tamanho</h2>
-<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
-<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
-<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
-<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
-<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
-<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
-<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
-<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
+
+
 <button data-testid="button-cta-add-cart-mobile" class="ButtonFill__StyledButton-sc-d418d4ee-0 hYCukR">Adicionar ao carrinho</button>
 
 

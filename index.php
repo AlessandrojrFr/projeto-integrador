@@ -36,8 +36,13 @@
             </a>
           </li>
           <li class="nav-item dropdown">
+<<<<<<< HEAD
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               ENTRAR/CADASTRAR
+=======
+            <a class="nav-link dropdown-toggle" href="cadastro_login.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              CADASTRAR
+>>>>>>> e7ffa769897dbb5ab6fa72bd2f0890a17be0ef4e
             </a>
           </li>
 

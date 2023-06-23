@@ -108,6 +108,48 @@
   <div id="lançamento">
     <img src="img-projeto/tout-gamma-force-05.06-desk-v2.avif" alt="...">
 </div>
+<footer class="main_footer container">
+    
+    <div class="content">
+        <div class="colfooter">
+            
+            <h3 class="titleFooter"> Menu</h3>
+            
+            <ul>
+            
+              <li><a href="#" title="Página Inícial">Página Inícial</a></li>
+              <li><a href="#" title="Sobre a Empresa">Sobre a Empresa</a></li>
+              <li><a href="#" title="Galeria de Fotos">Galeria de Fotos</a></li>
+              <li><a href="#" title="Fale Conosco">Fale Conosco</a></li>
+            
+            </ul>
+        </div><!--Col Footer 1-->        
+        <div class="colfooter">
+           
+           <h3 class="titleFooter"> Contato</h3>
+           <p><i class="icon icon-mail"></i> contato@seusite.com.br</p>
+           <p><i class="icon icon-phone"></i> 21 90000-0000</p>
+           <p><i class="icon icon-whatsapp"></i> 21 90000-0000</p>
+        </div><!--Col Footer 2-->
+        <div class="colfooter">
+           
+           <h3 class="titleFooter"> Redes Sociais</h3>
+            
+           <a href="#" class="botao"><span> <i class="icon icon-facebook"></i> </span></a>            
+           <a href="#" class="botao"><span> <i class="icon icon-instagram"></i> </span></a>            
+           <a href="#" class="botao"><span> <i class="icon icon-twitter"></i> </span></a>            
+           <a href="#" class="botao"><span> <i class="icon icon-pinterest"></i> </span></a>            
+        </div><!--Col Footer 3-->
+        <div class="clear"></div>
+    
+    </div><!--Contant-->
+    <div class="main_footer_copy">
+        
+        <p class="m-b-footer"> Seusite - 2021, todos os direitos reservados.</p> 
+        <p class="by"><i class="icon icon-heart-3"></i> Desenvolvido por: <a href="#" title="Seu nome">Seu nome aqui</a></p>
+    
+    </div>
+</footer>
  
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </body>

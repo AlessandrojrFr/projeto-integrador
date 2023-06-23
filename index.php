@@ -36,13 +36,8 @@
             </a>
           </li>
           <li class="nav-item dropdown">
-<<<<<<< HEAD
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              ENTRAR/CADASTRAR
-=======
             <a class="nav-link dropdown-toggle" href="cadastro_login.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               CADASTRAR
->>>>>>> e7ffa769897dbb5ab6fa72bd2f0890a17be0ef4e
             </a>
           </li>
 
@@ -69,17 +64,10 @@
           <img src="img-projeto/timao.avif" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Corinthias II</h5>
-<<<<<<< HEAD
-            <p class="card-text">23/24 Torcedora Pro</p>
-            <p>Masculina</p>
-            <p>Futebol</p>
-           <p>R$ 299,99</p>
-=======
             <h5 class="card-title">23/24 Torcedora Pro</h5>
             <p>Masculina</p>
             <p>Futebol</p>
             <h2>R$ 299,99</h2>
->>>>>>> main
           </div>
         </div>
       </div>
@@ -89,31 +77,16 @@
           <img src="img-projeto/brasil.avif" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Brasil I 23/25</h5>
-<<<<<<< HEAD
-            <p class="card-text">Torcedor Pro Masculina</p>
-            <p>Futebol</p>
-            <p>R$ 349,99 </p>
-=======
             <h5 class="card-title">Torcedor Pro Masculina</h5>
             <p>Futebol</p>
             <p>Unisex</p>
             <h2>R$ 349,99 </h2>
->>>>>>> main
           </div>
         </div>
       </div>
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-<<<<<<< HEAD
-          <img src="img-projeto/camiseta_preta.webp" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Nike camiseta escura masculina</h5>
-            <p class="card-text">Camiseta nike Dri-FIT</p>
-            <p>Hyverse Masculina</p>
-            <p>Treino & academia</p>
-            <p>R$ 159,99 R$ 279,59</p>
-=======
           <img src="img-projeto/BARCELONA.avif" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Barcelona I</h5>
@@ -121,7 +94,6 @@
             <p class="card-text"> Masculina</p>
             <p>Futebol</p>
             <h2>R$ 399,59</h2>
->>>>>>> main
           
           </div>
         </div>

@@ -64,6 +64,10 @@
       </div>
     </div>
   </nav>
+  <br>
+  <br>
+  <br>
+
 <form>
 <div class="container">
     <div class="row">
@@ -90,5 +94,53 @@
         </div>
     </div>
 </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+
+
+<h1>
+  Tela de pagamento
+</h1>
+
+<div class="card" style="width: 18rem;">
+  <img src="img-projeto/timao.avif" class="card-img-top" alt="...">
+
+</div>
+
+<div class="card" style="width: 18rem;">
+  <img src="img-projeto/brasil.jpg" class="card-img-top" alt="...">
+  
+</div>
+
+
+<div class="card" style="width: 18rem;">
+  <img src="img-projeto/BARCELONA1.jpg" class="card-img-top" alt="...">
+
+</div>
+
+
+<div class="card" style="width: 18rem;">
+  <img src="img-projeto/BARCELONA.avif" class="card-img-top" alt="...">
+
+</div>
+
+<div class="row"> 
+<h1>Camisa Nike Brasil I
+  2023/25 Torcedor Pro
+  Masculina</h1>
+  <h4>Futebol</h4>
+<div aria-hidden="true" class="pr-rating-stars"><div class="pr-star-v4 pr-star-v4-0-filled"></div><div class="pr-star-v4 pr-star-v4-0-filled"></div><div class="pr-star-v4 pr-star-v4-0-filled"></div><div class="pr-star-v4 pr-star-v4-0-filled"></div><div class="pr-star-v4 pr-star-v4-0-filled"></div></div>
+
+<h2>Tamanho</h2>
+<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
+<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
+<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
+<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
+<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
+<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
+<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
+<img alt="0257510L" sizes="(min-width: 1205px) 10vw, (min-width: 1025px) 10vw, 15vw" srcset="https://imgnike-a.akamaihd.net/48x48/0257510L.jpg 48w, https://imgnike-a.akamaihd.net/80x80/0257510L.jpg 80w, https://imgnike-a.akamaihd.net/120x120/0257510L.jpg 120w, https://imgnike-a.akamaihd.net/250x250/0257510L.jpg 250w, https://imgnike-a.akamaihd.net/360x360/0257510L.jpg 360w, https://imgnike-a.akamaihd.net/768x768/0257510L.jpg 768w, https://imgnike-a.akamaihd.net/1024x1024/0257510L.jpg 1024w, https://imgnike-a.akamaihd.net/1366x1366/0257510L.jpg 1366w, https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg 1920w" src="https://imgnike-a.akamaihd.net/1920x1920/0257510L.jpg" decoding="async" data-nimg="responsive" class="ProductImage__ProductImageStyled-sc-1a08f717-0 dNDpIv" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;">
+<button data-testid="button-cta-add-cart-mobile" class="ButtonFill__StyledButton-sc-d418d4ee-0 hYCukR">Adicionar ao carrinho</button>
+
+
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </html>

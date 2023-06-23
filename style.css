@@ -220,4 +220,7 @@ body{
       transform: translateX(-20px);
     }
     }
+    body{
+      background-image: url('img-projeto/tout-corinthians-13-04-desk.avif');
+   }
     

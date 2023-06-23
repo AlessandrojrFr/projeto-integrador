@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Infantil nike ujhbjbjh</title>
+  <title>Infantil nike ujhbjbjha</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
   <link rel="stylesheet" href="nikezinho.css">
 </head>
@@ -87,7 +87,11 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
+<<<<<<< HEAD
           <img src="img-projeto/BARCELONA1.jpg" class="card-img-top" alt="...">
+=======
+          <img src="img-projeto/BARCELONA.avif" class="card-img-top" alt="...">
+>>>>>>> ab7ef35e873b5a882373fbfd688ca90161ecc203
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Barcelona I</h5>
             <h5>23/24 Torcedora Pro</h5>
@@ -101,6 +105,14 @@
 
     </div>
   </div>
+  <br>
+  <br>
+  <br>
+  <h1>Lançamentos</h1>
+  <div id="lançamento">
+    <img src="img-projeto/tout-gamma-force-05.06-desk-v2.avif" alt="...">
+</div>
+ 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </body>
 

@@ -74,7 +74,7 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto/brasil.avif" class="card-img-top" alt="...">
+          <img src="img-projeto/brasil.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Brasil I 23/25</h5>
             <h5 class="card-title">Torcedor Pro Masculina</h5>

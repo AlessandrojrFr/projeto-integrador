@@ -4,9 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Infantil nike ujhbjbjh</title>
+  <title>Página inicial</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
-  <link rel="stylesheet" href="nikezinho.css">
+  <link rel="stylesheet" href="masculino.css">
 </head>
 
 <body>
@@ -28,32 +28,30 @@
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Camisetas
+            𝐂𝐚𝐦𝐢𝐬𝐞𝐭𝐚𝐬
             </a>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               𝙅𝙪𝙣𝙩𝙚-𝙨𝙚 𝙖 𝙣𝙤́𝙨
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="cadastro.php">Cadastro</a></li>
-              <li><a class="dropdown-item" href="cadastro.php">𝑬𝒔𝒄𝒓𝒆𝒗𝒆𝒓 𝒂𝒒𝒖𝒊</a></li>
+            <li><a class="dropdown-item" href="cadastro.php">Fazer cadastro</a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>
-              <li><a class="dropdown-item" href="nikezinho.php">𝑬𝒔𝒄𝒓𝒆𝒗𝒆𝒓 𝒂𝒒𝒖𝒊</a></li>
+              <li><a class="dropdown-item" href="nikezinho.php">Ajuda</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Cadastrar
+            𝐎𝐟𝐞𝐫𝐭𝐚𝐬
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Cadastra- se</a></li>
-              <li><a class="dropdown-item" href="#">𝑬𝒔𝒄𝒓𝒆𝒗𝒆𝒓 𝒂𝒒𝒖𝒊</a></li>
+              <li><a class="dropdown-item" href="#">Promoção</a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>
-              <li><a class="dropdown-item" href="#">𝑬𝒔𝒄𝒓𝒆𝒗𝒆𝒓 𝒂𝒒𝒖𝒊</a></li>
+              <li><a class="dropdown-item" href="#">Lançamentos</a></li>
             </ul>
           </li>
 
@@ -66,37 +64,20 @@
     </div>
   </nav>
   <br>
-
-  <div id="camiseta">
-    <img src="tout-corinthians-13-04-desk.avif" alt="...">
-  </div>
-  <br>
-
-
+<center><h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐂𝐀𝐌𝐈𝐒𝐀𝐒 𝐍𝐈𝐊𝐄 𝐏𝐑𝐎 𝐂𝐎𝐎𝐋</h1></center>
+<br>
+<br>
 <div class="container">
   <div class="row">
     <div class="col">
     <div class="card" style="width: 18rem;">
   <img src="img-projeto/camiseta_branca.webp" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Nike camiseta branca [+]</h5>
-    <p class="card-text">Camiseta branca da nike.</p>
-    <p>R$120</p>
+    <h5 class="card-title">CAMISETA NIKE PRO COOL TOP MANGA CURTA MASCULINA BRANCA</h5>
+    <p class="card-text">Camiseta em destaque na página inicial.</p>
+    <p>R$ 89,99</p>
     <p></p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-    </div>
-
-    <div class="col">
-    <div class="card" style="width: 18rem;">
-  <img src="img-projeto/camiseta_f_nike.png" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Nike camiseta escura feminina [+]</h5>
-    <p class="card-text">Camiseta escura feminina unisexx.</p>
-    <p>R$150</p>
-    <p></p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
   </div>
 </div>
     </div>
@@ -105,11 +86,197 @@
     <div class="card" style="width: 18rem;">
   <img src="img-projeto/camiseta_preta.webp" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Nike camiseta escura masculina [+]</h5>
-    <p class="card-text">Camiseta escura masculina da nike</p>
-    <p>R$180</p>
+    <h5 class="card-title">CAMISETA NIKE PRO COOL TOP MANGA CURTA MASCULINA PRETA</h5>
+    <p class="card-text">Camiseta em destaque na página inicial.</p>
+    <p>R$ 109,90</p>
     <p></p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Camiseta feminina branca(2).jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">CAMISETA NIKE PRO COOL TOP MANGA CURTA FEMININA BRANCA</h5>
+    <p class="card-text">Camiseta em destaque na página inicial.</p>
+    <p>R$ 89,99</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Camiseta feminina black(2).jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">CAMISETA NIKE PRO COOL TOP MANGA CURTA FEMININA PRETA</h5>
+    <p class="card-text">Camiseta em destaque na página inicial.</p>
+    <p>R$ 109,90</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <center><h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐂𝐀𝐌𝐈𝐒𝐀𝐒 𝐒𝐏𝐎𝐑𝐓𝐒𝐖𝐄𝐀𝐑 𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋 𝐈𝐂𝐎𝐍</h1></center>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Masculina branca.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA MASCULINA BRANCA</h5>
+    <p class="card-text">Camiseta em destaque na página inicial.</p>
+    <p>R$ 89,99</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Masculina preta.jpeg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA MASCULINA PRETA</h5>
+    <p class="card-text">Camiseta em destaque na página inicial.</p>
+    <p>R$ 109,90</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Camiseta feminina branca.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA FEMININA BRANCA</h5>
+    <p class="card-text">Camiseta em destaque na página inicial.</p>
+    <p>R$ 89,99</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA FEMININA PRETA</h5>
+    <p class="card-text">Camiseta em destaque na página inicial.</p>
+    <p>R$ 109,90</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <center><h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐒𝐇𝐎𝐑𝐓𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐎𝐒 𝐌𝐀𝐒𝐂𝐔𝐋𝐈𝐍𝐎𝐒</h1></center>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Teste.avif" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">CALÇÃO NIKE DRI-FIT PARK III NB K 21 - Júnior - BLACK</h5>
+    <p class="card-text">Shorts em destaques na página inicial.</p>
+    <p>R$ 209,90</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Teste1.avif" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">CALÇÃO NIKE DRI-FIT PARK III NB K 21 - Júnior - AZUL</h5>
+    <p class="card-text">Shorts em destaques na página inicial.</p>
+    <p>R$ 199,90</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Teste2.webp" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">CALÇÃO NIKE CBF BRASIL 22/23 Torcedor</h5>
+    <p class="card-text">Shorts em destaques na página inicial.</p>
+    <p>R$ 209,90</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">Opção de compra</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Teste3.webp" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">CALÇÃO NIKE HBR 2.0 MASCULINA</h5>
+    <p class="card-text">Shorts em destaques na página inicial.</p>
+    <p>R$ 199,90</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title"></h5>
+    <p class="card-text">Shorts em destaques na página inicial.</p>
+    <p>R$ 209,90</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title"></h5>
+    <p class="card-text">Shorts em destaques na página inicial.</p>
+    <p>R$ 309,99</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title"></h5>
+    <p class="card-text">Shorts em destaques na página inicial.</p>
+    <p>R$ 209,90</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+  </div>
+</div>
+    </div>
+
+    <div class="col">
+    <div class="card" style="width: 18rem;">
+  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title"></h5>
+    <p class="card-text">Shorts em destaques na página inicial.</p>
+    <p>R$ 309,99</p>
+    <p></p>
+    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
   </div>
 </div>
     </div>

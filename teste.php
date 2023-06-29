@@ -15,11 +15,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="meu.css">
     <title>Document</title>
+
 </head>
 <body>
     <h1>Usuário logado</h1>
 
-    <a href="sair.php">Sair</a>
+    <body>
+   
 </body>
 </html>

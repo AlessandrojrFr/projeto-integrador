@@ -45,7 +45,7 @@ body{
     margin: 10px;
     }
     label{
-    color: #405c60;
+    color: #000000;
     position: relative;
     }
     
@@ -90,7 +90,7 @@ body{
     font-size: 20px;  
     border: 1px solid #fff; 
     margin-bottom: 10px;  
-    text-shadow: 0 1px 1px #333;
+    text-shadow: 0 1px 1px #000000;
     
     -webkit-border-radius: 5px;
     border-radius: 5px;
@@ -98,7 +98,7 @@ body{
     transition: all 0.2s linear;
     }
     input[type="submit"]:hover{
-    background: #4ab3c6;
+    background: #000000;
     }
     
     /*marcando os links para mudar de um formulário para outro */

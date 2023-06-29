@@ -6,9 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Página inicial</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
-  <link rel="stylesheet" href="masculino.css">
+ <link rel="stylesheet" href="nikezinho.css">
 </head>
-
 <body>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
@@ -64,7 +63,7 @@
     </div>
   </nav>
   <br>
-<center><h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐂𝐀𝐌𝐈𝐒𝐀𝐒 𝐍𝐈𝐊𝐄 𝐏𝐑𝐎 𝐂𝐎𝐎𝐋</h1></center>
+<h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐂𝐀𝐌𝐈𝐒𝐀𝐒 𝐍𝐈𝐊𝐄 𝐏𝐑𝐎 𝐂𝐎𝐎𝐋</h1>
 <br>
 <br>
 <div class="container">
@@ -77,7 +76,7 @@
     <p class="card-text">Camiseta em destaque na página inicial.</p>
     <p>R$ 89,99</p>
     <p></p>
-    <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+    <a href="#" class="btn btn-primary">Comprar</a>
   </div>
 </div>
     </div>
@@ -121,11 +120,11 @@
 </div>
     </div>
 
-    <center><h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐂𝐀𝐌𝐈𝐒𝐀𝐒 𝐒𝐏𝐎𝐑𝐓𝐒𝐖𝐄𝐀𝐑 𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋 𝐈𝐂𝐎𝐍</h1></center>
+   <h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐂𝐀𝐌𝐈𝐒𝐀𝐒 𝐒𝐏𝐎𝐑𝐓𝐒𝐖𝐄𝐀𝐑 𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋 𝐈𝐂𝐎𝐍</h1>
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Masculina branca.jpeg" class="card-img-top" alt="...">
+    <img src="img-projeto/Masculina branca.jpeg" alt="">
   <div class="card-body">
     <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA MASCULINA BRANCA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
@@ -175,7 +174,7 @@
 </div>
     </div>
 
-    <center><h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐒𝐇𝐎𝐑𝐓𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐎𝐒 𝐌𝐀𝐒𝐂𝐔𝐋𝐈𝐍𝐎𝐒</h1></center>
+    <h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐒𝐇𝐎𝐑𝐓𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐎𝐒 𝐌𝐀𝐒𝐂𝐔𝐋𝐈𝐍𝐎𝐒</h1>
 
     <div class="col">
     <div class="card" style="width: 18rem;">

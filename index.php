@@ -28,7 +28,7 @@
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            CAMISETAS
+              CAMISETAS
             </a>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -92,7 +92,7 @@
             <p class="card-text"> Masculina</p>
             <p>Futebol</p>
             <h2>R$ 399,59</h2>
-          
+
           </div>
         </div>
       </div>
@@ -105,8 +105,8 @@
   <h1>Lançamentos</h1>
   <div id="lançamento">
     <img src="img-projeto/tout-gamma-force-05.06-desk-v2.avif" alt="...">
-</div>
- 
+  </div>
+
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </body>
 

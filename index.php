@@ -99,7 +99,6 @@
   <br>
   <br>
   <br>
-  <h1>Lançamentos</h1>
   <div id="lançamento">
     <img src="img-projeto/tout-gamma-force-05.06-desk-v2.avif" alt="...">
 </div>

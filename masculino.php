@@ -63,14 +63,14 @@
     </div>
   </nav>
   <br>
-<h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐂𝐀𝐌𝐈𝐒𝐀𝐒 𝐍𝐈𝐊𝐄 𝐏𝐑𝐎 𝐂𝐎𝐎𝐋</h1>
+
 <br>
 <br>
 <div class="container">
   <div class="row">
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/camiseta_branca.webp" class="card-img-top" alt="...">
+  <img src="img-projeto/brasilfeminina - Copia.avif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CAMISETA NIKE PRO COOL TOP MANGA CURTA MASCULINA BRANCA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
@@ -84,7 +84,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/camiseta_preta.webp" class="card-img-top" alt="...">
+  <img src="img-projeto/brasil.avif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CAMISETA NIKE PRO COOL TOP MANGA CURTA MASCULINA PRETA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>

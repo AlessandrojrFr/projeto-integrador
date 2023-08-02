@@ -20,23 +20,21 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="nikezinho.php">INÍCIO</a>
+            <a class="nav-link active" aria-current="page" href="masculino.php">INÍCIO</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="nikezinho.php"></a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="masculino.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             CAMISETAS
             </a>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="cadastro_login.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               MASCULINO
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="login.php">CADASTRAR</a>
-          </li>
+  
 
         </ul>
         <form class="d-flex" role="search">

@@ -20,7 +20,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="nikezinho.php">𝙎𝙉𝙆𝙍𝙎</a>
+            <a class="nav-link active" aria-current="page" href="index.php">𝙎𝙉𝙆𝙍𝙎</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="nikezinho.php"></a>
@@ -76,6 +76,7 @@
     <p class="card-text">Camiseta em destaque na página inicial.</p>
     <p>R$ 89,99</p>
     <p></p>
+    <p></p>
     <a href="#" class="btn btn-primary">Comprar</a>
   </div>
 </div>
@@ -88,6 +89,7 @@
     <h5 class="card-title">CAMISETA NIKE PRO COOL TOP MANGA CURTA MASCULINA PRETA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
     <p>R$ 109,90</p>
+    <p></p>
     <p></p>
     <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
   </div>
@@ -102,6 +104,7 @@
     <p class="card-text">Camiseta em destaque na página inicial.</p>
     <p>R$ 89,99</p>
     <p></p>
+    <p></p>
     <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
   </div>
 </div>
@@ -115,6 +118,7 @@
     <p class="card-text">Camiseta em destaque na página inicial.</p>
     <p>R$ 109,90</p>
     <p></p>
+    <p></p>
     <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
   </div>
 </div>
@@ -124,9 +128,9 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-    <img src="img-projeto/Masculina branca.jpeg" alt="">
+    <img src="img-projeto/portugal.avif" alt="">
   <div class="card-body">
-    <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA MASCULINA BRANCA</h5>
+    <h5 class="card-title">CAMISETA DE PORTUGAL MANGA CURTA MASCULINA BRANCA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
     <p>R$ 89,99</p>
     <p></p>
@@ -137,9 +141,9 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Masculina preta.jpeg" class="card-img-top" alt="...">
+  <img src="img-projeto/paris.avif" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA MASCULINA PRETA</h5>
+    <h5 class="card-title">CAMISETA NIKE MASCULINA PRETA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
     <p>R$ 109,90</p>
     <p></p>
@@ -150,9 +154,9 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina branca.jpg" class="card-img-top" alt="...">
+  <img src="img-projeto/BARCELONA.avif" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA FEMININA BRANCA</h5>
+    <h5 class="card-title">CAMISETA NIKE DO BARCELONA 22/23</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
     <p>R$ 89,99</p>
     <p></p>
@@ -163,10 +167,11 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <img src="img-projeto/parisfeminino.avif" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA FEMININA PRETA</h5>
+    <h5 class="card-title">CAMISETA NIKE PSG  22/23</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
+    <p>Torcedor Pro</p>
     <p>R$ 109,90</p>
     <p></p>
     <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
@@ -178,9 +183,10 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Teste.avif" class="card-img-top" alt="...">
+  <img src="img-projeto/shorttzfeminino.avif" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">CALÇÃO NIKE DRI-FIT PARK III NB K 21 - Júnior - BLACK</h5>
+    <h5 class="card-title">Shorts Nike Corinthias I 22/23</h5>
+    <p>Torcedor Pro</p>
     <p class="card-text">Shorts em destaques na página inicial.</p>
     <p>R$ 209,90</p>
     <p></p>
@@ -191,7 +197,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Teste1.avif" class="card-img-top" alt="...">
+  <img src="img-projeto/shortssnike.avif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CALÇÃO NIKE DRI-FIT PARK III NB K 21 - Júnior - AZUL</h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -204,7 +210,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Teste2.webp" class="card-img-top" alt="...">
+  <img src="img-projeto/shortssnikebrasil.avif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CALÇÃO NIKE CBF BRASIL 22/23 Torcedor</h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -217,9 +223,9 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Teste3.webp" class="card-img-top" alt="...">
+  <img src="img-projeto/0147207T.avif" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">CALÇÃO NIKE HBR 2.0 MASCULINA</h5>
+    <h5 class="card-title">Shorts Nike Dri I Fit</h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
     <p>R$ 199,90</p>
     <p></p>
@@ -230,7 +236,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <img src="img-projeto/talarico - Copia.webp" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title"></h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -243,7 +249,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <img src="img-projeto/zanoni.avif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title"></h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -256,7 +262,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <img src="img-projeto/zere.avif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title"></h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -269,7 +275,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <img src="img-projeto/alessandro.avif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title"></h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>

@@ -58,7 +58,7 @@
     <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto/timao.avif" class="card-img-top" alt="...">
+          <img src="img-projeto2/branca1 - Copia.png" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Corinthias II</h5>
             <h5 class="card-title">23/24 Torcedora Pro</h5>

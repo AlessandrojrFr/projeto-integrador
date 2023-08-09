@@ -65,7 +65,7 @@ if(isset($_POST['bt_email']) || isset($_POST['bt_senha'])) {
     <div class="content">
 
       <div id="login">
-        <form method="post" action="">
+        <form method="post" action="index.php">
           <h1>Login</h1>
           <p>
             <label for="email_login">Seu e-mail</label>

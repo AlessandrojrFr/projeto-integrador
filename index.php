@@ -65,7 +65,7 @@
             <h5 class="card-title">23/24 Torcedora Pro</h5>
             <p>Masculina</p>
             <p>Futebol</p>
-            <h2>R$ 299,99</h2>
+            <h2> <a href="pagamento.php">R$ 299,99</a> </h2>
           </div>
         </div>
       </div>

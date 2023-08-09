@@ -40,17 +40,13 @@
           </li>
 
         </ul>
-        <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Fale Conosco" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">AJUDA</button>
-        </form>
       </div>
     </div>
   </nav>
   <br>
 
   <div id="camiseta">
-    <img src="img-projeto/tout-corinthians-13-04-desk.avif" alt="...">
+    <img src="img-projeto2/tout-corinthians-13-04-desk.avif" alt="...">
   </div>
   <br>
 

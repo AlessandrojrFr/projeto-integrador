@@ -58,7 +58,7 @@
     <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto2/branca1 - Copia.png" class="card-img-top" alt="...">
+          <img src="img-projeto2/imagem1br - Copia.png" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Corinthias II</h5>
             <h5 class="card-title">23/24 Torcedora Pro</h5>
@@ -71,7 +71,7 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto/brasil.jpg" class="card-img-top" alt="...">
+          <img src="img-projeto2/pequeno1.png" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Brasil I 23/25</h5>
             <h5 class="card-title">Torcedor Pro Masculina</h5>
@@ -84,7 +84,7 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto/BARCELONA1.jpg" class="card-img-top" alt="...">
+          <img src="img-projeto2/barca1.png" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Barcelona I</h5>
             <h5>23/24 Torcedora Pro</h5>

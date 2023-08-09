@@ -2,8 +2,8 @@
 
 $hostname = "localhost";
 $bancodedados = "projeto-intergrador";
-$usuario = "root";
-$senha = "";
+$usuario = "matheusbla";
+$senha = "12345678";
 
 $mysqli = new mysqli ($hostname, $usuario, $senha, $bancodedados);
 

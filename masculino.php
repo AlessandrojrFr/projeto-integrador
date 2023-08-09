@@ -70,20 +70,20 @@
   <div class="row">
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/camiseta_branca.webp" class="card-img-top" alt="...">
+  <img src="img talarico/img16.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CAMISETA NIKE PRO COOL TOP MANGA CURTA MASCULINA BRANCA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
     <p>R$ 89,99</p>
     <p></p>
-    <a href="#" class="btn btn-primary">Comprar</a>
+    <a href="#" class="btn btn-primary">Opção de Compra</a>
   </div>
 </div>
     </div>
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/camiseta_preta.webp" class="card-img-top" alt="...">
+  <img src="img talarico/img15.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CAMISETA NIKE PRO COOL TOP MANGA CURTA MASCULINA PRETA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
@@ -96,7 +96,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina branca(2).jpg" class="card-img-top" alt="...">
+  <img src="img-projeto2/barca1.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CAMISETA NIKE PRO COOL TOP MANGA CURTA FEMININA BRANCA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
@@ -109,7 +109,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina black(2).jpg" class="card-img-top" alt="...">
+  <img src="img-projeto2/nike1.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CAMISETA NIKE PRO COOL TOP MANGA CURTA FEMININA PRETA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
@@ -124,7 +124,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-    <img src="img-projeto/Masculina branca.jpeg" alt="">
+    <img src="img talarico/img_teste.png" alt="">
   <div class="card-body">
     <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA MASCULINA BRANCA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
@@ -137,7 +137,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Masculina preta.jpeg" class="card-img-top" alt="...">
+  <img src="img talarico/img8.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA MASCULINA PRETA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
@@ -150,7 +150,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina branca.jpg" class="card-img-top" alt="...">
+  <img src="img talarico/img11.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA FEMININA BRANCA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
@@ -163,7 +163,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <img src="img talarico/img9.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CAMISETA NIKE SPORTSWEAR ESSENTIAL ICON MANGA CURTA FEMININA PRETA</h5>
     <p class="card-text">Camiseta em destaque na página inicial.</p>
@@ -178,7 +178,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Teste.avif" class="card-img-top" alt="...">
+  <img src="img-projeto2/nikeverm.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CALÇÃO NIKE DRI-FIT PARK III NB K 21 - Júnior - BLACK</h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -191,7 +191,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Teste1.avif" class="card-img-top" alt="...">
+  <img src="img talarico/img13.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CALÇÃO NIKE DRI-FIT PARK III NB K 21 - Júnior - AZUL</h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -204,7 +204,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Teste2.webp" class="card-img-top" alt="...">
+  <img src="img talarico/shortsbrasa.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CALÇÃO NIKE CBF BRASIL 22/23 Torcedor</h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -217,7 +217,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Teste3.webp" class="card-img-top" alt="...">
+  <img src="img-projeto2/shortspreto1.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">CALÇÃO NIKE HBR 2.0 MASCULINA</h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -230,7 +230,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <img src="img talarico/img7.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title"></h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -243,7 +243,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <img src="img talarico/img12.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title"></h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -256,7 +256,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <img src="img talarico/img6.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title"></h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>
@@ -269,7 +269,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto/Camiseta feminina black.jpg" class="card-img-top" alt="...">
+  <img src="img talarico/img17.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title"></h5>
     <p class="card-text">Shorts em destaques na página inicial.</p>

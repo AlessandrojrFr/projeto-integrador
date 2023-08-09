@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Infantil nike ujhbjbjha</title>
+  <title>Infantil Nike </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
  <link rel="stylesheet" href="nikezinho.css">
 </head>
@@ -20,17 +20,17 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="nikezinho.php">INÍCIO</a>
+            <a class="nav-link active" aria-current="page" href="pagamento.php">INÍCIO</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="nikezinho.php"></a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="masculino.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               CAMISETAS
             </a>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="nikezinho.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="masculino.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               MASCULINO
             </a>
           </li>
@@ -101,7 +101,6 @@
   <br>
   <br>
   <br>
-  <h1>Lançamentos</h1>
   <div id="lançamento">
     <img src="img-projeto/tout-gamma-force-05.06-desk-v2.avif" alt="...">
   </div>

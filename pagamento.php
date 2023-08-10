@@ -11,40 +11,33 @@
 </head>
 
 <body>
-  <header>
-    <!--- Navbar --->
-    <nav class="navbar navbar-expand-lg">
-      <div class="container">
-        <a class="navbar-brand text-white" href="#"><i class="fa fa-graduation-cap fa-lg mr-2"></i>BLOG</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nvbCollapse" aria-controls="nvbCollapse">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="nvbCollapse">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-home fa-fw mr-1"></i>Anasayfa</a>
-            </li>
-            <li class="nav-item active pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-th-list fa-fw mr-1"></i>Blog</a>
-            </li>
-            <li class="nav-item pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-info-circle fa-fw mr-1"></i>Hakkımızda</a>
-            </li>
-            <li class="nav-item pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-phone fa-fw fa-rotate-180 mr-1"></i>İletişim</a>
-            </li>
-            <li class="nav-item pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-user-plus fa-fw mr-1"></i>Kayıt Ol</a>
-            </li>
-            <li class="nav-item pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-sign-in fa-fw mr-1"></i>Oturum Aç</a>
-            </li>
-          </ul>
-        </div>
+<nav class="navbar bg-body-tertiary fixed-top">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="index.php">INICIO</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+      <div class="offcanvas-header">
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
-    </nav>
-    <!--# Navbar #-->
-  </header>
+      <div class="offcanvas-body">
+        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="masculino.php">Roupas</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="masculino.php">Promoção</a>
+          </li>
+        </ul>
+        <form class="d-flex mt-3" role="search">
+          <input class="form-control me-2" type="search" placeholder="buscar" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Buscar</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</nav>
 
   <br>
   <br>

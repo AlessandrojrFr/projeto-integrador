@@ -46,6 +46,70 @@
     <!--# Navbar #-->
   </header>
 
+  <br>
+  <br>
+  <br>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-3">
+        <div class="card" style="width: 18rem;">
+          <img class="img" src="img-projeto2/imagem1br - Copia.png" class="card-img-top" alt="...">
+        </div>
+      </div>
+      <div class="col-3">
+        <div class="card" style="width: 18rem;">
+          <img class="img" src="img-projeto2/imagem2br - Copia.png" class="card-img-top" alt="...">
+        </div>
+      </div>
+      <div class="col-6">
+        
+      </div>
+    </div> <!-- Fechou o row -->
+
+    <div class="row">
+      <div class="col-6">
+        <div class="card" style="width: 18rem;">
+          <img class="img" src="img-projeto2/imagem5 - Copia.png" class="card-img-top" alt="...">
+        </div>
+      </div>
+      <div class="col-6">
+        <div class="card" style="width: 18rem;">
+          <img class="img" src="img-projeto2/imagem4br.png" class="card-img-top" alt="...">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h1>Camisa Nike Brasil I
+    2023/25 Torcedor Pro
+    Masculina
+    <h4>Futebol
+
+    </h4>
+
+
+
+    <div aria-hidden="true" class="pr-rating-stars">
+      <div class="pr-star-v4 pr-star-v4-0-filled"></div>
+      <div class="pr-star-v4 pr-star-v4-0-filled"></div>
+      <div class="pr-star-v4 pr-star-v4-0-filled"></div>
+      <div class="pr-star-v4 pr-star-v4-0-filled"></div>
+      <div class="pr-star-v4 pr-star-v4-0-filled"></div>
+    </div>
+
+    <h2>Tamanho</h2>
+
+
+    <button data-testid="button-cta-add-cart-mobile" class="ButtonFill__StyledButton-sc-d418d4ee-0 hYCukR">Adicionar ao carrinho</button>
+
+
+    </div>
+  </h1>
+  </div>
+  </div>
+  </div>
+
   <!--- Footer --->
   <footer>
     <div class="jumbotron jumbotron-fluid bg-secondary p-4 mt-5 mb-0">
@@ -94,79 +158,6 @@
     </div>
   </footer>
   <!--# Footer #-->
-  <br>
-  <br>
-  <br>
-
-
-   
-<div class="container">
-  <div class="row">
-    <div class="col-6">
-    <div class="card" style="width: 18rem;">
-        <img class="img" src="img-projeto2/imagem1br - Copia.png" class="card-img-top" alt="...">
-
-      </div>
-
-
-   
-
-   
-      <div class="card" style="width: 18rem;">
-        <img class="img" src="img-projeto2/imagem2br - Copia.png" class="card-img-top" alt="...">
-
-      </div>
-   
- 
-  
-   
-
-      <div class="card" style="width: 18rem;">
-        <img class="img" src="img-projeto2/imagem5 - Copia.png" class="card-img-top" alt="...">
-
-      </div>
-
-  
-
-    
-
-      <div class="card" style="width: 18rem;">
-        <img class="img" src="img-projeto2/imagem4br.png" class="card-img-top" alt="...">
-
-      </div>
-
-    </div>
-  </div>
-</div>
-
-       <h1>Camisa Nike Brasil I
-       2023/25 Torcedor Pro
-        Masculina
-         <h4>Futebol
-
-         </h4>
-
-          
-  
-  <div aria-hidden="true" class="pr-rating-stars">
-    <div class="pr-star-v4 pr-star-v4-0-filled"></div>
-    <div class="pr-star-v4 pr-star-v4-0-filled"></div>
-    <div class="pr-star-v4 pr-star-v4-0-filled"></div>
-    <div class="pr-star-v4 pr-star-v4-0-filled"></div>
-    <div class="pr-star-v4 pr-star-v4-0-filled"></div>
-  </div>
-
-  <h2>Tamanho</h2>
-
-
-  <button data-testid="button-cta-add-cart-mobile" class="ButtonFill__StyledButton-sc-d418d4ee-0 hYCukR">Adicionar ao carrinho</button>
-
-
-  </div>
-      </h1>  
-      </div>
-    </div>
-  </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 
 </html>

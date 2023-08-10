@@ -49,7 +49,7 @@
   <br>
 
   <div id="camiseta">
-    <img src="img-projeto/tout-corinthians-13-04-desk.avif" alt="...">
+    <img src="img-projeto2/ropao.png" alt="...">
   </div>
   <br>
 
@@ -64,7 +64,7 @@
             <h5 class="card-title">23/24 Torcedora Pro</h5>
             <p>Masculina</p>
             <p>Futebol</p>
-            <h2>R$ 299,99</h2>
+            <h2>  <a href="pagamento.php">R$ 299,99</a></h2>
           </div>
         </div>
       </div>
@@ -77,7 +77,7 @@
             <h5 class="card-title">Torcedor Pro Masculina</h5>
             <p>Futebol</p>
             <p>Unisex</p>
-            <h2>R$ 349,99 </h2>
+            <h2> R$ 349,99 </h2>
           </div>
         </div>
       </div>
@@ -102,7 +102,7 @@
   <br>
   <br>
   <div id="lançamento">
-    <img src="img-projeto/tout-gamma-force-05.06-desk-v2.avif" alt="...">
+    <img src="img-projeto2/tenisbo.png" alt="...">
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>

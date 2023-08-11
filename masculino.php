@@ -18,7 +18,7 @@
   <div class="row">
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img talarico/img16.png" class="card-img-top" alt="...">
+  <img src="img talarico/img16.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">Camiseta Nike Dri-FIT Masculina</h5>
     <p class="card-text">Treino & Academia</p>
@@ -31,7 +31,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img talarico/img15.png" class="card-img-top" alt="...">
+  <img src="img talarico/img15.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">Camiseta Nike Dri-FIT Masculina</h5>
     <p class="card-text">Treino & Academia</p>
@@ -44,7 +44,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto2/barca1.png" class="card-img-top" alt="...">
+  <img src="img-projeto2/barca1.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">Camisa Nike Barcelona I 2023/24 Torcedor Pro Masculina</h5>
     <p class="card-text">Futebol</p>
@@ -57,7 +57,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto2/nike1.png" class="card-img-top" alt="...">
+  <img src="img-projeto2/nike1.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">Camiseta Nike Polo Essential Feminina</h5>
     <p class="card-text">Casual</p>
@@ -85,7 +85,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img talarico/img8.png" class="card-img-top" alt="...">
+  <img src="img talarico/img8.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">Camisa Nike Portugal II 2022/23 Torcedor Pro Masculina</h5>
     <p class="card-text">Futebol</p>
@@ -98,7 +98,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img talarico/img11.png" class="card-img-top" alt="...">
+  <img src="img talarico/img11.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">Camiseta Nike Dri-FIT Hyverse Masculina</h5>
     <p class="card-text">Treino & Academia</p>
@@ -111,7 +111,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img talarico/img9.png" class="card-img-top" alt="...">
+  <img src="img talarico/img9.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">Camisa Nike Brasil I 2023/24 Jogadora Feminina</h5>
     <p class="card-text">Futebol</p>
@@ -126,7 +126,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto2/nikeverm.png" class="card-img-top" alt="...">
+  <img src="img-projeto2/nikeverm.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">CALÇÃO NIKE DRI-FIT PARK III NB K 21 - Júnior - BLACK</h5>
     <p class="card-text">Basketboll</p>
@@ -139,7 +139,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img talarico/img13.png" class="card-img-top" alt="...">
+  <img src="img talarico/img13.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">CALÇÃO NIKE DRI-FIT PARK III NB K 21 - Júnior - AZUL</h5>
     <p class="card-text">Futebol</p>
@@ -152,7 +152,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img talarico/shortsbrasa.png" class="card-img-top" alt="...">
+  <img src="img talarico/shortsbrasa.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">CALÇÃO NIKE CBF BRASIL 22/23 Torcedor</h5>
     <p class="card-text">Futebol</p>
@@ -165,7 +165,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img-projeto2/shortspreto1.png" class="card-img-top" alt="...">
+  <img src="img-projeto2/shortspreto1.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">CALÇÃO NIKE HBR 2.0 MASCULINA</h5>
     <p class="card-text">Futebol</p>
@@ -178,7 +178,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img talarico/img7.png" class="card-img-top" alt="...">
+  <img src="img talarico/img7.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">Shorts Nike Corinthians I 2023/24 Torcedor Pro Infantil</h5>
     <p class="card-text">Futebol</p>
@@ -191,7 +191,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img talarico/img12.png" class="card-img-top" alt="...">
+  <img src="img talarico/img12.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">Shorts Nike Dri-FIT Academy Masculino</h5>
     <p class="card-text">Futebol</p>
@@ -204,7 +204,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img talarico/img6.png" class="card-img-top" alt="...">
+  <img src="img talarico/img6.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">Shorts Jordan Essential Fleece Masculino</h5>
     <p class="card-text">Casual</p>
@@ -217,7 +217,7 @@
 
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img talarico/img17.png" class="card-img-top" alt="...">
+  <img src="img talarico/img17.png" class="img-fluid" alt="...">
   <div class="card-body">
     <h5 class="card-title">Shorts Nike Dri-FIT Masculino</h5>
     <p class="card-text">Treino & Academia</p>

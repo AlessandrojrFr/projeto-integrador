@@ -66,12 +66,12 @@
     <div class="row">
       <div class="col-3">
         <div class="card" style="width: 18rem;">
-          <img class="img" src="img-projeto2/imagem1br - Copia.png" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem1br - Copia.png" class="img-fluid" alt="...">
         </div>
       </div>
       <div class="col-3">
         <div class="card" style="width: 18rem;">
-          <img class="img" src="img-projeto2/imagem2br - Copia.png" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem2br - Copia.png" class="img-fluid" alt="...">
         </div>
       </div>
       <div class="col-6">
@@ -85,12 +85,12 @@
     <div class="row">
       <div class="col-3">
         <div class="card" style="width: 18rem;">
-          <img class="img" src="img-projeto2/imagem5 - Copia.png" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem5 - Copia.png" class="img-fluid" alt="...">
         </div>
       </div>
       <div class="col-3">
         <div class="card" style="width: 18rem;">
-          <img class="img" src="img-projeto2/imagem4br.png" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem4br.png" class="img-fluid" alt="...">
         </div>
       </div>
       <div class="col-6" >

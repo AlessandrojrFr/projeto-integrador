@@ -13,7 +13,7 @@
 <body>
 <nav class="navbar bg-body-tertiary fixed-top">
   <div class="container-fluid">
-    <img  id="logo" src="img talarico/logo-selecao-brasileira-brasil-novo-logo-2019-com-estrelas-4096.png" alt="">
+    
     <a class="navbar-brand" href="#"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

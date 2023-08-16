@@ -1,7 +1,7 @@
 <?php
 
 $hostname = "localhost";
-$bancodedados = "projeto-intergrador";
+$bancodedados = "banco_dado";
 $usuario = "matheusbla";
 $senha = "12345678";
 

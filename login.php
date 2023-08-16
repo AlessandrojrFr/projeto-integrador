@@ -1,43 +1,41 @@
 <?php
 include("conexao.php");
 
-if(isset($_POST['bt_email']) || isset($_POST['bt_senha'])) {
+if (isset($_POST['bt_email']) || isset($_POST['bt_senha'])) {
 
-  if(strlen($_POST['bt_email']) == 0){
-  echo("Preencha seu email");
+  if (strlen($_POST['bt_email']) == 0) {
+    echo ("Preencha seu email");
+  } elseif (strlen($_POST['bt_senha']) == 0) {
+    echo ("Preencha sua senha");
+  } else {
+    $email = $mysqli->real_escape_string($_POST['bt_email']);
+    $senha = $mysqli->real_escape_string($_POST['bt_senha']);
 
-  }elseif(strlen($_POST['bt_senha']) == 0){
-      echo("Preencha sua senha");
-  }else{
-      $email = $mysqli->real_escape_string($_POST['bt_email']);
-      $senha = $mysqli->real_escape_string($_POST['bt_senha']);
+    $sql_code = "SELECT * FROM clientes WHERE email = '$email' AND senha = '$senha'";
+    $sql_query = $mysqli->query($sql_code) or die("Falha na execução do código SQL" . $mysqli->error);
 
-      $sql_code = "SELECT * FROM clientes WHERE email = '$email' AND senha = '$senha'";
-      $sql_query = $mysqli->query($sql_code) or die("Falha na execução do código SQL" . $mysqli->error);
+    $quantidade = $sql_query->num_rows;
 
-      $quantidade = $sql_query->num_rows;
+    if ($quantidade == 1) {
 
-      if($quantidade == 1){
+      $usuario = $sql_query->fetch_assoc();
 
-          $usuario = $sql_query->fetch_assoc();
-
-          if(!isset($_SESSION)){
-              session_start();
-          }
-
-          $_SESSION['id_login'] = $usuario['id_cliente'];
-
-          $_SESSION['nome'] = $usuario['nome'];
-         
-          $_SESSION['email'] = $usuario['email'];
-          $_SESSION['senha'] = $usuario['senha'];
-
-
-          header("Location: teste.php");   
-
-      }else{
-          echo "Falha ao logar!Email ou senha incorretos";
+      if (!isset($_SESSION)) {
+        session_start();
       }
+
+      $_SESSION['id_login'] = $usuario['id_cliente'];
+
+      $_SESSION['nome'] = $usuario['nome'];
+
+      $_SESSION['email'] = $usuario['email'];
+      $_SESSION['senha'] = $usuario['senha'];
+
+
+      header("Location: teste.php");
+    } else {
+      echo "Falha ao logar!Email ou senha incorretos";
+    }
   }
 }
 

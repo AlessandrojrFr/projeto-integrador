@@ -20,7 +20,7 @@
 </style>
 <body>
 
-<nav id="nav" class="navbar navbar-expand-lg navbar- bg- static-top">
+<nav id="nav" class="navbar navbar-expand-lg navbar-warning bg- static-top">
   <div class="container">
     <a class="navbar-brand" href="#">
       <img src="img talarico/BackgroundEraser_20230811_081558768.png"height="50" width="50">

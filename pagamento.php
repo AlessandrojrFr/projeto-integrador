@@ -11,41 +11,53 @@
 </head>
 
 <body>
-  <header>
-    <!--- Navbar --->
-    <nav class="navbar navbar-expand-lg">
-      <div class="container">
-        <a class="navbar-brand text-white" href="#"><i class="fa fa-graduation-cap fa-lg mr-2"></i>BLOG</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nvbCollapse" aria-controls="nvbCollapse">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="nvbCollapse">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-home fa-fw mr-1"></i>Anasayfa</a>
-            </li>
-            <li class="nav-item active pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-th-list fa-fw mr-1"></i>Blog</a>
-            </li>
-            <li class="nav-item pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-info-circle fa-fw mr-1"></i>Hakkımızda</a>
-            </li>
-            <li class="nav-item pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-phone fa-fw fa-rotate-180 mr-1"></i>İletişim</a>
-            </li>
-            <li class="nav-item pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-user-plus fa-fw mr-1"></i>Kayıt Ol</a>
-            </li>
-            <li class="nav-item pl-1">
-              <a class="nav-link" href="#"><i class="fa fa-sign-in fa-fw mr-1"></i>Oturum Aç</a>
-            </li>
-          </ul>
-        </div>
+<nav class="navbar bg-body-tertiary fixed-top">
+  <div class="container-fluid">
+    <img  id="logo" src="img talarico/logo-selecao-brasileira-brasil-novo-logo-2019-com-estrelas-4096.png" alt="">
+    <a class="navbar-brand" href="#"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
-    </nav>
-    <!--# Navbar #-->
-  </header>
+      <div class="offcanvas-body">
+        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Dropdown
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Action</a></li>
+              <li><a class="dropdown-item" href="#">Another action</a></li>
+              <li>
+                <hr class="dropdown-divider">
+              </li>
+              <li><a class="dropdown-item" href="#">Something else here</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="d-flex mt-3" role="search">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</nav>
 
+  <br>
+  <br>
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -54,42 +66,38 @@
     <div class="row">
       <div class="col-3">
         <div class="card" style="width: 18rem;">
-          <img class="img" src="img-projeto2/imagem1br - Copia.png" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem1br - Copia.png" class="img-fluid" alt="...">
         </div>
       </div>
       <div class="col-3">
         <div class="card" style="width: 18rem;">
-          <img class="img" src="img-projeto2/imagem2br - Copia.png" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem2br - Copia.png" class="img-fluid" alt="...">
         </div>
       </div>
       <div class="col-6">
-        
+        <h1>Camisa Nike Brasil I 2023/25 Torcedor Pro Masculina</h1>
+        <h2>Tamanho</h2>
+        <button data-testid="button-cta-add-cart-mobile" class="ButtonFill__StyledButton-sc-d418d4ee-0 hYCukR">Adicionar ao carrinho</button>
+
       </div>
     </div> <!-- Fechou o row -->
 
     <div class="row">
-      <div class="col-6">
+      <div class="col-3">
         <div class="card" style="width: 18rem;">
-          <img class="img" src="img-projeto2/imagem5 - Copia.png" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem5 - Copia.png" class="img-fluid" alt="...">
         </div>
       </div>
-      <div class="col-6">
+      <div class="col-3">
         <div class="card" style="width: 18rem;">
-          <img class="img" src="img-projeto2/imagem4br.png" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem4br.png" class="img-fluid" alt="...">
         </div>
+      </div>
+      <div class="col-6" >
+        
       </div>
     </div>
   </div>
-
-  <h1>Camisa Nike Brasil I
-    2023/25 Torcedor Pro
-    Masculina
-    <h4>Futebol
-
-    </h4>
-
-
-
     <div aria-hidden="true" class="pr-rating-stars">
       <div class="pr-star-v4 pr-star-v4-0-filled"></div>
       <div class="pr-star-v4 pr-star-v4-0-filled"></div>
@@ -98,14 +106,10 @@
       <div class="pr-star-v4 pr-star-v4-0-filled"></div>
     </div>
 
-    <h2>Tamanho</h2>
-
-
-    <button data-testid="button-cta-add-cart-mobile" class="ButtonFill__StyledButton-sc-d418d4ee-0 hYCukR">Adicionar ao carrinho</button>
-
+    
 
     </div>
-  </h1>
+  
   </div>
   </div>
   </div>

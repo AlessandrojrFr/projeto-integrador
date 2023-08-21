@@ -35,7 +35,7 @@
                     <a class="nav-link" href="javascript:void(0);"><i class="far fa-chart-bar"></i>Charts</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="javascript:void(0);"><i class="far fa-copy"></i>Documents</a>
+                    <a class="nav-link" href="javascript:void(0);"><i class="far fa-copy"></i>Minha</a>
                 </li>
             </ul>
         </div>
@@ -59,7 +59,7 @@
             <h5 class="card-title">23/24 Torcedora Pro</h5>
             <p>Masculina</p>
             <p>Futebol</p>
-            <a href="#" class="btn btn-primary">Adicionar ao carrinho</a>
+            <a href="#" class="btn btn-primary">Comprar Agora</a>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@
             <h5 class="card-title">Torcedor Pro Masculina</h5>
             <p>Futebol</p>
             <p>Unisex</p>
-            <a href="#" class="btn btn-primary">Adicionar ao carrinho</a>
+            <a href="#" class="btn btn-primary">Comprar Agora</a>
           </div>
         </div>
       </div>
@@ -85,7 +85,7 @@
             <h5>23/24 Torcedora Pro</h5>
             <p class="card-text"> Masculina</p>
             <p>Futebol</p>
-            <a href="#" class="btn btn-primary">Adicionar ao carrinho</a>
+            <a href="#" class="btn btn-primary">Comprar Agora</a>
 
           </div>
         </div>

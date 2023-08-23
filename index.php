@@ -4,49 +4,67 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Infantil Nike </title>
+  <title></title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
-  <link rel="stylesheet" href="CSS/index.css">
-
+  <link rel="stylesheet" href="CSS/style.css">
+  <link rel="stylesheet" href="CSS/oi.css">
+  <link rel="stylesheet" href="CSS/oi.css">
 </head>
-
+<style>
+  .card{
+    transition: transform 0.3s ease;
+  }
+  .card:hover{
+    transform:scale(1.2);
+  }
+</style>
 <body>
-<nav class="navbar navbar-expand-custom navbar-mainbg">
-        <a class="navbar-brand navbar-logo" href="#">Navbar</a>
-        <button class="navbar-toggler" type="button" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <i class="fas fa-bars text-white"></i>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
-                <div class="hori-selector"><div class="left"></div><div class="right"></div></div>
-                <li class="nav-item">
-                    <a class="nav-link" href="javascript:void(0);"><i class="fas fa-tachometer-alt"></i>Dashboard</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="javascript:void(0);"><i class="far fa-address-book"></i>Address Book</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="javascript:void(0);"><i class="far fa-clone"></i>Components</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="javascript:void(0);"><i class="far fa-calendar-alt"></i>Calendar</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="javascript:void(0);"><i class="far fa-chart-bar"></i>Charts</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="javascript:void(0);"><i class="far fa-copy"></i>Minha</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
+
+<nav id="nav" class="navbar navbar-expand-lg navbar- bg- static-top">
+  <div class="container">
+    <a class="navbar-brand" href="#">
+      <img src="img talarico/BackgroundEraser_20230811_081558768.png"height="50" width="50">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Contato</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Entrar/Cadastrar</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+  <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+</svg>
+            Minha Conta
+          </a>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#"></a></li>
+            <li><a class="dropdown-item" href="#">Informações da Conta</a></li>
+            <li>
+              <hr class="dropdown-divider">
+            </li>
+            <li><a class="dropdown-item" href="#">Promoções</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
   <br>
 
   <div id="camiseta">
-    <img class="img-fluid" src="img talarico/img50.png" alt="...">
+    <center><img class="img-fluid" src="img-projeto2/ropaoatualizado.png" width="1100" height="760"></center>
   </div>
   <br>
-
 
   <div class="container">
 
@@ -59,7 +77,7 @@
             <h5 class="card-title">23/24 Torcedora Pro</h5>
             <p>Masculina</p>
             <p>Futebol</p>
-            <a href="#" class="btn btn-primary">Comprar Agora</a>
+            <a href="pagar.php" class="btn btn-primary">Comprar Agora</a>
           </div>
         </div>
       </div>
@@ -72,7 +90,7 @@
             <h5 class="card-title">Torcedor Pro Masculina</h5>
             <p>Futebol</p>
             <p>Unisex</p>
-            <a href="#" class="btn btn-primary">Comprar Agora</a>
+            <a href="pagar.php" class="btn btn-primary">Comprar Agora</a>
           </div>
         </div>
       </div>
@@ -85,7 +103,7 @@
             <h5>23/24 Torcedora Pro</h5>
             <p class="card-text"> Masculina</p>
             <p>Futebol</p>
-            <a href="#" class="btn btn-primary">Comprar Agora</a>
+            <a href="pagar.php" class="btn btn-primary">Comprar Agora</a>
 
           </div>
         </div>
@@ -97,11 +115,10 @@
   <br>
   <br>
   <div id="lançamento">
-    <img src="img-projeto2/tenisbo.png" alt="...">
+    <center><img src="img-projeto2/tenisbo.png" width="1100" height="760"></center>
   </div>
-
-  
+  </div>
+ 
 </body>
-<script src="xand.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </html>

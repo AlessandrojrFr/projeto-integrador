@@ -41,7 +41,7 @@
         echo '<span style="color: red; font-weight: bold;">' . $mensagem . '</span>';
         
     }
-
+    //php onde que faz interação com o banco de dados
     // Fechar a conexão com o banco de dados
     $conn->close();
     ?>

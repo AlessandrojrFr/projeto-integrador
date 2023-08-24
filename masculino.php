@@ -78,14 +78,14 @@
             <p class="card-text"><?php echo $produtos['descricao'];?></p>
             <p><?php echo $produtos['valor'];?> 33% off</p>
             <p>ou 1x de R$ 99,99</p>
-            <a href="pagamento.php?id=<?php echo $produtos['id_pedido'];?>" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="cadastro_produtos.php?id=" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
         <?php
         }
         ?>
       </div>
-     <div class="row">
+   
       
      </div>
       <div class="col">
@@ -115,7 +115,7 @@
       </div>
 
       <h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐂𝐀𝐌𝐈𝐒𝐀𝐒 𝐒𝐏𝐎𝐑𝐓𝐒𝐖𝐄𝐀𝐑 𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋 𝐈𝐂𝐎𝐍</h1>
-
+      <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
           <img src="img talarico/img_teste.png" alt="">

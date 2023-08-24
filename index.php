@@ -46,7 +46,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="login.php">CADASTRAR</a>
+            <a class="nav-link active" aria-current="page" href="login.html">CADASTRAR</a>
           </li>
 
         </ul>

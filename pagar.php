@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
   <link rel="stylesheet" href="CSS/pagamento.css">
-  <title>Document</title>
+  <title>𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌</title>
 </head>
 
 <body>
@@ -145,7 +145,7 @@
           <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
             <div class="card bg-secondary border-0">
               <div class="card-body text-center">
-                <h5 class="card-title text-white display-4" style="font-size:30px">Sosyal Medya</h5>
+                <h5 class="card-title text-white display-4" style="font-size:30px">Redes </h5>
 
                 <a class="text-light" href="#"><i class="fa fa-facebook-square fa-fw fa-2x"></i></a>
 

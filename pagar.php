@@ -52,29 +52,29 @@
 
   <div class="container">
     <div class="row">
-      <div class="col-3">
-        <div class="card" style="width: 18rem;">
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card" >
           <img class="img" src="img-projeto2/imagem1br - Copia.png" class="card-img-top" alt="...">
         </div>
       </div>
-      <div class="col-3">
-        <div class="card" style="width: 18rem;">
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card" >
           <img class="img" src="img-projeto2/imagem2br - Copia.png" class="card-img-top" alt="...">
         </div>
       </div>
-      <div class="col-6">
+      <div class="col-sm-6 col-md-4 col-lg-3">
         
       </div>
     </div> <!-- Fechou o row -->
 
     <div class="row">
-      <div class="col-6">
-        <div class="card" style="width: 18rem;">
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card" >
           <img class="img" src="img-projeto2/imagem5 - Copia.png" class="card-img-top" alt="...">
         </div>
       </div>
-      <div class="col-6">
-        <div class="card" style="width: 18rem;">
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card" >
           <img class="img" src="img-projeto2/imagem4br.png" class="card-img-top" alt="...">
         </div>
       </div>

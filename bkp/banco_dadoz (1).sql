@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Tempo de geração: 24-Ago-2023 às 15:06
+-- Tempo de geração: 24-Ago-2023 às 16:57
 -- Versão do servidor: 5.7.36
 -- versão do PHP: 7.4.26
 
@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Banco de dados: `banco_dado`
 --
+CREATE DATABASE IF NOT EXISTS `banco_dado` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `banco_dado`;
 
 -- --------------------------------------------------------
 

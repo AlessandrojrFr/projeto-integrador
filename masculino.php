@@ -85,7 +85,9 @@
         }
         ?>
       </div>
-
+     <div class="row">
+      
+     </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
           <img src="img-projeto2/barca1.png" class="img-fluid" alt="...">

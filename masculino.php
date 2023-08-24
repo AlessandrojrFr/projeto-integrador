@@ -1,4 +1,16 @@
-<html lang="en">
+<?php
+  include('conexao.php');
+
+  if (!isset($_SESSION)){
+    session_start();
+  }
+  $consultar_banco = "SELECT * FROM cadastro_produtos";
+
+  $retorno_consulta = $mysqli->query($consultar_banco) or die($mysqli->error);
+  $quantidade_pedidos = $retorno_consulta->num_rows;
+?>
+
+<html lang="pt-br">
 
 <head>
   <title>Navbar</title>
@@ -53,30 +65,25 @@
   <br>
   <div class="container">
     <div class="row">
-      <div class="col">
-        <div class="card" style="width: 18rem;">
-          <img src="img talarico/img16.png" class="img-fluid" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Camiseta Nike Dri-FIT Masculina</h5>
-            <p class="card-text">Treino & Academia</p>
-            <p>R$ 149,99</p>
-            <p>ou 1x de R$ 149,99</p>
-            <a href="#" class="btn btn-primary">Opção de Compra</a>
-          </div>
-        </div>
-      </div>
+     <?php
+     
+     while($produtos = $retorno_consulta->fetch_assoc()){
 
+     ?>
       <div class="col">
         <div class="card" style="width: 18rem;">
           <img src="img talarico/img15.png" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Camiseta Nike Dri-FIT Masculina</h5>
-            <p class="card-text">Treino & Academia</p>
-            <p>R$ 99,99 33% off</p>
+            <h5 class="card-title"><?php echo $produtos['nome_produto'];?></h5>
+            <p class="card-text"><?php echo $produtos['descricao'];?></p>
+            <p><?php echo $produtos['valor'];?> 33% off</p>
             <p>ou 1x de R$ 99,99</p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="pagamento.php?id=<?php echo $produtos['id_pedido'];?>" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
+        <?php
+        }
+        ?>
       </div>
 
       <div class="col">

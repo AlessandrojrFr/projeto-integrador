@@ -1,3 +1,15 @@
+<?php
+  include('conexao.php');
+
+  if(isset($_GET['id'])){
+    $id_produto = $_GET['id'];
+
+    $consultar_banco = "SELECT * FROM cadastro_produtos WHERE id_pedido = $id_produto";
+
+    $retorno_consulta = $mysqli->query($consultar_banco) or die($mysqli->error);
+    $quantidade_pedidos = $retorno_consulta->num_rows;
+  }
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -80,12 +92,16 @@
       </div>
     </div>
   </div>
+    <?php
+    while($produtos = $retorno_consulta -> fetch_assoc()){
 
-  <h1>Camisa Nike Brasil I
-    2023/25 Torcedor Pro
-    Masculina
-    <h4>Futebol
-
+    ?>
+  <h1><?php echo $produtos['nome_produto'];?>
+    <h2><?php echo $produtos['descricao'];?></h2>
+    <h4><?php echo $produtos['valor'];?>
+    <?php
+  }
+  ?>
     </h4>
 
 

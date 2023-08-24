@@ -12,7 +12,7 @@ if (isset($_POST['bt_nome'])) {
         }
     }
 
-    var_dump($arquivo);
+    //var_dump($arquivo);
 
     $nome = $_POST['bt_nome'];
 
@@ -39,8 +39,8 @@ if (isset($_POST['bt_nome'])) {
     $deucerto = move_uploaded_file($arquivo["tmp_name"], $caminho);
 
     if ($deucerto) {
-        $mysqli->query("INSERT INTO cadastro_produtos (nome_produto, descricao, valor, arquivo_caminho,) 
-                values ('$nome', '$descricao','$valor' '$caminho',)") or die($mysqli->error);
+        $mysqli->query("INSERT INTO cadastro_produtos (nome_produto, descricao, valor, arquivo_caminho) 
+                values ('$nome', '$descricao','$valor', '$caminho')") or die($mysqli->error);
     }
 }
 ?>

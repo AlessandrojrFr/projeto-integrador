@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
   <link rel="stylesheet" href="CSS/tkk.css">
-  <title>Document</title>
+  <title>𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌 - 𝕸𝖆𝖗𝖈𝖆𝖘</title>
 </head>
 
 <body>
@@ -15,7 +15,7 @@
     <!--- Navbar --->
     <nav class="navbar bg-body-tertiary fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#"><img id="bicho" src="img talarico/BackgroundEraser_20230811_081558768.png" width="65" height="59"><h1>𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌</h1></a>
+    <a class="navbar-brand" href="index.php"><img id="bicho" src="img talarico/BackgroundEraser_20230811_081558768.png" width="65" height="59"><h1>𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌</h1></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

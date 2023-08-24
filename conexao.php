@@ -2,8 +2,8 @@
 
 $hostname = "localhost";
 $bancodedados = "banco_dado";
-$usuario = "root";
-$senha = "";
+$usuario = "matheusbla";
+$senha = "12345678";
 
 $mysqli = new mysqli ($hostname, $usuario, $senha, $bancodedados);
 

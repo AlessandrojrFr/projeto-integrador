@@ -89,7 +89,7 @@ if (isset($_POST['bt_nome'])) {
             ?>
             <input class="btn btn-success" type="submit" value="Cadastrar Produto">
             <a class="btn btn-danger" href="index.php">Cancelar</a>
-            <a class="btn btn-primary" href="lista_bebidas.php">Produtos</a>
+            <a class="btn btn-primary" href="index.php">Produtos</a>
 
         </form>
     </div>

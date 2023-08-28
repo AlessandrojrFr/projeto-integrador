@@ -67,12 +67,12 @@
     <div class="row">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/portugal1.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/portugal.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/portugal2.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/portugal2.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
@@ -83,12 +83,12 @@
     <div class="row">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/portugal.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/portugal3.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/portugal3.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/portugal4.png" class="card-img-top" alt="...">
         </div>
       </div>
     </div>

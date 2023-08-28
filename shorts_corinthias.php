@@ -67,12 +67,12 @@
     <div class="row">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/corinthias1.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/corinthias1.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/corinthians2.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/corinthias2.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
@@ -83,12 +83,12 @@
     <div class="row">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/corinthians3avif.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/corinthias3.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/corinthians4.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/corinthias4.png" class="card-img-top" alt="...">
         </div>
       </div>
     </div>

@@ -67,12 +67,12 @@
     <div class="row">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/02611215A9.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/barcelona1.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/02611215A4.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/barcelona2.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
@@ -83,12 +83,12 @@
     <div class="row">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/02611215A2.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/barcelona3.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/02611215A6.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/barcelona4.png" class="card-img-top" alt="...">
         </div>
       </div>
     </div>

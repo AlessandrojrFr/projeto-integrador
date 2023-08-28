@@ -67,12 +67,12 @@
     <div class="row">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/02638815.avif" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem1br - Copia.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/02638815A4.avif" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem2br - Copia.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
@@ -83,12 +83,12 @@
     <div class="row">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/02638815A1.avif" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem5 - Copia.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/imgbrasilavif.avif" class="card-img-top" alt="...">
+          <img class="img" src="img-projeto2/imagem4br.png" class="card-img-top" alt="...">
         </div>
       </div>
     </div>

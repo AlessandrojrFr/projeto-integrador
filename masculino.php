@@ -68,7 +68,7 @@
             <p class="card-text">Treino & Academia</p>
             <p>R$ 149,99</p>
             <p>ou 1x de R$ 149,99</p>
-            <a href="camiseta_branca.php" class="btn btn-dark">C𝐨𝐦𝐩𝐫𝐚r Agora</a>
+            <a href="branca_masculina.php" class="btn btn-dark">C𝐨𝐦𝐩𝐫𝐚r Agora</a>
           </div>
         </div>
       </div>

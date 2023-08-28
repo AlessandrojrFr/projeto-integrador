@@ -67,12 +67,12 @@
     <div class="row">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/pretamasculina.avif" class="card-img-top" alt="...">
+          <img class="img" src="camisetas_unisex/femi1.png" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/pretamasculina2.avif" class="card-img-top" alt="...">
+          <img class="img" src="imagens_barcelona/femi2.avif" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
@@ -83,12 +83,12 @@
     <div class="row">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/pretamasculina4.avif" class="card-img-top" alt="...">
+          <img class="img" src="imagens_barcelona/femi3.avif" class="card-img-top" alt="...">
         </div>
       </div>
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card" >
-          <img class="img" src="imagens_barcelona/pretamasculina3.avif" class="card-img-top" alt="...">
+          <img class="img" src="imagens_barcelona/femi4.avif" class="card-img-top" alt="...">
         </div>
       </div>
     </div>

@@ -39,7 +39,7 @@
 </svg> Minha Conta
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Entrar</a></li>
+              <li><a class="dropdown-item" href="cadastro.html">Entrar</a></li>
               <li><a class="dropdown-item" href="#">Cadastrar</a></li>
               <li>
                 <hr class="dropdown-divider">

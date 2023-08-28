@@ -62,9 +62,9 @@
     <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/img16.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/nf.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Camiseta Nike Dri-FIT Masculina</h5>
+            <h5 class="card-title">Camiseta Nike Dri-FIT Feminina</h5>
             <p class="card-text">Treino & Academia</p>
             <p>R$ 149,99</p>
             <p>ou 1x de R$ 149,99</p>
@@ -75,9 +75,9 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/img15.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/nrf.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Camiseta Nike Dri-FIT Masculina</h5>
+            <h5 class="card-title">Regata Nike Dri-FIT One Feminina</h5>
             <p class="card-text">Treino & Academia</p>
             <p>R$ 99,99 33% off</p>
             <p>ou 1x de R$ 99,99</p>
@@ -88,9 +88,9 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto2/barca1.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/topn.webp" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Camisa Nike Barcelona I 2023/24 Torcedor Pro Masculina</h5>
+            <h5 class="card-title">Top Nike Swoosh Feminino</h5>
             <p class="card-text">Futebol</p>
             <p>R$ 399,99</p>
             <p>ou 4x de R$ 100,00</p>
@@ -101,24 +101,24 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto2/nike1.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/cnike.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Camiseta Nike Polo Essential Feminina</h5>
-            <p class="card-text">Casual</p>
+            <h5 class="card-title">Camiseta Nike Dri-FIT Feminina</h5>
+            <p class="card-text">Casual</p> 
             <p>R$ 279,99</p>
             <p>ou 3x de R$ 93,33</p>
             <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
-
+ 
       <h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐂𝐀𝐌𝐈𝐒𝐀𝐒 𝐒𝐏𝐎𝐑𝐓𝐒𝐖𝐄𝐀𝐑 𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋 𝐈𝐂𝐎𝐍</h1>
-
+      <br>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/img_teste.png" alt="">
+          <img src="img-projeto2/brn.avif" alt="">
           <div class="card-body">
-            <h5 class="card-title">Camisa Nike Corinthians II 2023/24 Torcedor Pro Masculina</h5>
+            <h5 class="card-title">Camiseta Nike Brasil Travel Feminina</h5>
             <p class="card-text">Futebol</p>
             <p>R$ 229,99 23% off</p>
             <p></p>
@@ -129,9 +129,9 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/img8.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/ink.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Camisa Nike Portugal II 2022/23 Torcedor Pro Masculina</h5>
+            <h5 class="card-title">Camiseta Nike Inglaterra I 2023/24 Torcedora Pro Feminina</h5>
             <p class="card-text">Futebol</p>
             <p>R$ 299,99 25% off</p>
             <p></p>
@@ -142,9 +142,9 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/img11.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/psgf.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Camiseta Nike Dri-FIT Hyverse Masculina</h5>
+            <h5 class="card-title">Camisa Nike Paris Saint-Germain I 2023/24 Torcedora Pro Feminina</h5>
             <p class="card-text">Treino & Academia</p>
             <p>R$ 169,99 32% off</p>
             <p></p>
@@ -166,14 +166,14 @@
         </div>
       </div>
 
-      <h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐒𝐇𝐎𝐑𝐓𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐎𝐒 𝐌𝐀𝐒𝐂𝐔𝐋𝐈𝐍𝐎𝐒</h1>
+      <h1>DESTAQUE SHORTS E LEGGING VARIADOS FEMININOS</h1>
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto2/nikeverm.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/shortsf.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">CALÇÃO NIKE DRI-FIT PARK III NB K 21 - Júnior - BLACK</h5>
-            <p class="card-text">Basketboll</p>
+            <h5 class="card-title">Shorts Nike Pro Feminino</h5>
+            <p class="card-text">Treino e Academia</p>
             <p>R$ 209,90</p>
             <p></p>
             <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
@@ -183,10 +183,10 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/img13.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/legiin.webp" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">CALÇÃO NIKE DRI-FIT PARK III NB K 21 - Júnior - AZUL</h5>
-            <p class="card-text">Futebol</p>
+            <h5 class="card-title">Legging Nike Pro 365 Feminina</h5>
+            <p class="card-text">Treino e Academia</p>
             <p>R$ 199,90</p>
             <p></p>
             <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
@@ -196,9 +196,9 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/shortsbrasa.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/bfs.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">CALÇÃO NIKE CBF BRASIL 22/23 Torcedor</h5>
+            <h5 class="card-title">Shorts Nike Brasil I 2022/23 Torcedor Pro Feminino</h5>
             <p class="card-text">Futebol</p>
             <p>R$ 209,90</p>
             <p></p>
@@ -209,9 +209,9 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto2/shortspreto1.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/facad.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">CALÇÃO NIKE HBR 2.0 MASCULINA</h5>
+            <h5 class="card-title">Shorts Nike Dri-FIT Academy Feminino</h5>
             <p class="card-text">Futebol</p>
             <p>R$ 199,90</p>
             <p></p>
@@ -222,9 +222,9 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/img7.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/sbf.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Shorts Nike Corinthians I 2023/24 Torcedor Pro Infantil</h5>
+            <h5 class="card-title">Shorts Nike Dri-FIT Park Feminino</h5>
             <p class="card-text">Futebol</p>
             <p>R$ 229,99 32% off</p>
             <p></p>
@@ -235,10 +235,10 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/img12.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/sazf.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Shorts Nike Dri-FIT Academy Masculino</h5>
-            <p class="card-text">Futebol</p>
+            <h5 class="card-title">Shorts Nike Pro Feminino</h5>
+            <p class="card-text">Treino e Academia</p>
             <p>R$ 69,99 42% off</p>
             <p></p>
             <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
@@ -248,10 +248,10 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/img6.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/legfi.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Shorts Jordan Essential Fleece Masculino</h5>
-            <p class="card-text">Casual</p>
+            <h5 class="card-title">Legging Nike Pro Dri-FIT Feminina</h5>
+            <p class="card-text">Treino e Academia</p>
             <p>R$ 249,99 24% off</p>
             <p></p>
             <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
@@ -261,9 +261,9 @@
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/img17.png" class="img-fluid" alt="...">
+          <img src="img-projeto2/leginpik.avif" class="img-fluid" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Shorts Nike Dri-FIT Masculino</h5>
+            <h5 class="card-title">Legging Nike Pro Dri-FIT VNVA Feminina</h5>
             <p class="card-text">Treino & Academia</p>
             <p>R$ 129,99 43% off</p>
             <p></p>

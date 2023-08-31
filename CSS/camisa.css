@@ -1,6 +1,8 @@
 body{
-    background-color: rgb(21, 21, 21);
+    background-color: black;
+
 }
+
 .card{
     border: solid;
     transition: transform 0.3s ease;
@@ -23,12 +25,3 @@ body{
   margin-left: -400px;
   width: 2000px;
 }
-
-p{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-
-}
-
-
-

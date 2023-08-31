@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌 𝕴𝖓𝖎𝖈𝖎𝖆𝖑</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
-  <link rel="stylesheet" href="CSS/tkk.css">
+  <link rel="stylesheet" href="CSS/camisa.css">
  
 </head>
 

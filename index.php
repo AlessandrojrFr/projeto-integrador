@@ -110,7 +110,7 @@
             <h5>23/24 Torcedora Pro</h5>
             <p class="card-text"> Masculina</p>
             <p>Futebol</p>
-            <a href="pagar.php" class="btn btn-primary">Comprar Agora</a>
+            <a href="pagar.php" class="btn btn-dark">Comprar Agora</a>
 
           </div>
         </div>

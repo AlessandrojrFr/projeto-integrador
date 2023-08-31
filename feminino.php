@@ -37,12 +37,12 @@
 </svg> Minha Conta
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Entrar</a></li>
-              <li><a class="dropdown-item" href="#">Cadastrar</a></li>
+              <li><a class="dropdown-item" href="login.html">Entrar</a></li>
+              <li><a class="dropdown-item" href="cadastro.html">Cadastrar</a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>
-              <li><a class="dropdown-item" href="#">Roupas</a></li>
+              <li><a class="dropdown-item" href="masculino.php">Roupas</a></li>
             </ul>
           </li>
         </ul>
@@ -68,7 +68,7 @@
             <p class="card-text">Treino & Academia</p>
             <p>R$ 149,99</p>
             <p>ou 1x de R$ 149,99</p>
-            <a href="#" class="btn btn-primary">Opção de Compra</a>
+            <a href="#" class="btn btn-dark">Opção de Compra</a>
           </div>
         </div>
       </div>
@@ -81,20 +81,20 @@
             <p class="card-text">Treino & Academia</p>
             <p>R$ 99,99 33% off</p>
             <p>ou 1x de R$ 99,99</p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto2/topn.webp" class="img-fluid" alt="...">
+          <img src="img-projeto2/topn2.png" class="img-fluid" alt="...">
           <div class="card-body">
             <h5 class="card-title">Top Nike Swoosh Feminino</h5>
             <p class="card-text">Futebol</p>
             <p>R$ 399,99</p>
             <p>ou 4x de R$ 100,00</p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
@@ -107,7 +107,7 @@
             <p class="card-text">Casual</p> 
             <p>R$ 279,99</p>
             <p>ou 3x de R$ 93,33</p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
@@ -122,7 +122,7 @@
             <p class="card-text">Futebol</p>
             <p>R$ 229,99 23% off</p>
             <p></p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
@@ -135,7 +135,7 @@
             <p class="card-text">Futebol</p>
             <p>R$ 299,99 25% off</p>
             <p></p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
@@ -148,7 +148,7 @@
             <p class="card-text">Treino & Academia</p>
             <p>R$ 169,99 32% off</p>
             <p></p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
@@ -161,7 +161,7 @@
             <p class="card-text">Futebol</p>
             <p>R$ 109,90</p>
             <p></p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
@@ -176,20 +176,20 @@
             <p class="card-text">Treino e Academia</p>
             <p>R$ 209,90</p>
             <p></p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
 
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img-projeto2/legiin.webp" class="img-fluid" alt="...">
+          <img src="img-projeto2/legiin1.png" class="img-fluid" alt="...">
           <div class="card-body">
             <h5 class="card-title">Legging Nike Pro 365 Feminina</h5>
             <p class="card-text">Treino e Academia</p>
             <p>R$ 199,90</p>
             <p></p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
@@ -202,7 +202,7 @@
             <p class="card-text">Futebol</p>
             <p>R$ 209,90</p>
             <p></p>
-            <a href="#" class="btn btn-primary">Opção de compra</a>
+            <a href="#" class="btn btn-dark">Opção de compra</a>
           </div>
         </div>
       </div>
@@ -215,7 +215,7 @@
             <p class="card-text">Futebol</p>
             <p>R$ 199,90</p>
             <p></p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
@@ -228,7 +228,7 @@
             <p class="card-text">Futebol</p>
             <p>R$ 229,99 32% off</p>
             <p></p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
@@ -241,7 +241,7 @@
             <p class="card-text">Treino e Academia</p>
             <p>R$ 69,99 42% off</p>
             <p></p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
@@ -254,7 +254,7 @@
             <p class="card-text">Treino e Academia</p>
             <p>R$ 249,99 24% off</p>
             <p></p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>
@@ -267,7 +267,7 @@
             <p class="card-text">Treino & Academia</p>
             <p>R$ 129,99 43% off</p>
             <p></p>
-            <a href="#" class="btn btn-primary">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
+            <a href="#" class="btn btn-dark">𝐎𝐩çã𝐨 𝐝𝐞 𝐜𝐨𝐦𝐩𝐫𝐚</a>
           </div>
         </div>
       </div>

@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-    <link rel="stylesheet" href="masculino.css">
-    <title>𝑴𝑨𝑺𝑪𝑼𝑳𝑰𝑵𝑶</title>
+    <link rel="stylesheet" href="infantil.css">
+    <title>𝑰𝑵𝑭𝑨𝑵𝑻𝑰𝑳</title>
   </head>
   <body>
   <nav class="navbar bg-body-tertiary fixed-top">
@@ -16,7 +16,7 @@
     </button>
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">𝐒𝐞𝐬𝐬𝒂̃𝐨 𝙢𝗮𝘀𝗰𝘂𝗹𝗶𝗻𝗼</h5>
+        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">𝐒𝐞𝐬𝐬𝒂̃𝐨 𝐢𝐧𝐟𝐚𝐧𝐭𝐢𝐥</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body">
@@ -62,36 +62,36 @@
     <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="bkp/02611151.avif" class="img-fluid" width="300" height="100">
+          <img src="img talarico/02614951.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Camisa Nike Corinthians I 2023/24 Torcedor Pro</h5>
+            <h5 class="card-title">Camisa Nike Liverpool II 2023/24 Pro</h5>
             <h5 class="card-title"></h5>
-            <p>Futebol</p>
-            <p>R$ 299,90</p>
+            <p>Pré-Adolescentes / Futebol</p>
+            <p>R$ 379,90</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="bkp/0247150L.avif" class="img-fluid" width="300" height="100">
+          <img src="img talarico/02584251.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Shorts Nike Los Angeles Lakers Masculino</h5>
+            <h5 class="card-title">Shorts Nike Brasil II 2023/24 Infantil</h5>
             <h5 class="card-title"></h5>
-            <p>Basquete</p>
-            <p>R$ 269,99</p>
+            <p>Pré-Adolescentes / Futebol</p>
+            <p>R$ 179,99</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="bkp/026461ID.avif" class="img-fluid" width="300" height="100">
+          <img src="img talarico/022602P1.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Tênis Nike InfinityRN 4 Masculino 2023/08</h5>
+            <h5 class="card-title">Chuteira Nike Mercurial Superfly 9 Club Society</h5>
             <h5></h5>
-            <p>Corrida</p>
-            <p>R$ 999,99</p>
+            <p>Pré-Adolescentes / Society</p>
+            <p>R$ 399,90</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
@@ -105,36 +105,36 @@
     <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="bkp/026125ID.avif" class="img-fluid" width="300" height="100">
+          <img src="img talarico/02509951.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Camisa Nike Corinthians II 2023/24 Torcedor Pro</h5>
+            <h5 class="card-title">Camiseta Nike Liverpool Infantil 2023/24</h5>
+            <h5 class="card-title"></h5>
+            <p>Pré-Adolescentes / Futebol</p>
+            <p>R$ 129,99</p>
+            <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card" style="width: 18rem;">
+          <img src="img talarico/026219ID.avif" class="img-fluid" width="300" height="100">
+          <div class="card-body">
+            <h5 class="card-title">Shorts Nike Corinthians I 2023/24 Pro Infantil</h5>
             <h5 class="card-title"></h5>
             <p>Futebol</p>
-            <p>R$ 299,90</p>
+            <p>R$ 279,99</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="bkp/024708ID.avif" class="img-fluid" width="300" height="100">
+          <img src="img talarico/024794P1.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Shorts Nike Brooklyn Nets Masculino</h5>
-            <h5 class="card-title"></h5>
-            <p>Basquete</p>
-            <p>R$ 269,99</p>
-            <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card" style="width: 18rem;">
-          <img src="bkp/0264615A.avif" class="img-fluid" width="300" height="100">
-          <div class="card-body">
-            <h5 class="card-title">Tênis Nike InfinityRN 4 Masculino 2023/08</h5>
+            <h5 class="card-title">Chuteira Nike Phantom GX Club Society Infantil</h5>
             <h5></h5>
-            <p>Corrida</p>
-            <p>R$ 999,90</p>
+            <p>Pré-Adolescentes / Society</p>
+            <p>R$ 399,90</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
@@ -149,36 +149,36 @@
 <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/02612415.avif" class="img-fluid" width="300" height="100">
+          <img src="img talarico/02263715.webp" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Camisa de Goleiro Nike Corinthians 2023/24</h5>
+            <h5 class="card-title">Camisa Nike Brasil II 2022/24 Pro Crianças</h5>
             <h5 class="card-title"></h5>
-            <p>Futebol</p>
-            <p>R$ 299,90</p>
+            <p>Crianças / Futebol</p>
+            <p>R$ 199,99</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="bkp/026961NX.avif" class="img-fluid" width="300" height="100">
+          <img src="img talarico/02649515.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Shorts Nike Brasil Limited Masculino</h5>
+            <h5 class="card-title">Shorts Nike Team 31 Standard Issue Infantil</h5>
             <h5 class="card-title"></h5>
-            <p>Basquete</p>
-            <p>R$ 499,99</p>
+            <p>Pré-Adolescentes / Basquete</p>
+            <p>R$ 399,90</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="bkp/02670951.avif" class="img-fluid" width="300" height="100">
+          <img src="img talarico/022603IM.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Tênis Nike InfinityRN 4 Feminino 2023/08</h5>
+            <h5 class="card-title">Chuteira Nike Mercurial Vapor 15 Club Society</h5>
             <h5></h5>
-            <p>Corrida</p>
-            <p>R$ 999,99</p>
+            <p>Pré-Adolescentes / Society</p>
+            <p>R$ 349,90</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>

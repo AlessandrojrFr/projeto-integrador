@@ -15,7 +15,7 @@
     <!--- Navbar --->
     <nav class="navbar bg-body-tertiary fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.php"><img id="bicho" src="img talarico/BackgroundEraser_20230811_081558768.png" width="65" height="59"><h1>𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌</h1></a>
+    <a class="navbar-brand" href="masculino.php"><img id="bicho" src="img talarico/BackgroundEraser_20230811_081558768.png" width="65" height="59"><h1>𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌</h1></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -40,12 +40,14 @@
 </svg> Minha Conta
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="cadastro.html">Entrar</a></li>
-              <li><a class="dropdown-item" href="cadastro.html">Cadastrar</a></li>
+              <li><a class="dropdown-item" href="entrar_cadastrar.php">Entrar</a></li>
+              <li><a class="dropdown-item" href="entrar_cadastrar.php">Cadastrar</a></li>
+              <li><a class="dropdown-item" href="feminino.php">Feminino</a></li>
+              <li><a class="dropdown-item" href="menino.php">Masculino</a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>
-              <li><a class="dropdown-item" href="index.php">Roupas</a></li>
+              <li><a class="dropdown-item" href="masculino.php">Roupas</a></li>
             </ul>
           </li>
         </ul>

@@ -12,7 +12,7 @@
 <body>
 <nav class="navbar bg-body-tertiary fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.php"><img id="bicho" src="img talarico/BackgroundEraser_20230811_081558768.png" width="65" height="59"><h1>𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌</h1></a>
+    <a class="navbar-brand" href="masculino.php"><img id="bicho" src="img talarico/BackgroundEraser_20230811_081558768.png" width="65" height="59"><h1>𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌</h1></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -24,10 +24,10 @@
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Masculino</a>
+            <a class="nav-link active" aria-current="page" href="#">𝕹𝖔𝖛𝖎𝖉𝖆𝖉𝖊𝖘</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Feminino</a>
+            <a class="nav-link" href="#">𝕾𝖔𝖇𝖗𝖊 𝕹𝖔́𝖘</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -37,12 +37,14 @@
 </svg> Minha Conta
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Entrar</a></li>
-              <li><a class="dropdown-item" href="#">Cadastrar</a></li>
+              <li><a class="dropdown-item" href="entrar_cadastrar.php">Entrar</a></li>
+              <li><a class="dropdown-item" href="entrar_cadastrar.php">Cadastrar</a></li>
+              <li><a class="dropdown-item" href="feminino.php">Feminino</a></li>
+              <li><a class="dropdown-item" href="menino.php">Masculino</a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>
-              <li><a class="dropdown-item" href="index.php">Voltar</a></li>
+              <li><a class="dropdown-item" href="masculino.php">Roupas</a></li>
             </ul>
           </li>
         </ul>

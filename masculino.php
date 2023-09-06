@@ -64,7 +64,7 @@
   <br>
   <br>
 
-  <h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐂𝐀𝐌𝐈𝐒𝐀𝐒 𝐍𝐈𝐊𝐄 𝐏𝐑𝐎 𝐂𝐎𝐎𝐋</h1>
+  
   <br>
   <br>
   <div class="container">
@@ -137,7 +137,7 @@
       <br>
       <br>
 
-      <h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐂𝐀𝐌𝐈𝐒𝐀𝐒 𝐒𝐏𝐎𝐑𝐓𝐒𝐖𝐄𝐀𝐑 𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋 𝐈𝐂𝐎𝐍</h1>
+     
 
       <div class="col">
         <div class="card" style="width: 18rem;">
@@ -191,7 +191,7 @@
         </div>
       </div>
 
-      <h1>𝐃𝐄𝐒𝐓𝐀𝐐𝐔𝐄 𝐒𝐇𝐎𝐑𝐓𝐒 𝐕𝐀𝐑𝐈𝐀𝐃𝐎𝐒 𝐌𝐀𝐒𝐂𝐔𝐋𝐈𝐍𝐎𝐒</h1>
+      
 
       <div class="col">
         <div class="card" style="width: 18rem;">

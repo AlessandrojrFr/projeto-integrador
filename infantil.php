@@ -10,7 +10,7 @@
   <body>
   <nav class="navbar bg-body-tertiary fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand" href="inicial.php"><img src="img talarico/BackgroundEraser_20230811_081558768.png" height="59" width="59">𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌</a>
+    <a class="navbar-brand" href="index.php"><img src="img talarico/BackgroundEraser_20230811_081558768.png" height="59" width="59">𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -62,7 +62,7 @@
     <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/02614951.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/02614951.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
             <h5 class="card-title">Camisa Nike Liverpool II 2023/24 Pro</h5>
             <h5 class="card-title"></h5>
@@ -74,7 +74,7 @@
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/02584251.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/02584251.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
             <h5 class="card-title">Shorts Nike Brasil II 2023/24 Infantil</h5>
             <h5 class="card-title"></h5>
@@ -86,7 +86,7 @@
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/022602P1.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/022602P1.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
             <h5 class="card-title">Chuteira Nike Mercurial Superfly 9 Club Society</h5>
             <h5></h5>
@@ -105,7 +105,7 @@
     <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/02509951.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/02509951.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
             <h5 class="card-title">Camiseta Nike Liverpool Infantil 2023/24</h5>
             <h5 class="card-title"></h5>
@@ -117,7 +117,7 @@
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/026219ID.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/026219ID.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
             <h5 class="card-title">Shorts Nike Corinthians I 2023/24 Pro Infantil</h5>
             <h5 class="card-title"></h5>
@@ -129,7 +129,7 @@
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/024794P1.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/024794P1.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
             <h5 class="card-title">Chuteira Nike Phantom GX Club Society Infantil</h5>
             <h5></h5>
@@ -149,7 +149,7 @@
 <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/02263715.webp" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/02263715.webp" class="img-fluid" width="300" height="100">
           <div class="card-body">
             <h5 class="card-title">Camisa Nike Brasil II 2022/24 Pro Crianças</h5>
             <h5 class="card-title"></h5>
@@ -161,7 +161,7 @@
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/02649515.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/02649515.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
             <h5 class="card-title">Shorts Nike Team 31 Standard Issue Infantil</h5>
             <h5 class="card-title"></h5>
@@ -173,7 +173,7 @@
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img talarico/022603IM.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/022603IM.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
             <h5 class="card-title">Chuteira Nike Mercurial Vapor 15 Club Society</h5>
             <h5></h5>

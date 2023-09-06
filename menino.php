@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-    <link rel="stylesheet" href="feminino.css">
-    <title>𝑭𝑬𝑴𝑰𝑵𝑰𝑵𝑶</title>
+    <link rel="stylesheet" href="masculino.css">
+    <title>𝑴𝑨𝑺𝑪𝑼𝑳𝑰𝑵𝑶</title>
   </head>
   <body>
   <nav class="navbar bg-body-tertiary fixed-top">
@@ -16,7 +16,7 @@
     </button>
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">𝐒𝐞𝐬𝐬𝒂̃𝐨 𝗳𝗲𝗺𝗶𝗻𝗶𝗻𝗼</h5>
+        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">𝐒𝐞𝐬𝐬𝒂̃𝐨 𝙢𝗮𝘀𝗰𝘂𝗹𝗶𝗻𝗼</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body">
@@ -30,7 +30,7 @@
             </a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="infantil.php">𝐒𝐞𝐬𝐬𝒂̃𝐨 𝐢𝐧𝐟𝐚𝐧𝐭𝐢𝐥</a></li>
-              <li><a class="dropdown-item" href="menino.php">𝐒𝐞𝐬𝐬𝒂̃𝐨 𝙢𝗮𝘀𝗰𝘂𝗹𝗶𝗻𝗼</a></li>
+              <li><a class="dropdown-item" href="masculino.php">𝐒𝐞𝐬𝐬𝒂̃𝐨 𝙢𝗮𝘀𝗰𝘂𝗹𝗶𝗻𝗼</a></li>
               <li><a class="dropdown-item" href="feminino.php">𝐒𝐞𝐬𝐬𝒂̃𝐨 𝗳𝗲𝗺𝗶𝗻𝗶𝗻𝗼</a></li>
               <li>
                 <hr class="dropdown-divider">
@@ -62,36 +62,36 @@
     <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img_xandi/02712415.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/02611151.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Camiseta Nike Brasil Academy Pro Feminina</h5>
+            <h5 class="card-title">Camisa Nike Corinthians I 2023/24 Torcedor Pro</h5>
             <h5 class="card-title"></h5>
             <p>Futebol</p>
-            <p>R$ 169,99</p>
+            <p>R$ 299,90</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img_xandi/02578951.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/0247150L.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Shorts Nike Brasil II 2023/24 Pro Feminino</h5>
+            <h5 class="card-title">Shorts Nike Los Angeles Lakers Masculino</h5>
             <h5 class="card-title"></h5>
-            <p>Futebol</p>
-            <p>R$ 209,99</p>
+            <p>Basquete</p>
+            <p>R$ 269,99</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img_xandi/025183ID.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/026461ID.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Tênis Nike Zoom Bella 6 Feminino</h5>
+            <h5 class="card-title">Tênis Nike InfinityRN 4 Masculino 2023/08</h5>
             <h5></h5>
-            <p>Treino & Academia</p>
-            <p>R$ 449,99</p>
+            <p>Corrida</p>
+            <p>R$ 999,99</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
@@ -105,36 +105,36 @@
     <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img_xandi/02581015.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/026125ID.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Camisa Nike Brasil 2 23/24 Jogadora Feminina</h5>
+            <h5 class="card-title">Camisa Nike Corinthians II 2023/24 Torcedor Pro</h5>
             <h5 class="card-title"></h5>
             <p>Futebol</p>
-            <p>R$ 399,99</p>
+            <p>R$ 299,90</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img_xandi/02638815.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/024708ID.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Shorts Nike Brasil I 2022/23 Feminino</h5>
+            <h5 class="card-title">Shorts Nike Brooklyn Nets Masculino</h5>
             <h5 class="card-title"></h5>
-            <p>Futebol</p>
-            <p>R$ 209,99</p>
+            <p>Basquete</p>
+            <p>R$ 269,99</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img_xandi/0135655C.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/0264615A.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Tênis Nike Air Force 07 Feminino</h5>
+            <h5 class="card-title">Tênis Nike InfinityRN 4 Masculino 2023/08</h5>
             <h5></h5>
-            <p>Casual</p>
-            <p>R$ 799,99</p>
+            <p>Corrida</p>
+            <p>R$ 999,90</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
@@ -149,36 +149,36 @@
 <div class="row">
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img_xandi/0261000L.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/02612415.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Camiseta Nike Brasil Feminina 2023/08</h5>
+            <h5 class="card-title">Camisa de Goleiro Nike Corinthians 2023/24</h5>
             <h5 class="card-title"></h5>
             <p>Futebol</p>
-            <p>R$ 169,99</p>
+            <p>R$ 299,90</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img_xandi/024616MT.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/026961NX.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Plus Size - Shorts Nike Feminino 2023/08</h5>
+            <h5 class="card-title">Shorts Nike Brasil Limited Masculino</h5>
             <h5 class="card-title"></h5>
-            <p>Casual</p>
-            <p>R$ 149,99</p>
+            <p>Basquete</p>
+            <p>R$ 499,99</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card" style="width: 18rem;">
-          <img src="img_xandi/026764ID.avif" class="img-fluid" width="300" height="100">
+          <img src="img_xandi/02670951.avif" class="img-fluid" width="300" height="100">
           <div class="card-body">
-            <h5 class="card-title">Tênis Nike Metcon 9 Feminino 2023/08</h5>
+            <h5 class="card-title">Tênis Nike InfinityRN 4 Feminino 2023/08</h5>
             <h5></h5>
-            <p>Treino & Academia</p>
-            <p>R$ 1199,99</p>
+            <p>Corrida</p>
+            <p>R$ 999,99</p>
             <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
           </div>
         </div>

@@ -54,77 +54,8 @@
 <br>
 <div class="container">
 <br>
-<br>
-<br>
-<br>
-<br>
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <div class="card" style="width: 18rem;">
-          <img src="img talarico/02712515.avif" class="img-fluid" width="300" height="100">
-          <div class="card-body">
-            <h5 class="card-title">Camiseta Nike Brasil II 2023/24 Supporter</h5>
-            <h5 class="card-title"></h5>
-            <p>Futebol</p>
-            <p>R$ 149,99</p>
-            <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card" style="width: 18rem;">
-          <img src="img talarico/02470351.avif" class="img-fluid" width="300" height="100">
-          <div class="card-body">
-            <h5 class="card-title">Bola Nike Academy Brasil 2023/08</h5>
-            <h5 class="card-title"></h5>
-            <p>Futebol</p>
-            <p>R$ 699,90</p>
-            <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card" style="width: 18rem;">
-          <img src="img talarico/022839ID.webp" class="img-fluid" width="300" height="100">
-          <div class="card-body">
-            <h5 class="card-title">Mochila Nike Elemental Premium Unissex</h5>
-            <h5 class="card-title"></h5>
-            <p>Casual</p>
-            <p>R$ 359,99</p>
-            <a href="" class="btn btn-dark">𝘾𝙤𝙢𝙥𝙧𝙖𝙧</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <div class="card">
-  <div class="card-header">
-  <img src="img talarico/BackgroundEraser_20230811_081558768.png" width="59" height="59"><a>𝐃𝐀𝐑𝐊 𝐖𝐎𝐋𝐅</a>
-  </div>
-  <div class="card-body">
-    <h5 class="card-title"></h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-  </div>
-</div>
+<h1>𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌</h1>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
   </body>
 </html>

@@ -10,7 +10,7 @@
     <header>
         <nav class="navbar">
             <div class="logo">
-                <a href="index.html">Minha Loja</a>
+                <a href="index.php">Minha Loja</a>
             </div>
             <ul class="nav-links">
                 <li><a href="index.php">Início</a></li>

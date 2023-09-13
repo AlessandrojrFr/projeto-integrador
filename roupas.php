@@ -25,7 +25,7 @@
 <div class="clothing-cards">
     <!-- Card 1 -->
     <div class="clothing-card">
-        <img src="imagens_compras/02712515.avif" alt="Roupa Esportiva 1">
+        <img src="chat/roupa4.png" alt="Roupa Esportiva 1">
         <h2>Roupa Esportiva 1</h2>
         <p>Descrição da roupa esportiva 1.</p>
         <p>Preço: R$ 50,00</p>
@@ -34,7 +34,7 @@
 
     <!-- Card 2 -->
     <div class="clothing-card">
-        <img src="imagens_compras/0249301E.avif" alt="Roupa Esportiva 2">
+        <img src="chat/zano1.png" alt="Roupa Esportiva 2">
         <h2>Roupa Esportiva 2</h2>
         <p>Descrição da roupa esportiva 2.</p>
         <p>Preço: R$ 40,00</p>
@@ -43,7 +43,7 @@
 
     <!-- Card 3 -->
     <div class="clothing-card">
-        <img src="imagens_compras/camisa-pre-jogo-cr-flamengo.avif" alt="Roupa Esportiva 3">
+        <img src="chat/roupa13.png" alt="Roupa Esportiva 3">
         <h2>Roupa Esportiva 3</h2>
         <p>Descrição da roupa esportiva 3.</p>
         <p>Preço: R$ 35,00</p>
@@ -52,7 +52,7 @@
 
     <!-- Card 4 -->
     <div class="clothing-card">
-        <img src="imagens_compras/shorts-squadra-21.avif" alt="Roupa Esportiva 4">
+        <img src="chat/roupa18.png" alt="Roupa Esportiva 4">
         <h2>Roupa Esportiva 4</h2>
         <p>Descrição da roupa esportiva 4.</p>
         <p>Preço: R$ 60,00</p>

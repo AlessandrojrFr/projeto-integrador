@@ -13,7 +13,7 @@
                 <li><a href="index.php">Início</a></li>
                 <li><a href="shop.php">Compras</a></li>
                 <li><a href="checkout.php">Pagamento</a></li>
-                <li><a href="roupas.html">Roupas</a></li>
+                <li><a href="roupas.php">Roupas</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
             </ul>
@@ -34,13 +34,13 @@
     <!-- Seção de destaque de produtos -->
     <div class="featured-products">
         <div class="product">
-            <img src="imagens_compras/02614115.avif" alt="Camisa de Futebol">
+            <img src="chat/roupa2.png" alt="Camisa de Futebol">
             <h3>Camisa de Futebol</h3>
             <p>Camisa oficial do time Barcelona</p>
             <p>Preço: R$99.00</p>
         </div>
         <div class="product">
-            <img src="imagens_compras/025231ID.avif" alt="Tênis de Corrida">
+            <img src="chat/roupa1.png" alt="Tênis de Corrida">
             <h3>Tênis de Corrida</h3>
             <p>Ideal para treinamentos de corrida</p>
             <p>Preço: R$129.00</p>

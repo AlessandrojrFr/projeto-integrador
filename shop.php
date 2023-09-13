@@ -25,16 +25,16 @@
         <!-- Cards de roupas -->
         <div class="clothing-cards">
             <div class="clothing-card">
-                <img src="imagens_compras/00847251.avif" alt="Roupa 1">
+                <img src="chat/roupa3.png" alt="Roupa 1">
                 <h2>Roupa 1</h2>
                 <p>Camiseta Nike Sportswear Polo.</p>
                 <p>Preço: R$80.00</p>
                 <button>Adicionar ao Carrinho</button>
             </div>
             <div class="clothing-card">
-                <img src="imagens_compras/0257510L.avif" alt="Roupa 2">
+                <img src="chat/roupa17.png" alt="Roupa 2">
                 <h2>Roupa 2</h2>
-                <p>Camisa Nike Brasil I 2023/24.</p>
+                <p>Camisa Paris Saint Germain I 2023/24.</p>
                 <p>Preço: R$90.00</p>
                 <button>Adicionar ao Carrinho</button>
             </div>

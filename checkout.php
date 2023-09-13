@@ -25,7 +25,7 @@
         <!-- Lista de itens no carrinho -->
         <div class="cart">
             <div class="cart-item">
-                <img src="imagens_compras/00847251.avif" alt="Roupa 1">
+                <img src="chat/roupa3.png" alt="Roupa 1">
                 <div class="item-details">
                     <h3>Roupa 1</h3>
                     <p>Preço: R$80.00</p>

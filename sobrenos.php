@@ -52,7 +52,7 @@
 
         <h2>Nossa Equipe</h2>
         <p>Nossa equipe é composta por especialistas em esportes, fitness e moda. Estamos aqui para ajudar você a encontrar os produtos certos e fornecer orientação personalizada para o seu sucesso no esporte e na atividade física.</p>
-        <img src="imagens_compras/intrutor.jpg" alt="Equipe da Minha Loja">
+        <img src="chat/roupa16.png" alt="Equipe da Minha Loja">
     </div>
 </body>
 </html>

@@ -27,7 +27,7 @@
         <div class="clothing-cards">
             <!-- Card 1 -->
             <div class="clothing-card">
-                <img src="imagens_compras/Camisa_1_Juventus_23-24_Preto_IB0491_HM1.avif" alt="Roupa Esportiva 1">
+                <img src="chat/roupa5.png" alt="Roupa Esportiva 1">
                 <h2>Roupa Esportiva 1</h2>
                 <p>Camiseta da Juventus.</p>
                 <p>Preço: R$ 50,00</p>
@@ -36,7 +36,7 @@
 
             <!-- Card 2 -->
             <div class="clothing-card">
-                <img src="imagens_compras/femininavif.avif" alt="Roupa Esportiva 2">
+                <img src="chat/roupa15.png" alt="Roupa Esportiva 2">
                 <h2>Roupa Esportiva 2</h2>
                 <p>Camiseta do Estados Unidos.</p>
                 <p>Preço: R$ 40,00</p>
@@ -47,8 +47,8 @@
 <div class="clothing-cards">
     <!-- Card 1 -->
     <div class="clothing-card">
-        <img src="imagens_compras/Camisa_1_Manchester_United_23-24_Vermelho_IP1726_HM1.avif" alt="Roupa Esportiva 1">
-        <h2>Roupa Esportiva 1</h2>
+        <img src="chat/roupa6.png" alt="Roupa Esportiva 1">
+        <h2>Roupa Esportiva 3</h2>
         <p>Camiseta do Manchester United.</p>
         <p>Preço: R$ 50,00</p>
         <button>Adicionar ao Carrinho</button>
@@ -56,8 +56,8 @@
 
     <!-- Card 2 -->
     <div class="clothing-card">
-        <img src="imagens_compras/feminina2.avif" alt="Roupa Esportiva 2">
-        <h2>Roupa Esportiva 2</h2>
+        <img src="chat/roupa14.png" alt="Roupa Esportiva 2">
+        <h2>Roupa Esportiva 4</h2>
         <p>Camiseta de Portugal.</p>
         <p>Preço: R$ 40,00</p>
         <button>Adicionar ao Carrinho</button>
@@ -65,8 +65,8 @@
 
     <!-- Card 3 -->
     <div class="clothing-card">
-        <img src="imagens_compras/Camisa_1_Real_Madrid_23-24_Branco_HR3796_HM1.avif" alt="Roupa Esportiva 3">
-        <h2>Roupa Esportiva 3</h2>
+        <img src="chat/roupa7.png" alt="Roupa Esportiva 3">
+        <h2>Roupa Esportiva 5</h2>
         <p>Camiseta do Real Madrid.</p>
         <p>Preço: R$ 35,00</p>
         <button>Adicionar ao Carrinho</button>
@@ -74,8 +74,8 @@
 
     <!-- Card 4 -->
     <div class="clothing-card">
-        <img src="imagens_compras/parisavif.avif" alt="Roupa Esportiva 4">
-        <h2>Roupa Esportiva 4</h2>
+        <img src="chat/roupa17.png" alt="Roupa Esportiva 4">
+        <h2>Roupa Esportiva 6</h2>
         <p>Camiseta do Paris  Saint Germain.</p>
         <p>Preço: R$ 60,00</p>
         <button>Adicionar ao Carrinho</button>

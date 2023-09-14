@@ -16,7 +16,7 @@
 <br>
 <div class="container_form">
 
-<h1>𝑬𝒏𝒕𝒓𝒂𝒓/𝑪𝒂𝒅𝒂𝒔𝒕𝒓𝒂𝒓</h1>
+<h1>𝑬𝒏𝒕𝒓𝒂𝒓 / 𝑪𝒂𝒅𝒂𝒔𝒕𝒓𝒂𝒓</h1>
 
 <form class="form" action="#" method="post">
     

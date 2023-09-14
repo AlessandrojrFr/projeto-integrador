@@ -15,9 +15,8 @@
             <ul class="nav-links">
                 <li><a href="index.php">Início</a></li>
                 <li><a href="shop.php">Compras</a></li>
-                <li><a href="checkout.php">Pagamento</a></li>
-                <li><a href="roupas.php">Roupas</a></li>
-                <li><a href="minhaconta.php">Minha Conta</a></li>
+                <li><a href="roupinha.php">Promoções</a></li>
+                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
             </ul>
         </nav>

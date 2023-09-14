@@ -13,10 +13,11 @@
                 <a href="index.php">Minha Loja</a>
             </div>
             <ul class="nav-links">
-                <li><a href="index.php">Início</a></li>
+            <li><a href="index.php">Início</a></li>
                 <li><a href="shop.php">Compras</a></li>
-                <li><a href="checkout.php">Pagamento</a></li>
                 <li><a href="roupas.php">Roupas</a></li>
+                <li><a href="checkout.php">Pagamento</a></li>
+                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
             </ul>
         </nav>
     </header>

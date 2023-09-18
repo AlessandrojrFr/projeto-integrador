@@ -8,15 +8,25 @@
     <title>𝑬𝑵𝑻𝑹𝑨𝑹 𝑪𝑨𝑫𝑨𝑺𝑻𝑹𝑨𝑹</title>
   </head>
   <body>
+  <header>
+        <nav>
+            <ul>
+                <li><a href="index.php">Início</a></li>
+                <li><a href="shop.php">Compras</a></li>
+                <li><a href="roupinha.php">Promoções</a></li>
+                <li><a href="entrar_cadastrar.php">Cadastro</a></li>
+                <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="minhaconta.php">Minha Conta</a></li>
+                <li><a href="restrita.php">Login up</a></li>
+            </ul>
+        </nav>
+    </header>
   <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 <div class="container_form">
 
-<h1>𝑬𝒏𝒕𝒓𝒂𝒓 / 𝑪𝒂𝒅𝒂𝒔𝒕𝒓𝒂𝒓</h1>
+<h1>Faça seu Cadastro aqui!</h1>
 
 <form class="form" action="#" method="post">
     

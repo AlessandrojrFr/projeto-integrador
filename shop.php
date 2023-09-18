@@ -1,20 +1,23 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Roupas à Venda</title>
-    <link rel="stylesheet" href="CSS/styles.css">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <header>
         <nav>
             <ul>
-            <li><a href="index.php">Início</a></li>
-                <li><a href="roupas.php">Roupas</a></li>
-                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
+                <li><a href="restrita.php">Início</a></li>
+                <li><a href="shop.php">Compras</a></li>
+                <li><a href="roupinha.php">Promoções</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
+                <li><a href="cadastro.php">Cadastro</a></li>
+                <li><a href="restrita.php">Login up</a></li>
             </ul>
         </nav>
     </header>
@@ -25,16 +28,16 @@
         <!-- Cards de roupas -->
         <div class="clothing-cards">
             <div class="clothing-card">
-                <img src="chat/roupa3.png" alt="Roupa 1">
+                <img src="imagens_compras/Camisa_1_Juventus_23-24_Preto_IB0491_HM1.avif" alt="Roupa 1">
                 <h2>Roupa 1</h2>
-                <p>Camiseta Nike Sportswear Polo.</p>
+                <p>Camiseta Juventus Nike Feminino.</p>
                 <p>Preço: R$80.00</p>
                 <button>Adicionar ao Carrinho</button>
             </div>
             <div class="clothing-card">
-                <img src="chat/roupa17.png" alt="Roupa 2">
+                <img src="imagens_compras/Camisa_1_Manchester_United_23-24_Vermelho_IP1726_HM1.avif" alt="Roupa 2">
                 <h2>Roupa 2</h2>
-                <p>Camisa Paris Saint Germain I 2023/24.</p>
+                <p>Camisa Manchester United 2023/24.</p>
                 <p>Preço: R$90.00</p>
                 <button>Adicionar ao Carrinho</button>
             </div>
@@ -98,13 +101,13 @@
     <div class="product-list">
         <div class="product">
             <h2>Produto 1</h2>
-            <p>Camiseta Nike Sportswear Polo.</p>
+            <p>Camiseta Juventus Nike Feminino.</p>
             <p>Preço: R$80.00</p>
             <button onclick="addToCart('Produto 1', 80)">Adicionar ao Carrinho</button>
         </div>
         <div class="product">
             <h2>Produto 2</h2>
-            <p>Camisa Nike Brasil I 2023/24.</p>
+            <p>Camisa Manchester United 2023/24.</p>
             <p>Preço: R$90.00</p>
             <button onclick="addToCart('Produto 2', 90)">Adicionar ao Carrinho</button>
         </div>

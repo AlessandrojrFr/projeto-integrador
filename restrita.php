@@ -17,7 +17,7 @@
                 <li><a href="lugar.php">Onde Estamos</a></li>
                 <li><a href="contato.php">Contato</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
-                <li><a href="deletar.php">Sair</a></li>
+              
             </ul>
         </nav>
     </header>

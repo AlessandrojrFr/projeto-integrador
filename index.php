@@ -13,7 +13,7 @@
                 <li><a href="index.php">Início</a></li>
                 <li><a href="shop.php">Compras</a></li>
                 <li><a href="checkout.php">Pagamento</a></li>
-                <li><a href="roupas.html">Roupas</a></li>
+                <li><a href="roupas.php">Roupas</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
             </ul>

@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 h1{
     color: rgb(0, 0, 0);
@@ -151,7 +151,7 @@ h1{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #00ff26;
+    background-color: #ff0000;
     visibility: hidden;
 
 }
@@ -164,7 +164,7 @@ h1{
 
 .form_new_input:checked ~ .radio_label,
 .form_new_input:checked ~ .check_label {
-    color: #00ff26;
+    color: #ff0000;
 }
 
 
@@ -206,4 +206,35 @@ h1{
     margin-bottom: 15px;
     font-weight: bold;
     
+}
+/* Estilo do cabeĆ§alho */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Estilo da barra de navegaĆ§Ć£o */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Estilo do conteĆŗdo */
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
 }

@@ -38,7 +38,7 @@
         <section class="conteudo-restrito">
             <h2>Notícias Esportivas</h2>
             <article class="noticia">
-                <img src="chat/city2.png" alt="Notícia 1">
+                <img src="chat/city22222222" alt="Notícia 1">
                 <h3>Manchester City é campeão pela primeira vez da Champions League!</h3>
                 <p>Após ganhar pela primeira vez a Tríplice Coroa, City é campeão da Supercopa da UEFA em cima do Espanhol Sevilha.</p>
             </article>

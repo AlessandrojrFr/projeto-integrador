@@ -4,50 +4,54 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-    <link rel="stylesheet" href="CSS/entrar_cadastrar.css">
+    <link rel="stylesheet" href="css/entrar_cadastrar.css">
     <title>𝑬𝑵𝑻𝑹𝑨𝑹 𝑪𝑨𝑫𝑨𝑺𝑻𝑹𝑨𝑹</title>
   </head>
   <body>
+
   <header>
         <nav>
             <ul>
                 <li><a href="index.php">Início</a></li>
                 <li><a href="shop.php">Compras</a></li>
                 <li><a href="roupinha.php">Promoções</a></li>
-                <li><a href="entrar_cadastrar.php">Cadastro</a></li>
-                <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="roupas.php">Roupas</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
-                <li><a href="restrita.php">Login up</a></li>
+                <li><a href="sobrenos.php">Sobre Nós</a></li>
             </ul>
         </nav>
     </header>
+
   <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 <div class="container_form">
 
-<h1>Faça seu Cadastro aqui!</h1>
+<h1>𝗘𝗻𝘁𝗿𝗮𝗿/𝗖𝗮𝗱𝗮𝘀𝘁𝗿𝗮𝗿</h1>
 
 <form class="form" action="#" method="post">
     
     <div class="form_grupo">
-        <label for="nome" class="form_label">𝗡𝗼𝗺𝗲</label>
+        <label for="nome" class="form_label">Nome</label>
         <input type="text" name="nome" class="form_input" id="nome" placeholder="Nome" required>
     </div>
     
     <div class="form_grupo">
-        <label for="e-mail" class="form_label">𝗘𝗺𝗮𝗶𝗹</label>
+        <label for="e-mail" class="form_label">Email</label>
         <input type="email" name="email" class="form_input" id="email" placeholder="seuemail@email.com" required>
     </div>
     
     <div class="form_grupo">
-        <label for="datanascimento" class="form_label">𝗗𝗮𝘁𝗮 𝗱𝗲 𝗡𝗮𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼</label>
+        <label for="datanascimento" class="form_label">Data/nascimento</label>
         <input type="date" name="datanascimento" class="form_input" id="datanascimento" placeholder="Data de Nascimento" required>
     </div>        
 
     <div class="form_grupo">
         
-        <label for="estadocivil" class="text">𝗘𝘀𝘁𝗮𝗱𝗼 𝗰𝗶𝘃𝗶𝗹</label>
+        <label for="estadocivil" class="text">Estado civil</label>
         <select name="estadocivil" class="dropdown" required>
             
             <option selected disabled class="form_select_option" value="">Selecione</option>
@@ -79,7 +83,7 @@
 
     <div class="form_grupo">
 
-        <span class="legenda">𝗩𝗼𝗰𝗲̂ 𝗾𝘂𝗲𝗿 𝗽𝗿𝗼𝗰𝘂𝗿𝗮𝗿 𝗼 𝗾𝘂𝗲?</span>
+        <span class="legenda">Você quer procurar o que?</span>
 
         <div class="check-btn">
             <input type="checkbox" class="form_new_input" id="html5" name="aprender" value="html5">
@@ -104,7 +108,7 @@
 
         <div class="form_message">
             
-            <label for="message" class="form_message_label">𝗗𝗶𝗴𝗶𝘁𝗲 𝗮𝗾𝘂𝗶 𝘀𝘂𝗮 𝘀𝘂𝗮 𝗺𝗲𝗻𝘀𝗮𝗴𝗲𝗺:</label>
+            <label for="message" class="form_message_label">Digite aqui sua mesagem:</label>
             <textarea name="mensagem" id="message" cols="30" rows="3" class="form_input message_input" required></textarea>
 
         </div>

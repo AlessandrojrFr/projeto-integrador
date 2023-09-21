@@ -12,11 +12,10 @@
             <ul>
                 <li><a href="index.php">Início</a></li>
                 <li><a href="shop.php">Compras</a></li>
-                <li><a href="roupinha.php">Promoções</a></li>
                 <li><a href="entrar_cadastrar.php">Cadastro</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
-                <li><a href="restrita.php">Login up</a></li>
+         
             </ul>
         </nav>
     </header>
@@ -36,15 +35,20 @@
         <p>Endereço de E-mail: joaotalarico2007@gmail.com</p>
         <p>Telefone: (43) 9904 - 2250</p>
 
-        <h2>Alterar Senha</h2>
+        <h2>Mudar seu Perfil</h2>
         <form action="alterar-senha.php" method="post">
-            <label for="senha-atual">Senha Atual:</label>
-            <input type="password" id="senha-atual" name="senha-atual" required><br>
-            <label for="nova-senha">Nova Senha:</label>
-            <input type="password" id="nova-senha" name="nova-senha" required><br>
-            <label for="confirmar-senha">Confirmar Nova Senha:</label>
-            <input type="password" id="confirmar-senha" name="confirmar-senha" required><br>
-            <button type="submit">Alterar Senha</button>
+            <label for="seunome">Seu nome:</label>
+            <input type="text" name="nome" class="form_input" id="nome" placeholder="Nome" required><br>
+            <label for="datanascimento" class="form_label">Data de Nascimento</label>
+            <input type="date" name="datanascimento" class="form_input" id="datanascimento" placeholder="Data de Nascimento" required>
+            <label for="endereco">Endereço:</label>
+            <input type="text" name="endereco" class="form_input" id="endereco" placeholder="Endereço" required><br>
+            <label for="endereco">Estado:</label>
+            <input type="text" name="estado" class="form_input" id="estado" placeholder="Endereço" required><br>
+            <label for="endereco">CEP:</label>
+            <input type="text" name="CEP" class="form_input" id="CEP" placeholder="CEP" required><br>
+            <label for="endereco">Telefone:</label>
+            <input type="text" name="telefone" class="form_input" id="telefone" placeholder="Telefone" required><br>
         </form>
     </div>
     

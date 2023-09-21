@@ -1,85 +1,60 @@
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Área Restrita de Esportes</title>
-    <link rel="stylesheet" href="CSS/styles.css">
+    <title>Novidades da Loja de Esportes</title>
+    <link rel="stylesheet" href="css/restrita.css">
 </head>
 <body>
-<header>
+    <header>
         <nav>
-            <ul>
-                <li><a href="novidades.php">Novidades</a></li>
-                <li><a href="sobrenos.php">Sobre nós</a></li>
-                <li><a href="consulta.php">Horário de consulta</a></li>
-                <li><a href="lugar.php">Onde Estamos</a></li>
-                <li><a href="contato.php">Contato</a></li>
-                <li><a href="minhaconta.php">Minha Conta</a></li>
-              
-            </ul>
+            <a href="index.php">Início</a>
+            <a href="shop.php">Compras</a>
+            <a href="contato.php">Contato</a>
+            <a href="minhaconta.php">Minha Conta</a>
+            <a href="novidades.php">Novidades</a>
+            <a href="consulta.php">Horário de Consulta</a>
         </nav>
     </header>
-    <main>
-        <h1>Bem-vindo à Área de Esportes</h1>
 
-        <section class="conteudo-restrito">
-            <h2>Calendário de Eventos Esportivos</h2>
-            <p>Confira nosso calendário de eventos esportivos programados para este ano.</p>
-            <ul>
-                <li>Corrida de 5K - 15 de Março</li>
-                <li>Torneio de Tênis - 25 de Abril</li>
-                <li>Copa de Futebol - 10 de Maio</li>
-                <li>Campeonato de Natação - 5 de Junho</li>
-            </ul>
-        </section>
+    <main class="novidades-section">
+        <h1>Novidades da Semana</h1>
 
-        <section class="conteudo-restrito">
-            <h2>Notícias Esportivas</h2>
-            <article class="noticia">
-                <img src="chat/viado.jpg" alt="Notícia 1">
-                <h3>Manchester City é campeão pela primeira vez da Champions League!</h3>
-                <p>Após ganhar pela primeira vez a Tríplice Coroa, City é campeão da Supercopa da UEFA em cima do Espanhol Sevilha.</p>
-            </article>
-            
-            <article class="noticia">
-                <img src="chat/madrid.jpg" alt="Notícia 2">
-                <h3>Endrick sobre atuar no Real Madrid ano que vem.</h3>
-                <p>"Gostaria de jogar com a camisa 9 apesar que sei do tamanho da história que ela tem, uma camisa de peso mas que combina comigo".</p>
-            </article>
-        </section>
-        
-        <section class="conteudo-restrito">
-            <h2>Agenda de Treinamentos</h2>
-            <p>Veja a programação de treinamentos da semana para nossos atletas.</p>
-            <table>
-                <tr>
-                    <th>Dia</th>
-                    <th>Atividade</th>
-                    <th>Horário</th>
-                </tr>
-                <tr>
-                    <td>Segunda-feira</td>
-                    <td>Corrida</td>
-                    <td>18:00 - 19:30</td>
-                </tr>
-                <tr>
-                    <td>Quarta-feira</td>
-                    <td>Tênis</td>
-                    <td>17:00 - 19:00</td>
-                </tr>
-                <tr>
-                    <td>Sexta-feira</td>
-                    <td>Natação</td>
-                    <td>19:30 - 21:00</td>
-                </tr>
-            </table>
-        </section>
+        <!-- Card de novidades para Segunda-feira -->
+        <div class="news-card">
+            <h2>Segunda-feira</h2>
+            <p>Novidade específica da segunda-feira. Para que você procura e gosta de camisetas de time, na Segunda - Feira terá promoções com valores acessíveis.</p>
+        </div>
+
+        <!-- Card de novidades para Terça-feira -->
+        <div class="news-card">
+            <h2>Terça-feira</h2>
+            <p>Novidade específica da terça-feira. Terça - Feira é dia para as mulheres que procuram roupas com mais detalhes e com pigmentos diferentes.</p>
+        </div>
+
+        <!-- Card de novidades para Quarta-feira -->
+        <div class="news-card">
+            <h2>Quarta-feira</h2>
+            <p>Novidade específica da quarta-feira. Dia em que contém 50% de de desconto e reduz os valores para aqueles que gostam de camiseta para academia.</p>
+        </div>
+
+        <!-- Card de novidades para Quinta-feira -->
+        <div class="news-card">
+            <h2>Quinta-feira</h2>
+            <p>Novidade específica da quinta-feira. Promoções de chuteiras e calçados esportivos para você que gosta de jogar futsal de salão, ou campo society e fazer uma maratona/caminhada.</p>
+        </div>
+
+        <!-- Card de novidades para Sexta-feira -->
+        <div class="news-card">
+            <h2>Sexta-feira</h2>
+            <p>Novidade específica da sexta-feira. Promoções que detém só camisetas térmicas para ambos, homens e mulheres. </p>
+        </div>
     </main>
-
     <footer>
-        <p>&copy; 2023 - Projeto Homer</p>
+        <p>&copy; 2023 - Sua Loja de Esportes</p>
     </footer>
+
+    
 </body>
 </html>

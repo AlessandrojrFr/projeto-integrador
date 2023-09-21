@@ -1,3 +1,15 @@
+<?php
+    include ("conexao.php");
+
+    $consultar_banco = "SELECT * FROM loja";
+
+   
+    $mysqli -> query("INSERT INTO pagamento ( nome, numerocard, dataa,) values ( '$nome', '$numerocard', '$dataa', ')") or 
+    die ($mysqli->error);    
+
+   
+
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -39,10 +51,10 @@
         <form id="payment-form">
             <h2>Informações de Pagamento</h2>
             <label for="name">Nome no Cartão:</label>
-            <input type="text" id="name" required>
-            <label for="card-number">Número do Cartão:</label>
+            <input type="text" id="nome" required>
+            <label for="card-number" id="numerocart" >Número do Cartão:</label>
             <input type="text" id="card-number" required>
-            <label for="expiration">Data de Expiração:</label>
+            <label for="expiration" id="dataa">Data de Expiração:</label>
             <input type="text" id="expiration" placeholder="MM/AA" required>
             <label for="cvv">CVV:</label>
             <input type="text" id="cvv" required>

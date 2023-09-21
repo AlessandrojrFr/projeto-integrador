@@ -7,21 +7,19 @@
     <link rel="stylesheet" href="CSS/styles.css">
 </head>
 <body>
-    <header>
-        <nav class="navbar">
-            <div class="logo">
-                <a href="index.html">Minha Loja</a>
-            </div>
-            <ul class="nav-links">
+<header>
+        <nav>
+            <ul>
                 <li><a href="index.php">Início</a></li>
                 <li><a href="shop.php">Compras</a></li>
-                <li><a href="checkout.php">Pagamento</a></li>
-                <li><a href="roupas.php">Roupas</a></li>
-                <li><a href="minhaconta.php">Minha Conta</a></li>
+                <li><a href="roupinha.php">Promoções</a></li>
+                <li><a href="entrar_cadastrar.php">Cadastro</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="minhaconta.php">Minha Conta</a></li>
+                <li><a href="restrita.php">Login up</a></li>
             </ul>
         </nav>
-    </header>
+    </header> 
 
     <div class="content">
         <h1>Sobre a Empresa</h1>
@@ -52,7 +50,7 @@
 
         <h2>Nossa Equipe</h2>
         <p>Nossa equipe é composta por especialistas em esportes, fitness e moda. Estamos aqui para ajudar você a encontrar os produtos certos e fornecer orientação personalizada para o seu sucesso no esporte e na atividade física.</p>
-        <img src="imagens_compras/intrutor.jpg" alt="Equipe da Minha Loja">
+        <img src="chat/roupa16.png" alt="Equipe da Minha Loja">
     </div>
 </body>
 </html>

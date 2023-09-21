@@ -19,14 +19,15 @@
     <link rel="stylesheet" href="CSS/styles.css">
 </head>
 <body>
-    <header>
-        <nav>
+<nav>
             <ul>
                 <li><a href="index.php">Início</a></li>
                 <li><a href="shop.php">Compras</a></li>
-                <li><a href="checkout.php">Pagamento</a></li>
                 <li><a href="roupinha.php">Promoções</a></li>
-                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
+                <li><a href="entrar_cadastrar.php">Cadastro</a></li>
+                <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="minhaconta.php">Minha Conta</a></li>
+                <li><a href="restrita.php">Login up</a></li>
             </ul>
         </nav>
     </header>
@@ -37,7 +38,7 @@
         <!-- Lista de itens no carrinho -->
         <div class="cart">
             <div class="cart-item">
-                <img src="imagens_compras/00847251.avif" alt="Roupa 1">
+                <img src="chat/roupa3.png" alt="Roupa 1">
                 <div class="item-details">
                     <h3>Roupa 1</h3>
                     <p>Preço: R$80.00</p>

@@ -10,19 +10,17 @@
     <header>
         <nav>
             <ul>
-               
+                <li><a href="contato.php">Contato</a></li>
                 <li><a href="shop.php">Compras</a></li>
-                <li><a href="minhaconta.php">Minha Conta</a></li>
-                <li><a href="entrar_cadastrar.php">Cadastro</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="minhaconta.php">Minha Conta</a></li>
                 <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
-                
             </ul>
         </nav>
     </header>
     
     <div class="content">
-        <h1>Bem-vindo à Minha Loja</h1>
+        <h1>Bem-vindo a Minha Loja</h1>
         <p>Oferecemos uma variedade de produtos incríveis para você.</p>
     </div>
     

@@ -1,13 +1,14 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Novidades da Loja de Esportes</title>
-    <link rel="stylesheet" href="css/restrita.css">
+    <title>Loja de Roupas Esportivas</title>
+    <link rel="stylesheet" href="css/novidade.css">
 </head>
 <body>
-    <header>
+<header>
         <nav>
             <a href="index.php">Início</a>
             <a href="shop.php">Compras</a>
@@ -18,43 +19,60 @@
         </nav>
     </header>
 
-    <main class="novidades-section">
-        <h1>Novidades da Semana</h1>
-
-        <!-- Card de novidades para Segunda-feira -->
-        <div class="news-card">
-            <h2>Segunda-feira</h2>
-            <p>Novidade específica da segunda-feira. Para que você procura e gosta de camisetas de time, na Segunda - Feira terá promoções com valores acessíveis.</p>
-        </div>
-
-        <!-- Card de novidades para Terça-feira -->
-        <div class="news-card">
-            <h2>Terça-feira</h2>
-            <p>Novidade específica da terça-feira. Terça - Feira é dia para as mulheres que procuram roupas com mais detalhes e com pigmentos diferentes.</p>
-        </div>
-
-        <!-- Card de novidades para Quarta-feira -->
-        <div class="news-card">
-            <h2>Quarta-feira</h2>
-            <p>Novidade específica da quarta-feira. Dia em que contém 50% de de desconto e reduz os valores para aqueles que gostam de camiseta para academia.</p>
-        </div>
-
-        <!-- Card de novidades para Quinta-feira -->
-        <div class="news-card">
-            <h2>Quinta-feira</h2>
-            <p>Novidade específica da quinta-feira. Promoções de chuteiras e calçados esportivos para você que gosta de jogar futsal de salão, ou campo society e fazer uma maratona/caminhada.</p>
-        </div>
-
-        <!-- Card de novidades para Sexta-feira -->
-        <div class="news-card">
-            <h2>Sexta-feira</h2>
-            <p>Novidade específica da sexta-feira. Promoções que detém só camisetas térmicas para ambos, homens e mulheres. </p>
-        </div>
-    </main>
-    <footer>
-        <p>&copy; 2023 - Sua Loja de Esportes</p>
-    </footer>
 
     
+    <main class="news">
+        <h1>Novidades e Promoções</h1>
+
+        <section class="promotion">
+           
+            <div class="update-item">
+                <img src="chat/roupa1.png" alt="Novidade 2">
+                <h3>Lançamento de Calçados Esportivos</h3>
+                <p>Explore nossa linha de calçados esportivos de alta performance, projetados para atletas exigentes.</p>
+            </div>
+
+            <div class="promo-item">
+                <img src="chat/roupa3.png" alt="Promoção 2">
+                <h3>Camisetas Polo por R$ 39,90</h3>
+                <p>Camisetas polo elegantes por apenas R$ 39,90 cada. Não perca essa oportunidade!</p>
+            </div>
+            
+            <!-- Adicione mais promoções conforme necessário -->
+        </section>
+
+        <section class="updates">
+          
+            <div class="update-item">
+                <img src="chat/femininobrasil4.png" alt="Novidade 1">
+                <h3>Nova Coleção de Roupas Femininas</h3>
+                <p>Confira nossa mais recente coleção de roupas esportivas femininas, perfeitas para seu estilo ativo.</p>
+            </div>
+
+            <div class="promo-item">
+                <img src="chat/chuteira.png" alt="Promoção 1">                                                                                                                                              
+                <h3>Desconto de 30% em Chuteiras</h3>
+                <p>Aproveite agora para comprar sua chuteira favorita com um desconto especial de 30%!</p>
+            </div>
+            
+            <!-- Adicione mais novidades conforme necessário -->
+        </section>
+    </main>
+    <section id="carrinho" class="carrinho">
+            <h1>Carrinho de Compras</h1>
+            <div id="carrinho-items">
+                <!-- Os itens do carrinho serão exibidos aqui -->
+            </div>
+            <p>Total: R$ <span id="total-carrinho">0.00</span></p>
+            <button onclick="finalizarCompra()">Finalizar Compra</button>
+        </section>
+    </main>
+
+
+    <footer>
+        <p>&copy; 2023 - Loja de Roupas Esportivas</p>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>

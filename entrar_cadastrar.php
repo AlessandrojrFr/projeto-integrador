@@ -22,6 +22,8 @@ if (isset($_POST["nome"])) {
     $datan = $_POST['datan'];
     $civil = $_POST['civil'];
     $sexo = $_POST['sexo'];
+    $procurar = $_POST['procurar'];
+    $mensagem = $_POST['mensagem'];
 
     // Inserir os dados na tabela
     $sql = "INSERT INTO cadastro (nome, email, datan, civil, sexo,)

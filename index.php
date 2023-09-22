@@ -1,61 +1,79 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>𝕭𝖑𝖆𝖈𝖐 𝕯𝖔𝖌 𝕴𝖓𝖎𝖈𝖎𝖆𝖑</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
-  <link rel="stylesheet" href="CSS/dieimes.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Loja</title>
+    <link rel="stylesheet" href="CSS/styles.css">
 </head>
-
 <body>
-  <?php include("menu.php") ?>
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <div class="card" style="width: 18rem;">
-          <img src="img-projeto2/imagem1br - Copia.png" class="img-fluid" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Camisa Nike Brasil I 2023/25 </h5>
-            <h5 class="card-title">23/25 Torcedora Pro</h5>
-            <p>Masculina</p>
-            <p>Futebol</p>
-            <p>R$ 139,49</p>
+    <header>
+        <nav>
+            <ul>
+               
+                <li><a href="shop.php">Compras</a></li>
+                <li><a href="roupinha.php">Promoções</a></li>
+                <li><a href="minhaconta.php">Minha Conta</a></li>
+                <li><a href="entrar_cadastrar.php">Cadastro</a></li>
+                <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="restrita.php">Login up</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+    
+    <div class="content">
+        <h1>Bem-vindo à Minha Loja</h1>
+        <p>Oferecemos uma variedade de produtos incríveis para você.</p>
+    </div>
+    
+    
+    <div class="content">
+        <h1>Bem-vindo ao Mundo dos Esportes</h1>
+        <p>Encontre as melhores roupas e sapatos esportivos aqui!</p>
+    </div>
 
-            <a href="pagar.php" class="btn btn-dark">Comprar Agora</a>
-          </div>
+    <!-- Seção de destaque de produtos -->
+    <div class="featured-products">
+        <div class="product">
+            <img src="chat/roupa2.png" alt="Camisa de Futebol">
+            <h3>Camisa de Futebol</h3>
+            <p>Camisa oficial do time Barcelona</p>
+            <p>Preço: R$99.00</p>
         </div>
-      </div>
-      <div class="col">
-        <div class="card" style="width: 18rem;">
-          <img src="img-projeto2/pequeno1.png" class="img-fluid" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Camiseta Nike Corinthias II 23/25</h5>
-            <h5 class="card-title">Torcedor Pro Masculina</h5>
-            <p>Futebol</p>
-            <p>Unisex</p>
-            <p>R$ 139,49</p>
-            <a href="corinthias.php" class="btn btn-dark">Comprar Agora</a>
-          </div>
+        <div class="product">
+            <img src="chat/roupa1.png" alt="Tênis de Corrida">
+            <h3>Tênis de Corrida</h3>
+            <p>Ideal para treinamentos de corrida</p>
+            <p>Preço: R$129.00</p>
         </div>
-      </div>
-      <div class="col">
-        <div class="card" style="width: 18rem;">
-          <img src="img-projeto2/barca1.png" class="img-fluid" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Camiseta Nike Barcelona I</h5>
-            <h5>23/24 Torcedora Pro</h5>
-            <p class="card-text"> Masculina</p>
-            <p>Futebol</p>
-            <p>R$ 139,49</p>
+        <!-- Adicione mais produtos em destaque aqui -->
+    </div>
+    
 
-            <a href="barcelona.php" class="btn btn-dark">Comprar Agora</a>
-
-          </div>
+    
+<footer>
+    <div class="footer-content">
+        <div class="footer-section about">
+            <h2>Sobre Nós</h2>
+            <p>Somos uma loja dedicada a fornecer os melhores produtos esportivos para atletas e entusiastas do esporte. Nossos produtos são selecionados cuidadosamente para garantir qualidade e desempenho.</p>
         </div>
-      </div>
-    </div>    
-    <img src="img talarico/img5.png" width="1100" height="760">   
-  </div>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+        <div class="footer-section social">
+            <h2>Redes Sociais</h2>
+            <a href="#"><i class="fab fa-facebook"></i> Facebook</a>
+            <a href="#"><i class="fab fa-twitter"></i> Twitter</a>
+            <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
+        </div>
+        <div class="footer-section contact">
+            <h2>Contato</h2>
+            <p>Email: contato@lojaesportiva.com</p>
+            <p>Telefone: (123) 456-7890</p>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        &copy; 2023 Loja Esportiva | Todos os direitos reservados
+    </div>
+</footer>
+
+</body>
 </html>

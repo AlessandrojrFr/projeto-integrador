@@ -10,33 +10,16 @@
     <header>
         <nav class="navbar">
             <div class="logo">
-                <a href="index.php">Minha Loja</a>
+                <a href="index.php">Projeto Homer</a>
             </div>
             <ul class="nav-links">
                 <li><a href="index.php">Início</a></li>
                 <li><a href="shop.php">Compras</a></li>
-                <li><a href="checkout.php">Pagamento</a></li>
-                <li><a href="roupas.php">Roupas</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
             </ul>
         </nav>
     </header>
-
-    <div class="content">
-        <h1>Meu Perfil</h1>
-        <h2>Informações Pessoais</h2>
-        <p>Nome: João da Silva</p>
-        <p>Data de Nascimento: 15 de abril de 1990</p>
-        <p>Endereço: Rua da Amostra, 123</p>
-        <p>Cidade: Sua Cidade</p>
-        <p>Estado: Seu Estado</p>
-        <p>CEP: 12345-678</p>
-
-        <h2>Detalhes da Conta</h2>
-        <p>Nome de Usuário: joaosilva</p>
-        <p>Endereço de E-mail: joao@example.com</p>
-        <p>Telefone: (11) 98765-4321</p>
 
         <h2>Alterar Senha</h2>
         <form action="alterar-senha.php" method="post">

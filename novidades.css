@@ -1,0 +1,72 @@
+/* Estilos do cabeçalho */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Estilos da página de novidades */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.news {
+    display: flex;
+    justify-content: space-between;
+}
+
+.news-item {
+    width: 45%;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.news-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.news-item h2 {
+    font-size: 18px;
+}
+
+.news-item p {
+    font-size: 14px;
+}
+
+.news-item a {
+    display: block;
+    text-align: center;
+    background-color: #007BFF;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 0;
+    border-radius: 5px;
+}
+
+.news-item a:hover {
+    background-color: #0056b3;
+}

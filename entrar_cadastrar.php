@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-    <link rel="stylesheet" href="entrar_cadastrar.css">
+    <link rel="stylesheet" href="css/entrar_cadastrar.css">
     <title>𝑬𝑵𝑻𝑹𝑨𝑹 𝑪𝑨𝑫𝑨𝑺𝑻𝑹𝑨𝑹</title>
   </head>
   <body>
@@ -12,12 +12,20 @@
   <header>
         <nav>
             <ul>
+<<<<<<< HEAD
                 <li><a href="index.php">Início</a></li>
                 <li><a href="shop.php">Compras</a></li>
                 <li><a href="checkout.php">Pagamento</a></li>
                 <li><a href="roupas.php">Roupas</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
+=======
+                <li><a href="contato.php">Contato</a></li>
+                <li><a href="shop.php">Compras</a></li>
+                <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="minhaconta.php">Minha Conta</a></li>
+                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
+>>>>>>> Alessandro
             </ul>
         </nav>
     </header>
@@ -30,7 +38,11 @@
 <br>
 <div class="container_form">
 
+<<<<<<< HEAD
 <h1>𝗘𝗻𝘁𝗿𝗮𝗿/𝗖𝗮𝗱𝗮𝘀𝘁𝗿𝗮𝗿</h1>
+=======
+<h1>𝗘𝗻𝘁𝗿𝗮𝗿 / 𝗖𝗮𝗱𝗮𝘀𝘁𝗿𝗮𝗿</h1>
+>>>>>>> Alessandro
 
 <form class="form" action="#" method="post">
     
@@ -117,6 +129,7 @@
 
           <input type="hidden" name="acao" value="enviar">
           <button type="submit" name="Submit" class="submit_btn" >Cadastrar</button>
+          <a href="login2.php" class="btn-cancel">Cadastrar</a>
         
         </div>
 </form>

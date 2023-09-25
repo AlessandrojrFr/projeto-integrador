@@ -8,20 +8,33 @@
 </head>
 <body>
     <header>
+    <nav class="navbar">
+    <div class="navbar-left">
+        <!-- Seu logo aqui -->
+        <img src="chat/logo (1).png" alt="Seu Logo">
+    </div>
+
+</nav>
+
         <nav>
             <ul>
-                <li><a href="index.php">Início</a></li>
+                <li><a href="contato.php">Contato</a></li>
                 <li><a href="shop.php">Compras</a></li>
+<<<<<<< HEAD
                 <li><a href="checkout.php">Pagamento</a></li>
                 <li><a href="roupas.php">Roupas</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
+=======
+>>>>>>> Alessandro
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="minhaconta.php">Minha Conta</a></li>
+                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
             </ul>
         </nav>
     </header>
     
     <div class="content">
-        <h1>Bem-vindo à Minha Loja</h1>
+        <h1>Bem-vindo a Minha Loja</h1>
         <p>Oferecemos uma variedade de produtos incríveis para você.</p>
     </div>
     
@@ -34,13 +47,13 @@
     <!-- Seção de destaque de produtos -->
     <div class="featured-products">
         <div class="product">
-            <img src="imagens_compras/02614115.avif" alt="Camisa de Futebol">
+            <img src="chat/roupa2.png" alt="Camisa de Futebol">
             <h3>Camisa de Futebol</h3>
             <p>Camisa oficial do time Barcelona</p>
             <p>Preço: R$99.00</p>
         </div>
         <div class="product">
-            <img src="imagens_compras/025231ID.avif" alt="Tênis de Corrida">
+            <img src="chat/roupa1.png" alt="Tênis de Corrida">
             <h3>Tênis de Corrida</h3>
             <p>Ideal para treinamentos de corrida</p>
             <p>Preço: R$129.00</p>

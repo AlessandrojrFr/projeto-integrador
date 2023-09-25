@@ -26,14 +26,14 @@
         <div class="clothing-cards">
             <div class="clothing-card">
                 <img src="chat/roupa10.png" alt="Roupa 1">
-                <h2>Roupa 1</h2>
+                <h2>Opção 1</h2>
                 <p>Camiseta Juventus Nike Feminino.</p>
                 <p>Preço: R$80.00</p>
                 <button>Adicionar ao Carrinho</button>
             </div>
             <div class="clothing-card">
                 <img src="chat/roupa11.png" alt="Roupa 2">
-                <h2>Roupa 2</h2>
+                <h2>Opção 2</h2>
                 <p>Camisa Manchester United 2023/24.</p>
                 <p>Preço: R$90.00</p>
                 <button>Adicionar ao Carrinho</button>

@@ -9,7 +9,7 @@
 <body>
     <header>
         <nav>
-            <a href="index.php">Início</a>
+            <a href="restrita.php">Início</a>
             <a href="shop.php">Compras</a>
             <a href="contato.php">Contato</a>
             <a href="minhaconta.php">Minha Conta</a>

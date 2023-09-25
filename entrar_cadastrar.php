@@ -29,7 +29,7 @@
 <br>
 <div class="container_form">
 
-<h1>𝗘𝗻𝘁𝗿𝗮𝗿/𝗖𝗮𝗱𝗮𝘀𝘁𝗿𝗮𝗿</h1>
+<h1>𝗘𝗻𝘁𝗿𝗮𝗿 / 𝗖𝗮𝗱𝗮𝘀𝘁𝗿𝗮𝗿</h1>
 
 <form class="form" action="#" method="post">
     
@@ -116,6 +116,7 @@
 
           <input type="hidden" name="acao" value="enviar">
           <button type="submit" name="Submit" class="submit_btn" >Cadastrar</button>
+          <a href="perfil.html" class="btn-cancel">Cadastrar</a>
         
         </div>
 </form>

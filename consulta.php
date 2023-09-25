@@ -10,7 +10,7 @@
 <body>
 <header>
         <nav>
-            <a href="index.php">Início</a>
+            <a href="restrita.php">Início</a>
             <a href="shop.php">Compras</a>
             <a href="contato.php">Contato</a>
             <a href="minhaconta.php">Minha Conta</a>
@@ -63,31 +63,31 @@
         </tr>
         <tr>
             <td>Segunda-feira</td>
-            <td>Sim</td>
+            <td>08:00 às 18:00</td>
         </tr>
         <tr>
             <td>Terça-feira</td>
-            <td>Sim</td>
+            <td>08:00 às 18:00</td>
         </tr>
         <tr>
             <td>Quarta-feira</td>
-            <td>Sim</td>
+            <td>08:00 às 18:00</td>
         </tr>
         <tr>
             <td>Quinta-feira</td>
-            <td>Sim</td>
+            <td>08:00 às 18:00</td>
         </tr>
         <tr>
             <td>Sexta-feira</td>
-            <td>Sim</td>
+            <td>08:00 às 18:00</td>
         </tr>
         <tr>
             <td>Sábado</td>
-            <td>Não</td>
+            <td>10:00 às 14:00</td>
         </tr>
         <tr>
             <td>Domingo</td>
-            <td>Não</td>
+            <td>Fechado</td>
         </tr>
     </table>
 </body>

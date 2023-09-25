@@ -8,6 +8,14 @@
 </head>
 <body>
     <header>
+    <nav class="navbar">
+    <div class="navbar-left">
+        <!-- Seu logo aqui -->
+        <img src="chat/logo (1).png" alt="Seu Logo">
+    </div>
+
+</nav>
+
         <nav>
             <ul>
                 <li><a href="contato.php">Contato</a></li>

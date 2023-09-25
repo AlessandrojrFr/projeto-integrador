@@ -116,7 +116,7 @@
 
           <input type="hidden" name="acao" value="enviar">
           <button type="submit" name="Submit" class="submit_btn" >Cadastrar</button>
-          <a href="perfil.html" class="btn-cancel">Cadastrar</a>
+          <a href="login2.php" class="btn-cancel">Cadastrar</a>
         
         </div>
 </form>

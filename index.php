@@ -1,37 +1,33 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Loja</title>
-    <link rel="stylesheet" href="CSS/styles.css">
+    <title>Navbar com Dropdown</title>
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <header>
     <nav class="navbar">
-    <div class="navbar-left">
-        <!-- Seu logo aqui -->
-        <img src="chat/logo (1).png" alt="Seu Logo">
-    </div>
+        <ul>
+            <li><a href="#">Contato</a></li>
+            <li><a href="#">Compras</a></li>
+            <li><a href="#">Sobre Nós</a></li>
+            <li><a href="#">Consulta</a></li>
+            <li><a href="#">Novidades</a></li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle">Minha Conta &#9662;</a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Configurações</a></li>
+                    <li><a href="#">Minhas Informações</a></li>
+                    <li><a href="#">Sair</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+    <script src="script2.js"></script>
 
-</nav>
 
-        <nav>
-            <ul>
-                <li><a href="contato.php">Contato</a></li>
-                <li><a href="shop.php">Compras</a></li>
-<<<<<<< HEAD
-                <li><a href="checkout.php">Pagamento</a></li>
-                <li><a href="roupas.php">Roupas</a></li>
-                <li><a href="minhaconta.php">Minha Conta</a></li>
-=======
->>>>>>> Alessandro
-                <li><a href="sobrenos.php">Sobre Nós</a></li>
-                <li><a href="minhaconta.php">Minha Conta</a></li>
-                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
-            </ul>
-        </nav>
-    </header>
+
     
     <div class="content">
         <h1>Bem-vindo a Minha Loja</h1>

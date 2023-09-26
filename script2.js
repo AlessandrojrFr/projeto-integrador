@@ -2,8 +2,7 @@
 const dropdownToggle = document.querySelector('.dropdown-toggle');
 const dropdownMenu = document.querySelector('.dropdown-menu');
 
-dropdownToggle.addEventListener('click', function (e) {
-    e.preventDefault();
+dropdownToggle.addEventListener('click', function () {
     dropdownMenu.style.display = (dropdownMenu.style.display === 'block') ? 'none' : 'block';
 });
 

@@ -11,8 +11,8 @@
         <nav>
             <ul>
                
-                <li><a href="shop.php">Contato</a></li>
-                <li><a href="roupinha.php">Compras</a></li>
+                <li><a href="contato.php">Contato</a></li>
+                <li><a href="shop.php">Compras</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
                 <li><a href="restrita.php">Entrar / Cadastrar</a></li>
@@ -48,6 +48,7 @@
         </div>
         <!-- Adicione mais produtos em destaque aqui -->
     </div>
+    
     
 
     

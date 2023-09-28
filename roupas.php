@@ -7,20 +7,18 @@
     <link rel="stylesheet" href="CSS/styles.css">
 </head>
 <body>
-    <header>
-        <nav class="navbar">
-            <div class="logo">
-                <a href="index.php">Minha Loja</a>
-            </div>
-            <ul class="nav-links">
-            <li><a href="index.php">Início</a></li>
+<header>
+        <nav>
+            <ul>
+                <li><a href="contato.php">Contato</a></li>
                 <li><a href="shop.php">Compras</a></li>
-                <li><a href="checkout.php">Pagamento</a></li>
-                <li><a href="roupinha.php">Promoções</a></li>
+                <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="minhaconta.php">Minha Conta</a></li>
                 <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
             </ul>
         </nav>
     </header>
+
     <!-- ... Código HTML anterior ... -->
 
 <div class="clothing-cards">

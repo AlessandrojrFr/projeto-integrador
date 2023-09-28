@@ -160,10 +160,11 @@
 =======
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Loja</title>
-    <link rel="stylesheet" href="CSS/styles.css">
+    <title>Login de Usuário</title>
+    <link rel="stylesheet" href="CSS/login2.css">
 </head>
 <body>
+<<<<<<< HEAD
     <header>
         <nav>
             <ul>
@@ -190,48 +191,48 @@
         <p>Encontre as melhores roupas e sapatos esportivos aqui!</p>
 >>>>>>> Alessandro
     </div>
+=======
+>>>>>>> Alessandro
 
-    <!-- Seção de destaque de produtos -->
-    <div class="featured-products">
-        <div class="product">
-            <img src="chat/roupa2.png" alt="Camisa de Futebol">
-            <h3>Camisa de Futebol</h3>
-            <p>Camisa oficial do time Barcelona</p>
-            <p>Preço: R$99.00</p>
-        </div>
-        <div class="product">
-            <img src="chat/roupa1.png" alt="Tênis de Corrida">
-            <h3>Tênis de Corrida</h3>
-            <p>Ideal para treinamentos de corrida</p>
-            <p>Preço: R$129.00</p>
-        </div>
-        <!-- Adicione mais produtos em destaque aqui -->
-    </div>
-    
 
-    
-<footer>
-    <div class="footer-content">
-        <div class="footer-section about">
-            <h2>Sobre Nós</h2>
-            <p>Somos uma loja dedicada a fornecer os melhores produtos esportivos para atletas e entusiastas do esporte. Nossos produtos são selecionados cuidadosamente para garantir qualidade e desempenho.</p>
+    <div class="login-container">
+        <h2>Login de Usuário</h2>
+        
+        <!-- Espaço para foto do perfil -->
+        <div class="profile-picture">
+            <img src="chat/simpsons3.png" alt="Foto de perfil">
         </div>
-        <div class="footer-section social">
-            <h2>Redes Sociais</h2>
-            <a href="#"><i class="fab fa-facebook"></i> Facebook</a>
-            <a href="#"><i class="fab fa-twitter"></i> Twitter</a>
-            <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
-        </div>
-        <div class="footer-section contact">
-            <h2>Contato</h2>
-            <p>Email: contato@lojaesportiva.com</p>
-            <p>Telefone: (123) 456-7890</p>
-        </div>
+
+        <!-- Formulário de login -->
+        <form action="#" method="post">
+            <label for="email">E-mail:</label>
+            <input class="inputa" type="email" id="email" name="email" required>
+
+            <label for="password">Senha:</label>
+            <input class="inputa" type="password" id="password" name="password" required>
+            <button class="btn btn-primary"><a id="link-button" href="restrita.php">Entrar</a></button>
+        </form>
+        
     </div>
-    <div class="footer-bottom">
-        &copy; 2023 Loja Esportiva | Todos os direitos reservados
-    </div>
-</footer>
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -7,21 +7,17 @@
     <link rel="stylesheet" href="CSS/styles.css">
 </head>
 <body>
-    <header>
-        <nav class="navbar">
-            <div class="logo">
-                <a href="index.php">Minha Loja</a>
-            </div>
-            <ul class="nav-links">
-            <li><a href="index.php">Início</a></li>
-                <li><a href="checkout.php">Pagamento</a></li>
-                <li><a href="roupinha.php">Promoções</a></li>
-                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
+<header>
+        <nav>
+            <ul>
+                <li><a href="contato.php">Contato</a></li>
+                <li><a href="shop.php">Compras</a></li>
+                <li><a href="sobrenos.php">Sobre Nós</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
+                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
             </ul>
         </nav>
     </header>
-
     <div class="content">
         <h1>Sobre a Empresa</h1>
         <p>Somos uma empresa dedicada a fornecer produtos esportivos de alta qualidade para atletas e entusiastas do esporte em todo o mundo.</p>

@@ -52,12 +52,11 @@ $conn->close();
   <header>
         <nav>
             <ul>
-                <li><a href="index.php">Início</a></li>
+                <li><a href="contato.php">Contato</a></li>
                 <li><a href="shop.php">Compras</a></li>
-                <li><a href="roupinha.php">Promoções</a></li>
-                <li><a href="roupas.php">Roupas</a></li>
-                <li><a href="minhaconta.php">Minha Conta</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="minhaconta.php">Minha Conta</a></li>
+                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
             </ul>
         </nav>
     </header>
@@ -70,7 +69,7 @@ $conn->close();
 <br>
 <div class="container_form">
 
-<h1>𝗘𝗻𝘁𝗿𝗮𝗿/𝗖𝗮𝗱𝗮𝘀𝘁𝗿𝗮𝗿</h1>
+<h1>𝗘𝗻𝘁𝗿𝗮𝗿 / 𝗖𝗮𝗱𝗮𝘀𝘁𝗿𝗮𝗿</h1>
 
 <form class="form" action="#" method="post">
     
@@ -157,6 +156,7 @@ $conn->close();
 
           <input type="hidden" name="acao" value="enviar">
           <button type="submit" name="Submit" class="submit_btn" >Cadastrar</button>
+          <a href="login2.php" class="btn-cancel">Cadastrar</a>
         
         </div>
 </form>

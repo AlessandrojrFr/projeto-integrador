@@ -60,22 +60,22 @@ $conn->close();
         <h1>Adicionar Cartão de Crédito</h1>
         <form action="#" method="POST">
             <label for="nome">Nome no Cartão:</label>
-            <input class="ldc" type="text" name="titular"  required maxlength="80"><br /><br />
+            <input class="ldc" type="text" name="titular" id="titular" required maxlength="80"><br /><br />
 
 
             <label for="numero">Número do Cartão:</label>
-            <input class="ldc"  type="text" name="numero_cartao" id="ndcInput" maxlength="22" oninput="formatarNDC()" required> <br><br>
+            <input class="ldc"  type="text" name="numero_cartao" id="numero_cartao" maxlength="22" oninput="formatarNDC()" required> <br><br>
 
             <label for="validade">Validade:</label>
-            <input class="ldc" type="text" name="data_validade" id="valInput" maxlength="5" oninput="formatarVAL()"  required> <br><br>
+            <input class="ldc" type="text" name="data_validade" id="data_validade" maxlength="5" oninput="formatarVAL()"  required> <br><br>
         
 
             <label for="cvv">CVV:</label>
-            <input class="ldc"  type="password" name="cvv"  id="cvvInput" oninput="formatarCVV()" required maxlength="3"> <br /><br />
+            <input class="ldc"  type="password" name="cvv"  id="cvv" oninput="formatarCVV()" required maxlength="3"> <br /><br />
             
 
             <label for="cpf">CPF do Titular:</label>
-            <input class="ldc" type="text" name="cpf" id="cpfInput" maxlength="14" oninput="formatarCPF()" placeholder="CPF" required> <br><br>
+            <input class="ldc" type="text" name="cpf" id="cpf" maxlength="14" oninput="formatarCPF()" placeholder="CPF" required> <br><br>
 
             <label for="bandeira">Bandeira:</label>
             <select id="bandeira" name="bandeira" required>

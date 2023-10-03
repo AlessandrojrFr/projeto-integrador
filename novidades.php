@@ -6,17 +6,9 @@
     <title>Novidades da Loja de Esportes</title>
     <link rel="stylesheet" href="css/restrita.css">
 </head>
-<body>
-    <header>
-        <nav>
-            <a href="restrita.php">Início</a>
-            <a href="shop.php">Compras</a>
-            <a href="contato.php">Contato</a>
-            <a href="minhaconta.php">Minha Conta</a>
-            <a href="novidades.php">Novidades</a>
-            <a href="consulta.php">Horário de Consulta</a>
-        </nav>
-    </header>
+<?php
+include("navbar.php");
+?> 
 
     <main class="novidades-section">
         <h1>Novidades da Semana</h1>

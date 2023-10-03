@@ -7,16 +7,9 @@
     <link rel="stylesheet" href="css/lugar.css">
 </head>
 <body>
-<header>
-        <nav>
-            <a href="index.php">Início</a>
-            <a href="shop.php">Compras</a>
-            <a href="contato.php">Contato</a>
-            <a href="minhaconta.php">Minha Conta</a>
-            <a href="novidades.php">Novidades</a>
-            <a href="consulta.php">Horário de Consulta</a>
-        </nav>
-    </header>
+<?php
+include("navbar.php");
+?> 
     <main class="location">
         <h1>Encontre Nossa Loja Mais Próxima</h1>
 

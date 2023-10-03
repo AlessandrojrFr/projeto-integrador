@@ -59,3 +59,24 @@ header {
 .confirm-button:hover {
     background-color: #555;
 }
+.but {
+   
+    margin: 0 auto;
+    padding: 5px;
+    width: 100%;
+  
+    background-color: #6B4B21;
+    color: #fff;
+    /* Outros estilos do botão (opcional) */
+  
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  
+  
+    position: relative;
+      top: 10px;
+      left: 0px;
+  }
+  

@@ -38,6 +38,6 @@
         <p>CEP: 12345-678</p>
     </section>
 
-    <button class="confirm-button">Confirmar Pedido</button>
+<button><a href="metod_pag.php">Confirmar pedido</a></button>
 </body>
 </html>

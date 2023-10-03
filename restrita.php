@@ -1,13 +1,15 @@
-
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Navbar com Dropdown</title>
+    <title>Document</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+    
+</body>
+</html>
 <?php
 include("navbar.php");
 ?> 
@@ -17,32 +19,53 @@ include("navbar.php");
 
     
     <div class="content">
-        <h1>Bem-vindo a Minha Loja</h1>
-        <p>Oferecemos uma variedade de produtos incríveis para você.</p>
+        <h1>Bem-vindo a nossa prévia</h1>
+        <p>Oferecemos uma variedade de produtos incríveis ainda melhor para você.</p>
     </div>
     
     
     <div class="content">
         <h1>Bem-vindo ao Mundo dos Esportes</h1>
-        <p>Encontre as melhores roupas e sapatos esportivos aqui!</p>
+        <p>Cadastra-se para obter informações ainda melhores sobre nós!</p>
     </div>
 
     <!-- Seção de destaque de produtos -->
     <div class="featured-products">
         <div class="product">
-            <img src="chat/roupa2.png" alt="Camisa de Futebol">
+            <img src="chat/roupa11.png" alt="Camisa de Futebol">
             <h3>Camisa de Futebol</h3>
-            <p>Camisa oficial do time Barcelona</p>
-            <p>Preço: R$99.00</p>
+            <p>Camisa oficial do time Manchester United</p>
+            <p>Preço: R$134.50</p>
+            <button>Adicionar ao Carrinho</button>
+
         </div>
         <div class="product">
-            <img src="chat/roupa1.png" alt="Tênis de Corrida">
-            <h3>Tênis de Corrida</h3>
-            <p>Ideal para treinamentos de corrida</p>
-            <p>Preço: R$129.00</p>
+            <img src="chat/roupa12.png" alt="Tênis de Corrida">
+            <h3>Camiseta Real Madrid</h3>
+            <p>Camiseta Real Madrid 23/24</p>
+            <p>Preço: R$149.00</p>
+            <button>Adicionar ao Carrinho</button>
         </div>
         <!-- Adicione mais produtos em destaque aqui -->
     </div>
+    <div class="featured-products">
+        <div class="product">
+            <img src="chat/chuteira.png" alt="Camisa de Futebol">
+            <h3>Chuteira de Futsal</h3>
+            <p>Chuteira PRO5 da umbro</p>
+            <p>Preço: R$450.99</p>
+            <button>Adicionar ao Carrinho</button>
+        </div>
+        <div class="product">
+            <img src="chat/pro5.png" alt="Tênis de Corrida">
+            <h3>Chuteira De Futsal</h3>
+            <p>Chuteira PRO5 novo lançamento da umbro</p>
+            <p>Preço: R$529.00</p>
+            <button>Adicionar ao Carrinho</button>
+        </div>
+        <!-- Adicione mais produtos em destaque aqui -->
+    </div>
+    
     
 
     
@@ -56,71 +79,66 @@ include("navbar.php");
     <!-- Seção de destaque de produtos -->
     <div class="featured-products">
         <div class="product">
-            <img src="chat/roupa2.png" alt="Camisa de Futebol">
+            <img src="chat/portugal3.png" alt="Camisa de Futebol">
             <h3>Camisa de Futebol</h3>
-            <p>Camisa oficial do time Barcelona</p>
-            <p>Preço: R$99.00</p>
+            <p>Camisa oficial do time de Portugal</p>
+            <p>Preço: R$9119.00</p>
+            <button>Adicionar ao Carrinho</button>
         </div>
         <div class="product">
-            <img src="chat/roupa1.png" alt="Tênis de Corrida">
-            <h3>Tênis de Corrida</h3>
-            <p>Ideal para treinamentos de corrida</p>
+            <img src="chat/branca2.png" alt="Tênis de Corrida">
+            <h3>Camisa de Futebol</h3>
+            <p>Camiseta da Nike</p>
             <p>Preço: R$129.00</p>
+            <button>Adicionar ao Carrinho</button>
         </div>
         <!-- Adicione mais produtos em destaque aqui -->
     </div>
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
-    <main class="news">
-        <h1>Novidades e Promoções</h1>
-
-        <section class="promotion">
-           
-            <div class="update-item">
-                <img src="chat/roupa1.png" alt="Novidade 2">
-                <h3>Lançamento de Calçados Esportivos</h3>
-                <p>Explore nossa linha de calçados esportivos de alta performance, projetados para atletas exigentes.</p>
-                <button>Comprar Agora</button>
-            </div>
-
-            <div class="promo-item">
-                <img src="chat/roupa3.png" alt="Promoção 2">
-                <h3>Camisetas Polo por R$ 39,90</h3>
-                <p>Camisetas polo elegantes por apenas R$ 39,90 cada. Não perca essa oportunidade!</p>
-                <button>Comprar Agora</button>
-            </div>
-            
-            <!-- Adicione mais promoções conforme necessário -->
-        </section>
-
-        <section class="updates">
-          
-            <div class="update-item">
-                <img src="chat/femininobrasil4.png" alt="Novidade 1">
-                <h3>Nova Coleção de Roupas Femininas</h3>
-                <p>Confira nossa mais recente coleção de roupas esportivas femininas, perfeitas para seu estilo ativo.</p>
-                <button>Comprar Agora</button>
-            </div>
-
-            <div class="promo-item">
-                <img src="chat/chuteira.png" alt="Promoção 1">                                                                                                                                              
-                <h3>Desconto de 30% em Chuteiras</h3>
-                <p>Aproveite agora para comprar sua chuteira favorita com um desconto especial de 30%!</p>
-                <button>Comprar Agora</button>
-            </div>
-            
-            <!-- Adicione mais novidades conforme necessário -->
-        </section>
-    </main>
-    <section id="carrinho" class="carrinho">
-            <h1>Carrinho de Compras</h1>
-            <div id="carrinho-items">
-                <!-- Os itens do carrinho serão exibidos aqui -->
-            </div>
-            <p>Total: R$ <span id="total-carrinho">0.00</span></p>
-            <button onclick="finalizarCompra()">Finalizar Compra</button>
-        </section>
-    </main>
+      
     
 
     <footer>

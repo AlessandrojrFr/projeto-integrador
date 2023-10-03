@@ -8,16 +8,9 @@
     <link rel="stylesheet" href="CSS/consulta.css">
 </head>
 <body>
-<header>
-        <nav>
-            <a href="restrita.php">Início</a>
-            <a href="shop.php">Compras</a>
-            <a href="contato.php">Contato</a>
-            <a href="minhaconta.php">Minha Conta</a>
-            <a href="novidades.php">Novidades</a>
-   
-        </nav>
-    </header>
+<?php
+include("navbar.php");
+?> 
     <!DOCTYPE html>
 <html lang="pt-br">
 <head>

@@ -3,75 +3,166 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Loja de Roupas Esportivas</title>
-    <link rel="stylesheet" href="css/novidade.css">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-<header>
-        <nav>
-            <a href="index.php">Início</a>
-            <a href="shop.php">Compras</a>
-            <a href="contato.php">Contato</a>
-            <a href="minhaconta.php">Minha Conta</a>
-            <a href="novidades.php">Novidades</a>
-            <a href="consulta.php">Horário de Consulta</a>
-        </nav>
-    </header>
+    
+</body>
+</html>
+<?php
+include("navbar.php");
+?> 
+
+
 
 
     
-    <main class="news">
-        <h1>Novidades e Promoções</h1>
+    <div class="content">
+        <h1>Bem-vindo a nossa prévia</h1>
+        <p>Oferecemos uma variedade de produtos incríveis ainda melhor para você.</p>
+    </div>
+    
+    
+    <div class="content">
+        <h1>Bem-vindo ao Mundo dos Esportes</h1>
+        <p>Cadastra-se para obter informações ainda melhores sobre nós!</p>
+    </div>
 
-        <section class="promotion">
-           
-            <div class="update-item">
-                <img src="chat/roupa1.png" alt="Novidade 2">
-                <h3>Lançamento de Calçados Esportivos</h3>
-                <p>Explore nossa linha de calçados esportivos de alta performance, projetados para atletas exigentes.</p>
-            </div>
+    <!-- Seção de destaque de produtos -->
+    <div class="featured-products">
+        <div class="product">
+            <img src="chat/roupa11.png" alt="Camisa de Futebol">
+            <h3>Camisa de Futebol</h3>
+            <p>Camisa oficial do time Manchester United</p>
+            <p>Preço: R$134.50</p>
+            <button>Adicionar ao Carrinho</button>
 
-            <div class="promo-item">
-                <img src="chat/roupa3.png" alt="Promoção 2">
-                <h3>Camisetas Polo por R$ 39,90</h3>
-                <p>Camisetas polo elegantes por apenas R$ 39,90 cada. Não perca essa oportunidade!</p>
-            </div>
-            
-            <!-- Adicione mais promoções conforme necessário -->
-        </section>
+        </div>
+        <div class="product">
+            <img src="chat/roupa12.png" alt="Tênis de Corrida">
+            <h3>Camiseta Real Madrid</h3>
+            <p>Camiseta Real Madrid 23/24</p>
+            <p>Preço: R$149.00</p>
+            <button>Adicionar ao Carrinho</button>
+        </div>
+        <!-- Adicione mais produtos em destaque aqui -->
+    </div>
+    <div class="featured-products">
+        <div class="product">
+            <img src="chat/chuteira.png" alt="Camisa de Futebol">
+            <h3>Chuteira de Futsal</h3>
+            <p>Chuteira PRO5 da umbro</p>
+            <p>Preço: R$450.99</p>
+            <button>Adicionar ao Carrinho</button>
+        </div>
+        <div class="product">
+            <img src="chat/pro5.png" alt="Tênis de Corrida">
+            <h3>Chuteira De Futsal</h3>
+            <p>Chuteira PRO5 novo lançamento da umbro</p>
+            <p>Preço: R$529.00</p>
+            <button>Adicionar ao Carrinho</button>
+        </div>
+        <!-- Adicione mais produtos em destaque aqui -->
+    </div>
+    
+    
 
-        <section class="updates">
-          
-            <div class="update-item">
-                <img src="chat/femininobrasil4.png" alt="Novidade 1">
-                <h3>Nova Coleção de Roupas Femininas</h3>
-                <p>Confira nossa mais recente coleção de roupas esportivas femininas, perfeitas para seu estilo ativo.</p>
-            </div>
+    
 
-            <div class="promo-item">
-                <img src="chat/chuteira.png" alt="Promoção 1">                                                                                                                                              
-                <h3>Desconto de 30% em Chuteiras</h3>
-                <p>Aproveite agora para comprar sua chuteira favorita com um desconto especial de 30%!</p>
-            </div>
-            
-            <!-- Adicione mais novidades conforme necessário -->
-        </section>
-    </main>
-    <section id="carrinho" class="carrinho">
-            <h1>Carrinho de Compras</h1>
-            <div id="carrinho-items">
-                <!-- Os itens do carrinho serão exibidos aqui -->
-            </div>
-            <p>Total: R$ <span id="total-carrinho">0.00</span></p>
-            <button onclick="finalizarCompra()">Finalizar Compra</button>
-        </section>
-    </main>
 
+
+
+
+
+
+    <!-- Seção de destaque de produtos -->
+    <div class="featured-products">
+        <div class="product">
+            <img src="chat/portugal3.png" alt="Camisa de Futebol">
+            <h3>Camisa de Futebol</h3>
+            <p>Camisa oficial do time de Portugal</p>
+            <p>Preço: R$9119.00</p>
+            <button>Adicionar ao Carrinho</button>
+        </div>
+        <div class="product">
+            <img src="chat/branca2.png" alt="Tênis de Corrida">
+            <h3>Camisa de Futebol</h3>
+            <p>Camiseta da Nike</p>
+            <p>Preço: R$129.00</p>
+            <button>Adicionar ao Carrinho</button>
+        </div>
+        <!-- Adicione mais produtos em destaque aqui -->
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+      
+    
 
     <footer>
-        <p>&copy; 2023 - Loja de Roupas Esportivas</p>
-    </footer>
-
-    <script src="script.js"></script>
+    <div class="footer-content">
+        <div class="footer-section about">
+            <h2>Sobre Nós</h2>
+            <p>Somos uma loja dedicada a fornecer os melhores produtos esportivos para atletas e entusiastas do esporte. Nossos produtos são selecionados cuidadosamente para garantir qualidade e desempenho.</p>
+        </div>
+        <div class="footer-section social">
+            <h2>Redes Sociais</h2>
+            <a href="#"><i class="fab fa-facebook"></i> Facebook</a>
+            <a href="#"><i class="fab fa-twitter"></i> Twitter</a>
+            <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
+        </div>
+        <div class="footer-section contact">
+            <h2>Contato</h2>
+            <p>Email: contato@lojaesportiva.com</p>
+            <p>Telefone: (123) 456-7890</p>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        &copy; 2023 Loja Esportiva | Todos os direitos reservados
+    </div>
+</footer>
+    <script src="css/script.js"></script>
 </body>
 </html>

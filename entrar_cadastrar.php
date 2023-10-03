@@ -155,8 +155,7 @@ $conn->close();
         <div class="submit">
 
           <input type="hidden" name="acao" value="enviar">
-          <button type="submit" name="Submit" class="submit_btn" >Cadastrar</button>
-          <a href="login2.php" class="btn-cancel">Cadastrar</a>
+          <button type="submit" name="Submit" class="submit_btn" ><a id="entrar-cadastrar" href="restrita.php" class="btn-cancel">Cadastrar</a></button>
         
         </div>
 </form>

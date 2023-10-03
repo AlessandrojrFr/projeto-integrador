@@ -7,17 +7,9 @@
     <link rel="stylesheet" href="CSS/styles.css">
 </head>
 <body>
-<header>
-        <nav>
-            <ul>
-                <li><a href="contato.php">Contato</a></li>
-                <li><a href="shop.php">Compras</a></li>
-                <li><a href="sobrenos.php">Sobre Nós</a></li>
-                <li><a href="minhaconta.php">Minha Conta</a></li>
-                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
-            </ul>
-        </nav>
-    </header>
+<?php
+include("navbar.php");
+?> 
 
 <!DOCTYPE html>
 <html lang="pt-br">

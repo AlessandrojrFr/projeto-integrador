@@ -8,17 +8,9 @@
     <link rel="stylesheet" href="CSS/contato.css">
 </head>
 <body>
-<header>
-        <nav>
-            <a href="index.php">Início</a>
-            <a href="shop.php">Compras</a>
-            <a href="contato.php">Contato</a>
-            <a href="minhaconta.php">Minha Conta</a>
-            <a href="novidades.php">Novidades</a>
-            <a href="consulta.php">Horário de Consulta</a>
-        </nav>
-    </header>
-
+<?php
+include("navbar.php");
+?> 
     <main class="contact">
         <h1>Entre em Contato Conosco</h1>
         <p>Estamos aqui para ajudar. Entre em contato conosco através dos seguintes meios:</p>

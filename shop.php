@@ -39,7 +39,8 @@
                 <h2>Roupa 2</h2>
                 <p>Camisa Manchester United 2023/24.</p>
                 <p>Preço: R$90.00</p>
-                <button>Adicionar ao Carrinho</button>
+                
+                <button><a id="pag-text" href="metod_pag.php">Pagamento</a></button>
             </div>
             <!-- Adicione mais cards de roupas aqui -->
         </div>

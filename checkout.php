@@ -23,11 +23,9 @@
             <ul>
                 <li><a href="index.php">Início</a></li>
                 <li><a href="shop.php">Compras</a></li>
-                <li><a href="roupinha.php">Promoções</a></li>
                 <li><a href="entrar_cadastrar.php">Cadastro</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
-                <li><a href="minhaconta.php">Minha Conta</a></li>
-                <li><a href="restrita.php">Login up</a></li>
+                <li><a href="minhaconta.php">Minha Conta</a></li><div class="dropdown"><button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</button><ul class="dropdown-menu"><li><button class="dropdown-item" type="button">Action</button></li><li><button class="dropdown-item" type="button">Another action</button></li><li><button class="dropdown-item" type="button">Something else here</button></li></ul></div>
             </ul>
         </nav>
     </header>

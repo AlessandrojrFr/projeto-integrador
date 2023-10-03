@@ -160,21 +160,19 @@
 =======
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login de Usuário</title>
-    <link rel="stylesheet" href="CSS/login2.css">
+    <title>Minha Loja</title>
+    <link rel="stylesheet" href="CSS/styles.css">
 </head>
 <body>
-<<<<<<< HEAD
     <header>
         <nav>
             <ul>
                
+                <li><a href="contato.php">Contato</a></li>
                 <li><a href="shop.php">Compras</a></li>
-                <li><a href="checkout.php">Pagamento</a></li>
-                <li><a href="roupinha.php">Promoções</a></li>
                 <li><a href="minhaconta.php">Minha Conta</a></li>
-                <li><a href="entrar_cadastrar.php">Entrar / Cadastrar</a></li>
                 <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="restrita.php">Entrar / Cadastrar</a></li>
                 
             </ul>
         </nav>
@@ -191,10 +189,7 @@
         <p>Encontre as melhores roupas e sapatos esportivos aqui!</p>
 >>>>>>> Alessandro
     </div>
-=======
->>>>>>> Alessandro
 
-<<<<<<< HEAD
     <!-- Seção de destaque de produtos -->
     <div class="featured-products">
         <div class="product">
@@ -213,47 +208,30 @@
     </div>
     
     
-=======
->>>>>>> main
 
-    <div class="login-container">
-        <h2>Login de Usuário</h2>
-        
-        <!-- Espaço para foto do perfil -->
-        <div class="profile-picture">
-            <img src="chat/simpsons3.png" alt="Foto de perfil">
+    
+<footer>
+    <div class="footer-content">
+        <div class="footer-section about">
+            <h2>Sobre Nós</h2>
+            <p>Somos uma loja dedicada a fornecer os melhores produtos esportivos para atletas e entusiastas do esporte. Nossos produtos são selecionados cuidadosamente para garantir qualidade e desempenho.</p>
         </div>
-
-        <!-- Formulário de login -->
-        <form action="#" method="post">
-            <label for="email">E-mail:</label>
-            <input class="inputa" type="email" id="email" name="email" required>
-
-            <label for="password">Senha:</label>
-            <input class="inputa" type="password" id="password" name="password" required>
-            <button class="btn btn-primary"><a id="link-button" href="restrita.php">Entrar</a></button>
-        </form>
-        
+        <div class="footer-section social">
+            <h2>Redes Sociais</h2>
+            <a href="#"><i class="fab fa-facebook"></i> Facebook</a>
+            <a href="#"><i class="fab fa-twitter"></i> Twitter</a>
+            <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
+        </div>
+        <div class="footer-section contact">
+            <h2>Contato</h2>
+            <p>Email: contato@lojaesportiva.com</p>
+            <p>Telefone: (123) 456-7890</p>
+        </div>
     </div>
+    <div class="footer-bottom">
+        &copy; 2023 Loja Esportiva | Todos os direitos reservados
+    </div>
+</footer>
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

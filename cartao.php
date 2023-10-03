@@ -75,7 +75,7 @@ $conn->close();
             
 
             <label for="cpf">CPF do Titular:</label>
-            <input class="ldc" type="text" name="cpf" id="cpf" maxlength="14" oninput="formatarCPF()" placeholder="CPF" required> <br><br>
+            <input class="ldc" type="text" name="cpf" id="cpfx " maxlength="14" oninput="formatarCPF()" placeholder="CPF" required> <br><br>
 
             <label for="bandeira">Bandeira:</label>
             <select id="bandeira" name="bandeira" required>

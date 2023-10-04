@@ -7,10 +7,16 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   <link rel="stylesheet" href="CSS\index.css">
   <title></title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" type="text/css" href="css2/footer.css">
+  <link rel="stylesheet" type="text/css" href="css2/fonts-icones.css">
+  <link rel="shortcut icon" href="https://www.loopnerd.com.br/img/favicon.png" type="image/ico" />
 </head>
 <body>
   <?php
-  include("navbar.php")
+  include("navbar.php");
   ?>
    <br>
    <br>
@@ -48,10 +54,17 @@
 </div>
 </br><br></br><br></br><br></br>
   
+<<<<<<< HEAD
       <?php
             include ("footer.php")
       ?>
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+=======
+  <?php
+    include ("footer.php");
+  ?>
+
+>>>>>>> 69b3739be0c3efd90ce52e684d15c09a7c9be484
 </body>
 
 </html>

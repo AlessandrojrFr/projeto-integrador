@@ -25,7 +25,7 @@
                         <li><a href="shop.php">Roupas Masculinas</a></li>
                         <li><a href="shop.php">Roupas Femininas</a></li>
                         <li><a href="shop.php">Roupas de Academia</a></li>
-                        <li><a href="shop.php">Chuteiras</a></li>
+                        <li><a href="chuteira.php">Chuteiras</a></li>
                       </ul>
                     </div>
                   </li>

@@ -5,19 +5,65 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/index2.css">
 </head>
 <body>
     
-</body>
-</html>
+
 <?php
 include("navbar.php");
 ?> 
 
+    <style>
+        /* Estilizando o carrossel para cobrir a tela inteira */
+        .carousel-item {
+            height: 100vh;
+            min-height: 350px;
+            background: no-repeat center center scroll;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+        
+        /* Adicionando animação ao navbar */
+        .navbar {
+            transition: all 0.4s;
+        }
+        
+        .navbar.scrolled {
+            background-color: #333;
+        }
+    </style>
 
 
 
-    
+
+<!-- Carrossel -->
+<div id="meuCarrossel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active" style="background-image: url('chat/safadin.png')"></div>
+        <div class="carousel-item" style="background-image: url('chat/safadin.png')"></div>
+        <!-- Outras imagens do carrossel -->
+    </div>
+</div>
+
+<!-- Scripts -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<script>
+    // Adicionar animação ao navbar ao rolar
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 50) {
+            $('.navbar').addClass('scrolled');
+        } else {
+            $('.navbar').removeClass('scrolled');
+        }
+    });
+</script>
+
     <div class="content">
         <h1>Bem-vindo a nossa prévia</h1>
         <p>Oferecemos uma variedade de produtos incríveis ainda melhor para você.</p>
@@ -66,14 +112,6 @@ include("navbar.php");
         <!-- Adicione mais produtos em destaque aqui -->
     </div>
     
-    
-
-    
-
-
-
-
-
 
 
     <!-- Seção de destaque de produtos -->
@@ -94,51 +132,6 @@ include("navbar.php");
         </div>
         <!-- Adicione mais produtos em destaque aqui -->
     </div>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-      
     
 
     <footer>

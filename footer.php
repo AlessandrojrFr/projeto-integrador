@@ -44,9 +44,9 @@
         <div class="colfooter">
            
            <h3 class="titleFooter"> Contato</h3>
-           <p><i class="icon icon-mail"></i> contato@seusite.com.br</p>
-           <p><i class="icon icon-phone"></i> 21 90000-0000</p>
-           <p><i class="icon icon-whatsapp"></i> 21 90000-0000</p>
+           <p><i class="icon icon-mail"></i> Simpsans@gmail.com</p>
+           <p><i class="icon icon-phone"></i> (43) 3472-0001</p>
+           <p><i class="icon icon-whatsapp"></i> (43) 99840-4433</p>
 
         </div><!--Col Footer 2-->
 
@@ -69,7 +69,7 @@
     <div class="main_footer_copy">
         
         <p class="m-b-footer"> Seusite - 2021, todos os direitos reservados.</p> 
-        <p class="by"><i class="icon icon-heart-3"></i> Desenvolvido por: <a href="#" title="Seu nome">Seu nome aqui</a></p>
+        <p class="by"><i class="icon icon-heart-3"></i> Desenvolvido por: <a href="#" title="Seu nome">PROJETO HOMER</a></p>
     
     </div>
 

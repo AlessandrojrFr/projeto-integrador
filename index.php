@@ -5,22 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title></title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
-  <link rel="stylesheet" href="CSS/tkk.css">
- 
 </head>
-<style>
-  .card{
-    transition: transform 0.3s ease;
-  }
-  .card:hover{
-    transform:scale(1.2);
-  }
-
-  h1{
-    margin-top: -50px;
-    margin-left: 60px;
-  }
-</style>
 <body>
 <?php
        include ("navbar.php")
@@ -133,11 +118,9 @@
         <!-- Adicione mais produtos em destaque aqui -->
     </div>
     
-    
-<?php
-      include ("footer.php")
-?>
-     
+  <?php
+        include ("footer.php")
+    ?>
 
 </body>
 </html>

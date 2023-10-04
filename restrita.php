@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Document</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/index2.css">
@@ -14,7 +15,27 @@
 include("navbar.php");
 ?> 
 
- 
+    <style>
+        /* Estilizando o carrossel para cobrir a tela inteira */
+        .carousel-item {
+            height: 100vh;
+            min-height: 350px;
+            background: no-repeat center center scroll;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+        
+        /* Adicionando animação ao navbar */
+        .navbar {
+            transition: all 0.4s;
+        }
+        
+        .navbar.scrolled {
+            background-color: #333;
+        }
+    </style>
 
 
 
@@ -23,11 +44,22 @@ include("navbar.php");
 <div id="meuCarrossel" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active" style="background-image: url('chat/safadin.png')"></div>
-        <div class="carousel-item" style="background-image: url('chat/safadin.png')"></div>
+     
         <!-- Outras imagens do carrossel -->
     </div>
 </div>
 
+
+<script>
+    // Adicionar animação ao navbar ao rolar
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 50) {
+            $('.navbar').addClass('scrolled');
+        } else {
+            $('.navbar').removeClass('scrolled');
+        }
+    });
+</script>
 
     <div class="content">
         <h1>Bem-vindo a nossa prévia</h1>
@@ -94,14 +126,23 @@ include("navbar.php");
             <p>Camiseta da Nike</p>
             <p>Preço: R$129.00</p>
             <button>Adicionar ao Carrinho</button>
+            <a href="metod_pag.php">pagar</a>
         </div>
         <!-- Adicione mais produtos em destaque aqui -->
     </div>
     
 
-    <?php
+    
+</head>
+<body>
+
+
+<?php
 include("footer.php");
 ?> 
-    <script src="css/script.js"></script>
+    
 </body>
+</body>
+</html>
+
 </html>

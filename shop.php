@@ -103,7 +103,7 @@ include("navbar.php");
         <!-- Adicione mais produtos aqui -->
     </div>
     <?php
-include("navbar.php");
+include("footer.phpphp");
 ?> 
 
 /

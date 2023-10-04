@@ -141,28 +141,9 @@ include("navbar.php");
 
 
 
-    <footer>
-    <div class="footer-content">
-        <div class="footer-section about">
-            <h2>Sobre Nós</h2>
-            <p>Somos uma loja dedicada a fornecer os melhores produtos esportivos para atletas e entusiastas do esporte. Nossos produtos são selecionados cuidadosamente para garantir qualidade e desempenho.</p>
-        </div>
-        <div class="footer-section social">
-            <h2>Redes Sociais</h2>
-            <a href="#"><i class="fab fa-facebook"></i> Facebook</a>
-            <a href="#"><i class="fab fa-twitter"></i> Twitter</a>
-            <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
-        </div>
-        <div class="footer-section contact">
-            <h2>Contato</h2>
-            <p>Email: contato@lojaesportiva.com</p>
-            <p>Telefone: (123) 456-7890</p>
-        </div>
-    </div>
-    <div class="footer-bottom">
-        &copy; 2023 Loja Esportiva | Todos os direitos reservados
-    </div>
-</footer>
+    <?php
+include("navbar.php");
+?> 
 
 
 

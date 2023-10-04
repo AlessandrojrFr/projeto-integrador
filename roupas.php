@@ -61,5 +61,8 @@ include("navbar.php");
         <p>Estamos comprometidos em oferecer aos nossos clientes uma ampla variedade de roupas esportivas, calçados e equipamentos esportivos de alta qualidade a preços competitivos.</p>
         <p>Visite nossa loja online para explorar nossa coleção de produtos esportivos e comece sua jornada de atividades físicas hoje mesmo!</p>
     </div>
+    <?php
+include("navbar.php");
+?> 
 </body>
 </html>

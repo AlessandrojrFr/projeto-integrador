@@ -42,10 +42,9 @@ include("navbar.php");
             <h2>Sexta-feira</h2>
             <p>Novidade específica da sexta-feira. Promoções que detém só camisetas térmicas para ambos, homens e mulheres. </p>
         </div>
-    </main>
-    <footer>
-        <p>&copy; 2023 - Sua Loja de Esportes</p>
-    </footer>
+        <?php
+include("navbar.php");
+?> 
 
     
 </body>

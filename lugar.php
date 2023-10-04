@@ -36,10 +36,9 @@ include("navbar.php");
         </div>
     </main>
 
-    <footer>
-        <p>&copy; 2023 - Projeto Homer</p>
-    </footer>
-
+    <?php
+include("navbar.php");
+?> 
     <!-- Scripts JavaScript -->
     <script src="https://maps.googleapis.com/maps/api/js?key=SUA_CHAVE_DA_API_GOOGLE_MAPS&callback=initMap" async defer></script>
     <script src="script.js"></script>

@@ -14,27 +14,7 @@
 include("navbar.php");
 ?> 
 
-    <style>
-        /* Estilizando o carrossel para cobrir a tela inteira */
-        .carousel-item {
-            height: 100vh;
-            min-height: 350px;
-            background: no-repeat center center scroll;
-            -webkit-background-size: cover;
-            -moz-background-size: cover;
-            -o-background-size: cover;
-            background-size: cover;
-        }
-        
-        /* Adicionando animação ao navbar */
-        .navbar {
-            transition: all 0.4s;
-        }
-        
-        .navbar.scrolled {
-            background-color: #333;
-        }
-    </style>
+ 
 
 
 
@@ -48,21 +28,6 @@ include("navbar.php");
     </div>
 </div>
 
-<!-- Scripts -->
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
-<script>
-    // Adicionar animação ao navbar ao rolar
-    $(window).scroll(function() {
-        if ($(this).scrollTop() > 50) {
-            $('.navbar').addClass('scrolled');
-        } else {
-            $('.navbar').removeClass('scrolled');
-        }
-    });
-</script>
 
     <div class="content">
         <h1>Bem-vindo a nossa prévia</h1>
@@ -134,28 +99,9 @@ include("navbar.php");
     </div>
     
 
-    <footer>
-    <div class="footer-content">
-        <div class="footer-section about">
-            <h2>Sobre Nós</h2>
-            <p>Somos uma loja dedicada a fornecer os melhores produtos esportivos para atletas e entusiastas do esporte. Nossos produtos são selecionados cuidadosamente para garantir qualidade e desempenho.</p>
-        </div>
-        <div class="footer-section social">
-            <h2>Redes Sociais</h2>
-            <a href="#"><i class="fab fa-facebook"></i> Facebook</a>
-            <a href="#"><i class="fab fa-twitter"></i> Twitter</a>
-            <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
-        </div>
-        <div class="footer-section contact">
-            <h2>Contato</h2>
-            <p>Email: contato@lojaesportiva.com</p>
-            <p>Telefone: (123) 456-7890</p>
-        </div>
-    </div>
-    <div class="footer-bottom">
-        &copy; 2023 Loja Esportiva | Todos os direitos reservados
-    </div>
-</footer>
+    <?php
+include("footer.php");
+?> 
     <script src="css/script.js"></script>
 </body>
 </html>

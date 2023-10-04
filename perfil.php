@@ -23,10 +23,9 @@ include("navbar.php");
             <button class="btn-edit">Editar Perfil</button>
         </div>
     </main>
-
-    <footer>
-        <p>&copy; 2023 - Sua Empresa</p>
-    </footer>
+    <?php
+include("navbar.php");
+?> 
     
 </body>
 </html>

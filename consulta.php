@@ -88,8 +88,8 @@ include("navbar.php");
 
 
         
-    <footer>
-        <p>&copy; 2023 - Projeto Homer</p>
-    </footer>
+<?php
+include("navbar.php");
+?> 
 </body>
 </html>

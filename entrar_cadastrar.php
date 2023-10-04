@@ -1,3 +1,43 @@
+<?php
+// Conexão com o banco de dados
+$hostname = "localhost";
+$usuario = "matheusbla";
+$senha = "12345678";
+$bancodedados = "banco_pi";
+
+$conn = new mysqli($hostname, $usuario, $senha, $bancodedados);
+
+// Verifique a conexão
+if ($conn->connect_error) {
+    die("Erro na conexão com o banco de dados: " . $conn->connect_error);
+}
+
+
+
+// Verifique se os dados do formulário foram enviados via POST
+if (isset($_POST["nome"])) {
+
+    $nome = $_POST['nome'];
+    $email = $_POST['email'];
+    $datan = $_POST['datan'];
+    $civil = $_POST['civil'];
+    $sexo = $_POST['sexo'];
+    $procurar = $_POST['procurar'];
+    $mensagem = $_POST['mensagem'];
+
+    // Inserir os dados na tabela
+    $sql = "INSERT INTO cadastro (nome, email, datan, civil, sexo,)
+            VALUES ('$nome', '$email', '$datan', '$civil', '$sexo')";
+
+    if ($conn->query($sql) === TRUE) {
+        $mensagem = "Cadastro realizado com sucesso!";
+    } else {
+        $mensagem = "Erro ao cadastrar o cartão: " . $conn->error;
+    }
+}
+$conn->close();
+?>
+
 <!doctype html>
 <html lang="pt-br">
   <head>
@@ -45,7 +85,7 @@
     
     <div class="form_grupo">
         <label for="datanascimento" class="form_label">Data/nascimento</label>
-        <input type="date" name="datanascimento" class="form_input" id="datanascimento" placeholder="Data de Nascimento" required>
+        <input type="date" name="datan" class="form_input" id="datan" placeholder="Data de Nascimento" required>
     </div>        
 
     <div class="form_grupo">

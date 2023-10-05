@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-  <link rel="stylesheet" href="style.css">
   <title></title>
-  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/index.css">
   <link rel="stylesheet" type="text/css" href="css2/footer.css">
   <link rel="stylesheet" type="text/css" href="css2/fonts-icones.css">
   <link rel="shortcut icon" href="https://www.loopnerd.com.br/img/favicon.png" type="image/ico" />
@@ -58,7 +58,7 @@
   <div class="row align-items-center">
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="CARROSEL\carrosel_azul.jpg" class="card-img-top" alt="...">
+  <img src="CARROSEL\carrosel_azul.jpg" class="card-img-top" alt="100">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -68,7 +68,7 @@
     </div>
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="CARROSEL\carrosel_azul2.jpg" class="card-img-top" alt="...">
+  <img src="CARROSEL\carrosel_azul2.jpg" class="card-img-top" alt="100">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -78,7 +78,7 @@
     </div>
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="CARROSEL\carrosel_azul3.jpg" class="card-img-top" alt="...">
+  <img src="CARROSEL\carrosel_azul3.jpg" class="card-img-top" alt="100">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>

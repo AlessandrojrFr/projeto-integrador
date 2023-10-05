@@ -5,30 +5,8 @@ body {
     padding: 0;
 }
 
-/* Estilo do cabeçalho */
-header {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
 
-/* Estilo da barra de navegação */
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
 
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: white;
-}
 
 /* Estilo do conteúdo */
 .content {
@@ -227,13 +205,7 @@ form button:hover {
 
 /* Estilo básico da página (como antes) */
 
-/* Estilo do navbar */
-header {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
+
 
 
 
@@ -276,41 +248,171 @@ footer {
     padding: 10px 0;
 }
 
+.button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Estilos para a cor de fundo quando o dropdown estiver aberto */
+.dropdown.open .dropdown-content {
+    background-color: #ffff00; /* Amarelo */
+    color: #000; /* Preto */
+}
+
+
+
+
+/* Estilize o navbar */
 .navbar {
     background-color: #333;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-    color: white;
+    color: #fff;
+    padding: 10px 0;
 }
 
-.navbar .logo a {
-    text-decoration: none;
-    font-size: 24px;
-    font-weight: bold;
-    color: white;
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Estilize o navbar */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
 }
 
-.nav-links {
+>>>>>>> Talarico
+.navbar ul {
     list-style-type: none;
-    margin: 0;
     padding: 0;
+    margin: 0;
 }
 
-.nav-links li {
+.navbar li {
     display: inline;
     margin-right: 20px;
+    position: relative;
 }
 
-.nav-links a {
+.navbar a {
     text-decoration: none;
-    color: white;
+    color: #fff;
     font-weight: bold;
-    font-size: 16px;
 }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Talarico
+/* Estilize o dropdown */
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    z-index: 1;
+    list-style-type: none;
+    padding: 0;
+    top: 100%;
+    left: 0;
+}
+
+.dropdown-menu li {
+    margin: 0;
+}
+
+.dropdown-toggle:hover .dropdown-menu {
+    display: block;
+<<<<<<< HEAD
+=======
 /* Estilo do hover dos links */
 .nav-links a:hover {
     color: #f2f2f2;
+>>>>>>> Leticia
 }
+=======
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> Talarico

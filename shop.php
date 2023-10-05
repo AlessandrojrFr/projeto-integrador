@@ -8,35 +8,24 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="restrita.php">Início</a></li>
-                <li><a href="shop.php">Compras</a></li>
-                <li><a href="roupinha.php">Promoções</a></li>
-                <li><a href="sobrenos.php">Sobre Nós</a></li>
-                <li><a href="minhaconta.php">Minha Conta</a></li>
-                <li><a href="cadastro.php">Cadastro</a></li>
-                <li><a href="restrita.php">Login up</a></li>
-            </ul>
-        </nav>
-    </header>
-    
+<?php
+include("navbar.php");
+?> 
     <div class="content">
         <h1>Roupas à Venda</h1>
 
         <!-- Cards de roupas -->
         <div class="clothing-cards">
             <div class="clothing-card">
-                <img src="imagens_compras/Camisa_1_Juventus_23-24_Preto_IB0491_HM1.avif" alt="Roupa 1">
-                <h2>Roupa 1</h2>
+                <img src="chat/roupa10.png" alt="Roupa 1">
+                <h2>Opção 1</h2>
                 <p>Camiseta Juventus Nike Feminino.</p>
                 <p>Preço: R$80.00</p>
                 <button>Adicionar ao Carrinho</button>
             </div>
             <div class="clothing-card">
-                <img src="imagens_compras/Camisa_1_Manchester_United_23-24_Vermelho_IP1726_HM1.avif" alt="Roupa 2">
-                <h2>Roupa 2</h2>
+                <img src="chat/roupa11.png" alt="Roupa 2">
+                <h2>Opção 2</h2>
                 <p>Camisa Manchester United 2023/24.</p>
                 <p>Preço: R$90.00</p>
                 <button>Adicionar ao Carrinho</button>
@@ -113,35 +102,4 @@
         </div>
         <!-- Adicione mais produtos aqui -->
     </div>
-
-    <div class="cart">
-        <h2>Carrinho de Compras</h2>
-        <ul id="cart-items">
-            <!-- Itens do carrinho aparecerão aqui -->
-        </ul>
-        <p>Total: R$<span id="cart-total">0.00</span></p>
-    </div>
-
-    <script>
-        // Função para adicionar um item ao carrinho
-        function addToCart(productName, price) {
-            var cartItems = document.getElementById('cart-items');
-            var cartTotal = document.getElementById('cart-total');
-
-            // Criar um novo item de carrinho
-            var listItem = document.createElement('li');
-            listItem.textContent = productName + ' - R$' + price.toFixed(2);
-
-            // Adicionar item ao carrinho
-            cartItems.appendChild(listItem);
-
-            // Atualizar o total do carrinho
-            var currentTotal = parseFloat(cartTotal.textContent);
-            currentTotal += price;
-            cartTotal.textContent = currentTotal.toFixed(2);
-        }
-    </script>
-</body>
-</html>
-</body>
-</html>
+   

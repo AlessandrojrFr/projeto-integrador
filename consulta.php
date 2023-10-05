@@ -8,61 +8,88 @@
     <link rel="stylesheet" href="CSS/consulta.css">
 </head>
 <body>
-<header>
-        <nav>
-            <ul>
-                <li><a href="novidades.php">Novidades</a></li>
-                <li><a href="sobrenos.php">Sobre nós</a></li>
-                <li><a href="consulta.php">Horário de consulta</a></li>
-                <li><a href="lugar.php">Onde Estamos</a></li>
-                <li><a href="contato.php">Contato</a></li>
-                <li><a href="minhaconta.php">Minha Conta</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main class="consult">
-        <h1>Agende sua Consulta</h1>
-        <p>Estamos disponíveis para ajudá-lo a encontrar a melhor roupa para você. Agende uma consulta conosco para uma experiência personalizada.</p>
+<?php
+include("navbar.php");
+?> 
+    <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela de Dias da Semana para Trabalho</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
 
-        <section class="consult-info">
-            <h2>Horários de Atendimento</h2>
-            <ul>
-                <li>Segunda-feira: 10:00 - 18:00</li>
-                <li>Terça-feira: 10:00 - 18:00</li>
-                <li>Quarta-feira: 10:00 - 18:00</li>
-                <li>Quinta-feira: 10:00 - 18:00</li>
-                <li>Sexta-feira: 10:00 - 18:00</li>
-                <li>Sábado: 10:00 - 16:00</li>
-                <li>Domingo: Fechado</li>
-            </ul>
-        </section>
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
 
-        <section class="consult-form">
-            <h2>Agende sua Consulta</h2>
-            <p>Preencha o formulário abaixo e entraremos em contato para confirmar a consulta.</p>
-            <form action="#" method="post">
-                <label for="name">Nome:</label>
-                <input type="text" id="name" name="name" required>
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
 
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
+        th {
+            background-color: #f2f2f2;
+        }
 
-                <label for="phone">Telefone:</label>
-                <input type="tel" id="phone" name="phone" required>
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
 
-                <label for="date">Data Preferida:</label>
-                <input type="date" id="date" name="date" required>
+        tr:hover {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tabela de Dias da Semana para Trabalho</h1>
+    <table>
+        <tr>
+            <th>Dia da Semana</th>
+            <th>Trabalhar?</th>
+        </tr>
+        <tr>
+            <td>Segunda-feira</td>
+            <td>08:00 às 18:00</td>
+        </tr>
+        <tr>
+            <td>Terça-feira</td>
+            <td>08:00 às 18:00</td>
+        </tr>
+        <tr>
+            <td>Quarta-feira</td>
+            <td>08:00 às 18:00</td>
+        </tr>
+        <tr>
+            <td>Quinta-feira</td>
+            <td>08:00 às 18:00</td>
+        </tr>
+        <tr>
+            <td>Sexta-feira</td>
+            <td>08:00 às 18:00</td>
+        </tr>
+        <tr>
+            <td>Sábado</td>
+            <td>10:00 às 14:00</td>
+        </tr>
+        <tr>
+            <td>Domingo</td>
+            <td>Fechado</td>
+        </tr>
+    </table>
+</body>
+</html>
 
-                <label for="time">Horário Preferido:</label>
-                <input type="time" id="time" name="time" required>
 
-                <button type="submit">Agendar Consulta</button>
-            </form>
-        </section>
-    </main>
-
+        
     <footer>
-        <p>&copy; 2023 - Sua Empresa</p>
+        <p>&copy; 2023 - Projeto Homer</p>
     </footer>
 </body>
 </html>

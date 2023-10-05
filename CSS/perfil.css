@@ -3,39 +3,13 @@ body {
     margin: 0;
     padding: 0;
 }
-/* Estilo do navbar */
-header {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
 
 
-/* Estilo do cabeÃ§alho */
-header {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
 
-/* Estilo da barra de navegaÃ§ÃĢo */
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
 
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
 
-nav ul li a {
-    text-decoration: none;
-    color: white;
-}
+
+
 
 /* Estilo do conteÃšdo */
 .content {
@@ -127,41 +101,3 @@ nav ul li a {
     background-color: #2980b9;
 }
 
-/* Estilo do rodapÃĐ */
-footer {
-    background-color: #333;
-    color: white;
-    padding: 20px 0;
-    text-align: center;
-}
-
-.footer-content {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.footer-section {
-    flex: 1;
-    padding: 20px;
-}
-
-.footer-section h2 {
-    font-size: 1.2rem;
-    margin-bottom: 10px;
-}
-
-.footer-section a {
-    color: white;
-    text-decoration: none;
-    display: block;
-    margin-bottom: 5px;
-}
-
-/* Estilo do rodapÃĐ inferior */
-.footer-bottom {
-    background-color: #222;
-    padding: 10px 0;
-}

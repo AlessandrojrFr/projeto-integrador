@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu Perfil</title>
-    <link rel="stylesheet" href="CSS/styles.css">
+    <link rel="stylesheet" href="css/deletar.css">
 </head>
 <body>
 <?php
@@ -17,12 +17,12 @@ include("navbar.php");
         
         <div class="action-buttons">
             <button class="btn-danger">Desvincular Conta</button>
-            <a href="perfil.html" class="btn-cancel">Cancelar</a>
+            <a href="perfil.php" class="btn-cancel">Cancelar</a>
         </div>
     </main>
 
     <?php
-include("navbar.php");
+include("footer.php");
 ?> 
 </body>
 </html>

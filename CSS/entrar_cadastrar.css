@@ -208,29 +208,12 @@ h1{
     
 }
 /* Estilo do cabeĆ§alho */
-header {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
+
 
 /* Estilo da barra de navegaĆ§Ć£o */
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
 
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
 
-nav ul li a {
-    text-decoration: none;
-    color: white;
-}
+
 
 /* Estilo do conteĆŗdo */
 .content {

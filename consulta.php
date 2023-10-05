@@ -11,12 +11,8 @@
 <?php
 include("navbar.php");
 ?> 
-    <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabela de Dias da Semana para Trabalho</title>
+
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -47,7 +43,7 @@ include("navbar.php");
         }
     </style>
 </head>
-<body>
+
     <h1>Tabela de Dias da Semana para Trabalho</h1>
     <table>
         <tr>
@@ -83,8 +79,7 @@ include("navbar.php");
             <td>Fechado</td>
         </tr>
     </table>
-</body>
-</html>
+
 
 
         

@@ -19,25 +19,10 @@ a:hover {
   letter-spacing: 4px;
 }
 
-nav {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
-  background: #020064;
-  height: 8vh;
-}
 
 
-.nav-list {
-  list-style: none;
-  display: flex;
-}
 
-.nav-list li {
-  letter-spacing: 3px;
-  margin-left: 32px;
-}
+
 
 .mobile-menu {
   display: none;

@@ -3,14 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bootstrap Navbar e Carrossel</title>
+
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/index2.css">
+</head>
+<body>
     
-    <!-- Incluindo CSS do Bootstrap -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <?php
+
+<?php
 include("navbar.php");
 ?> 
+
     <style>
         /* Estilizando o carrossel para cobrir a tela inteira */
         .carousel-item {
@@ -32,8 +36,7 @@ include("navbar.php");
             background-color: #333;
         }
     </style>
-</head>
-<body>
+
 
 
 
@@ -41,15 +44,11 @@ include("navbar.php");
 <div id="meuCarrossel" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active" style="background-image: url('chat/safadin.png')"></div>
-        <div class="carousel-item" style="background-image: url('chat/safadin.png')"></div>
+     
         <!-- Outras imagens do carrossel -->
     </div>
 </div>
 
-<!-- Scripts -->
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 <script>
     // Adicionar animação ao navbar ao rolar
@@ -61,7 +60,8 @@ include("navbar.php");
         }
     });
 </script>
-<div class="content">
+
+    <div class="content">
         <h1>Bem-vindo a nossa prévia</h1>
         <p>Oferecemos uma variedade de produtos incríveis ainda melhor para você.</p>
     </div>
@@ -109,14 +109,6 @@ include("navbar.php");
         <!-- Adicione mais produtos em destaque aqui -->
     </div>
     
-    
-
-    
-
-
-
-
-
 
 
     <!-- Seção de destaque de produtos -->
@@ -134,24 +126,23 @@ include("navbar.php");
             <p>Camiseta da Nike</p>
             <p>Preço: R$129.00</p>
             <button>Adicionar ao Carrinho</button>
+            <a href="metod_pag.php">pagar</a>
         </div>
         <!-- Adicione mais produtos em destaque aqui -->
     </div>
     
 
+    
+</head>
+<body>
 
 
-    <?php
-include("navbar.php");
+<?php
+include("footer.php");
 ?> 
-
-
-
-
-
+    
+</body>
 </body>
 </html>
 
-
-
-
+</html>

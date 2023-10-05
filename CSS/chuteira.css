@@ -5,12 +5,7 @@ body {
     background-color: #f0f0f0;
 }
 
-header {
-    text-align: center;
-    background-color: #333;
-    color: #fff;
-    padding: 1rem;
-}
+
 
 h1 {
     margin: 0;
@@ -60,44 +55,6 @@ main {
 }
 
 
-/* Estilo do rodapé */
-footer {
-    background-color: #333;
-    color: white;
-    padding: 20px 0;
-    text-align: center;
-}
-
-.footer-content {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.footer-section {
-    flex: 1;
-    padding: 20px;
-}
-
-.footer-section h2 {
-    font-size: 1.2rem;
-    margin-bottom: 10px;
-}
-
-.footer-section a {
-    color: white;
-    text-decoration: none;
-    display: block;
-    margin-bottom: 5px;
-}
-
-/* Estilo do rodapé inferior */
-.footer-bottom {
-    background-color: #222;
-    padding: 10px 0;
-}
 
 .button {
     background-color: #333;

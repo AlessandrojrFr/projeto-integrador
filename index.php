@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bootstrap Navbar e Carrossel</title>
     <link rel="stylesheet" href="css/index2.css">
+</head>
+<body>
+        
+    
     
     <!-- Incluindo CSS do Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
@@ -32,8 +36,8 @@ include("navbar.php");
             background-color: #333;
         }
     </style>
-</head>
-<body>
+
+
 
 
 
@@ -81,7 +85,7 @@ include("navbar.php");
             <iframe width="414" height="230" src="https://www.youtube.com/embed/0Y56CvUOIEQ?si=BbAmDZYolzT6ArL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <div class="card-body">
                     <h5 class="card-title">Propaganda Da Nike</h5>
-                    <p class="card-text">FIFA World Cup™ 2022. Apresentado por DOCTOR ROUSSEAU e PROFESSOR MACHADO, estrelado por CRISTIANO RONALDO, KYLIAN MBAPPÉ, RONALDO, RONALDINHO, ALEX MORGAN, VIRGIL VAN DIJK, SAM KERR, KEVIN DE BRUYNE, LEAH WILLIAMSON, PHIL FODEN, SHANE KLUIVERT e EDGAR DAVIDS.</p>
+                    <p class="card-text">FIFA World Cup™ 2022. Apresentado por DOCTOR ROUSSEAU e PROFESSOR MACHADO, estrelado por CRISTIANO RONALDO, KYLIAN MBAPPÉ, RONALDO, RONALDINHO, ALEX MORGAN, VIRGIL VAN DIJK, KEVIN DE BRUYNE, LEAH WILLIAMSON, PHIL FODEN, e EDGAR DAVIDS.</p>
                     <a href="#" class="btn btn-primary">Ver mais</a>
                 </div>
             </div>
@@ -209,6 +213,38 @@ include("navbar.php");
         <!-- Adicione mais produtos em destaque aqui -->
     </div>
     
+
+
+<style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #ddd;
+        }
+    </style>
+
 <!-- Carrossel -->
 <div id="meuCarrossel" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
@@ -220,11 +256,43 @@ include("navbar.php");
 
 
 
-
-
-
-
-
+    <h1>Tabela de Dias da Semana para Trabalho</h1>
+    <table>
+        <tr>
+            <th>Dia da Semana</th>
+            <th>Trabalhar?</th>
+        </tr>
+        <tr>
+            <td>Segunda-feira</td>
+            <td>08:00 às 18:00</td>
+        </tr>
+        <tr>
+            <td>Terça-feira</td>
+            <td>08:00 às 18:00</td>
+        </tr>
+        <tr>
+            <td>Quarta-feira</td>
+            <td>08:00 às 18:00</td>
+        </tr>
+        <tr>
+            <td>Quinta-feira</td>
+            <td>08:00 às 18:00</td>
+        </tr>
+        <tr>
+            <td>Sexta-feira</td>
+            <td>08:00 às 18:00</td>
+        </tr>
+        <tr>
+            <td>Sábado</td>
+            <td>10:00 às 14:00</td>
+        </tr>
+        <tr>
+            <td>Domingo</td>
+            <td>Fechado</td>
+        </tr>
+    </table>
+    </div>
+    
 </body>
 </html>
 

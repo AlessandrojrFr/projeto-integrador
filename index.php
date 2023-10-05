@@ -72,6 +72,66 @@ include("navbar.php");
         <p>Cadastra-se para obter informações ainda melhores sobre nós!</p>
     </div>
 
+
+
+    <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reportagens de Futebol</title>
+    <link rel="stylesheet" href="seu-estilo.css"> <!-- Link para o seu CSS personalizado -->
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <!-- Primeiro Card -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="imagem-1.jpg" class="card-img-top" alt="Reportagem 1">
+                <div class="card-body">
+                    <h5 class="card-title">Reportagem 1</h5>
+                    <p class="card-text">Texto da reportagem 1. Aqui você pode adicionar uma breve descrição da reportagem.</p>
+                    <a href="#" class="btn btn-primary">Ver mais</a>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Segundo Card -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="imagem-2.jpg" class="card-img-top" alt="Reportagem 2">
+                <div class="card-body">
+                    <h5 class="card-title">Reportagem 2</h5>
+                    <p class="card-text">Texto da reportagem 2. Aqui você pode adicionar uma breve descrição da reportagem.</p>
+                    <a href="#" class="btn btn-primary">Ver mais</a>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Terceiro Card -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="imagem-3.jpg" class="card-img-top" alt="Reportagem 3">
+                <div class="card-body">
+                    <h5 class="card-title">Reportagem 3</h5>
+                    <p class="card-text">Texto da reportagem 3. Aqui você pode adicionar uma breve descrição da reportagem.</p>
+                    <a href="#" class="btn btn-primary">Ver mais</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
     <!-- Seção de destaque de produtos -->
     <div class="featured-products">
         <div class="product">

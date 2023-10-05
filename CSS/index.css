@@ -1,9 +1,10 @@
 .borda {
     border-top: 20px;
-    background-color: #020064;
+    background-color: #0300c4;
+    color: #0300c4;
     border: solid;
 }
 
 .card {
-    background-color: black;
+    background-color: #020064;
 }

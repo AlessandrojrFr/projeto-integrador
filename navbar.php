@@ -1,5 +1,5 @@
 <nav>
-  <img src="homer\logohomer3.png" alt=""><a class="logo" href="/">Sobre nós</a>
+  <img src="homer\logo_original22lll.png" alt=""><a class="logo" href="/">Sobre nós</a>
   <div class="mobile-menu">
     <div class="line1"></div>
     <div class="line2"></div>

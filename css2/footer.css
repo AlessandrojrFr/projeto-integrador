@@ -47,7 +47,7 @@
 .colfooter ul li a i { font-size:0.5em; }
 .colfooter ul li a:hover { text-decoration:underline; }
 
-.colfooter .titleFooter   { 
+.colfooter { 
 
 	font-family:'open_sansregular'; 
 	font-size:1.3em; 
@@ -55,6 +55,16 @@
 	padding-bottom: 0.5em; 
 	margin-bottom:0.5em; 
 	border-bottom:1px #0300c4 solid;
+}
+
+.titleFooter {
+  font-family:'open_sansregular'; 
+	font-size:1.3em; 
+	color:#ffffff; 
+	padding-bottom: 0.5em; 
+	margin-bottom:0.5em; 
+	border-bottom:1px #0300c4 solid;
+
 }
 
 .colfooter p  { font-family:'open_sanslight'; color:#ffffff; font-size:1em; height:25px; } 

@@ -1,18 +1,8 @@
- <footer class="main_footer container">
+ <footer class="main_footer sazon">
 
-<<<<<<< HEAD
  <head>
-	<link rel="stylesheet" type="text/css" href="css2/reset.css">
-	<link rel="stylesheet" type="text/css" href="css2/footer.css">
-    <link rel="stylesheet" type="text/css" href="css2/fonts-icones.css">
-    
-=======
-     <div class="content">
 
-         <div class="colfooter">
->>>>>>> 69b3739be0c3efd90ce52e684d15c09a7c9be484
-
-             <h3 class="titleFooter"> Menu</h3>
+             <div class="titleFooter"> Menu</h3>
 
              <ul>
 

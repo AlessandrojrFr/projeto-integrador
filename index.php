@@ -73,26 +73,15 @@ include("navbar.php");
     </div>
 
 
-
-    <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reportagens de Futebol</title>
-    <link rel="stylesheet" href="seu-estilo.css"> <!-- Link para o seu CSS personalizado -->
-</head>
-<body>
-
 <div class="container">
     <div class="row">
         <!-- Primeiro Card -->
         <div class="col-md-4">
             <div class="card">
-                <img src="imagem-1.jpg" class="card-img-top" alt="Reportagem 1">
+            <iframe width="414" height="230" src="https://www.youtube.com/embed/0Y56CvUOIEQ?si=BbAmDZYolzT6ArL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <div class="card-body">
-                    <h5 class="card-title">Reportagem 1</h5>
-                    <p class="card-text">Texto da reportagem 1. Aqui você pode adicionar uma breve descrição da reportagem.</p>
+                    <h5 class="card-title">Propaganda Da Nike</h5>
+                    <p class="card-text">FIFA World Cup™ 2022. Apresentado por DOCTOR ROUSSEAU e PROFESSOR MACHADO, estrelado por CRISTIANO RONALDO, KYLIAN MBAPPÉ, RONALDO, RONALDINHO, ALEX MORGAN, VIRGIL VAN DIJK, SAM KERR, KEVIN DE BRUYNE, LEAH WILLIAMSON, PHIL FODEN, SHANE KLUIVERT e EDGAR DAVIDS.</p>
                     <a href="#" class="btn btn-primary">Ver mais</a>
                 </div>
             </div>
@@ -101,10 +90,10 @@ include("navbar.php");
         <!-- Segundo Card -->
         <div class="col-md-4">
             <div class="card">
-                <img src="imagem-2.jpg" class="card-img-top" alt="Reportagem 2">
+            <iframe width="414" height="230" src="https://www.youtube.com/embed/uJWYKhu3MzA?si=_Wxv5E-XpAb_TX25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <div class="card-body">
-                    <h5 class="card-title">Reportagem 2</h5>
-                    <p class="card-text">Texto da reportagem 2. Aqui você pode adicionar uma breve descrição da reportagem.</p>
+                    <h5 class="card-title">Analisando a nova chuteira da Umbro</h5>
+                    <p class="card-text">Tecnologia BUMP na palmilha e entressola para amortecimento e retorno de energia - Cabedal (assimétrico) construído em couro natural com costura posicionada - Biqueira de reforço em camurça na área frontal - Mesh fusionado com laminado para respirabilidade.</p>
                     <a href="#" class="btn btn-primary">Ver mais</a>
                 </div>
             </div>
@@ -113,10 +102,10 @@ include("navbar.php");
         <!-- Terceiro Card -->
         <div class="col-md-4">
             <div class="card">
-                <img src="imagem-3.jpg" class="card-img-top" alt="Reportagem 3">
+            <iframe width="414" height="230" src="https://www.youtube.com/embed/TFcyONigr_0?si=hzi3iGzx2OQkPjRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <div class="card-body">
-                    <h5 class="card-title">Reportagem 3</h5>
-                    <p class="card-text">Texto da reportagem 3. Aqui você pode adicionar uma breve descrição da reportagem.</p>
+                    <h5 class="card-title">Roupa sintética e Dryfit.</h5>
+                    <p class="card-text">Descubra o conforto e o desempenho incomparáveis de nossas camisetas esportivas sintéticas. Feitas com materiais de alta qualidade, essas camisetas oferecem respirabilidade excepcional e controle de umidade, mantendo você fresco e seco durante todo o seu treino.</p>
                     <a href="#" class="btn btn-primary">Ver mais</a>
                 </div>
             </div>
@@ -124,8 +113,7 @@ include("navbar.php");
     </div>
 </div>
 
-</body>
-</html>
+
 
 
 
@@ -221,12 +209,17 @@ include("navbar.php");
         <!-- Adicione mais produtos em destaque aqui -->
     </div>
     
+<!-- Carrossel -->
+<div id="meuCarrossel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active" style="background-image: url('chat/timao.png')"></div>
+        <div class="carousel-item" style="background-image: url('chat/imagem.png')"></div>
+        <!-- Outras imagens do carrossel -->
+    </div>
+</div>
 
 
 
-    <?php
-include("navbar.php");
-?> 
 
 
 
